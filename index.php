@@ -460,7 +460,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Referanslar</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">İnsanlar ne Demiş?</h4>
+                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Yorumlar</h4>
                 </div>
             </div>
         </div>
@@ -509,7 +509,7 @@
                             <p class="playfont">"Ofis/mekan tasarımı ve proje tasarımında gerçekten çok başarılılar. Kafamızdaki birçok soru işaretlerini kaldırıp, konsept mekan tasarladılar. Uygulama ve proje tasarımı yaptırmak istiyorsanız kesinlikle tavsiye edeceğim, kaliteli ve güvenilir bir mimarlık ofisi."</p>
                         </div>
                         <div class="info">
-                            <div class="author" style='background-color:white;'>
+                            <div class="author" >
                                 <img src="img/clients/brands/hotelistan.png" alt="" style="object-fit: contain">
                             </div>
                             <h6>Ali Atakan,<span>Hotelistan Ofis/Arpanu Medical/(Kurucu & CEO)</span></h6>
