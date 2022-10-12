@@ -29,16 +29,18 @@
                     </div>
                 </div>
                 <!-- gallery -->
-                <div class="gallery twsty inf-lit full-width">
+                <!-- NOTE: delete class inf-lit from this div to stop hover effect -->
+                <div class="gallery twsty full-width">
+
                     <!-- gallery item -->
-                    <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
+                    <div style='position: relative;' class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
                         <div class="item-img bg-img " data-background="img/portfolio/mas/1.webp" >
                             <a href="javascript:;" >
                                 <div class="item-img-overlay"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Nova Crystal Hotel</h5>
+                            <h5 style=''>Nova Crystal Hotel</h5>
                             <span>Otel</span>
                         </div>
                     </div>
@@ -51,7 +53,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Arpanu Medical Ofis</h5>
+                            <h5 style=''>Arpanu Medical Ofis</h5>
                             <span>Ofis</span>
                         </div>
                     </div>
@@ -63,7 +65,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Temenye Konakları</h5>
+                            <h5 style=''>Temenye Konakları</h5>
                             <span>Architecture</span>
                         </div>
                     </div>
@@ -75,7 +77,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Nova Crystal Hotel <br> Yemek Alanı</h5>
+                            <h5 style=''>Nova Crystal Hotel <br> Yemek Alanı</h5>
                             <span>Otel</span>
                         </div>
                     </div>
@@ -87,7 +89,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Pişi Pişi <br> Kahvaltı Salonu</h5>
+                            <h5 style=''>Pişi Pişi <br> Kahvaltı Salonu</h5>
                             <span>Restauramt</span>
                         </div>
                     </div>
@@ -99,7 +101,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5> Dentfix Diş Kliniği</h5>
+                            <h5 style=''> Dentfix Diş Kliniği</h5>
                             <span>Klinik</span>
                         </div>
                     </div>
@@ -111,7 +113,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Fantastic interior</h5>
+                            <h5 style=''>City Hotel</h5>
                             <span>Interior Design</span>
                         </div>
                     </div>
@@ -123,7 +125,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Nova Dental Lab</h5>
+                            <h5 style=''>Nova Dental Laboratory</h5>
                             <span>Ofis</span>
                         </div>
                     </div>
@@ -135,7 +137,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Luxury Villa</h5>
+                            <h5 style=''>Luxury Villa</h5>
                             <span>Architecture</span>
                         </div>
                     </div>
@@ -147,7 +149,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Mam Event Management</h5>
+                            <h5 style=''>Mam Event Management</h5>
                             <span>Ofis</span>
                         </div>
                     </div>
@@ -159,7 +161,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Luxury Villa</h5>
+                            <h5 style=''>Luxury Villa</h5>
                             <span>Architecture</span>
                         </div>
                     </div>
@@ -171,7 +173,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Güzide Restaurant</h5>
+                            <h5 style=''>Güzide Restaurant</h5>
                             <span>Restaurant</span>
                         </div>
                     </div>

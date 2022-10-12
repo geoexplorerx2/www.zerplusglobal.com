@@ -84,7 +84,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                     <p>ZER+ olarak hayal edilen mimari projeleri sizler için yaşanılır gerçekliğe dönüştürüyoruz.</p>
                     <div class="social-icon">
                         <a href="javascript:;"><i class="fab fa-behance"></i></a>
-                        <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>

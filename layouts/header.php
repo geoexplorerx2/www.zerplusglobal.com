@@ -49,7 +49,7 @@
 
 <nav class="navbar change navbar-expand-lg">
     <div class="container">
-        <a class="logo" href="#">
+        <a class="logo" href="index.php">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
                  width="1353.000000pt" height="148.000000pt" viewBox="0 0 1353.000000 148.000000"
                  preserveAspectRatio="xMidYMid meet">
@@ -152,7 +152,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
             </ul>
             <div class="social-icon">
-                <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
                 <!--                    <a href="#0"><i class="fab fa-behance"></i></a>-->
             </div>
         </div>
