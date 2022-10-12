@@ -146,7 +146,7 @@ $(function () {
     const sliderNext = document.getElementById("js-cta-slider-next");
     const sliderPrevious = document.getElementById("js-cta-slider-previous");
 
-    const interleaveOffset = 0.75;
+    const interleaveOffset = 5.75;
 
     const swiper = new Swiper(slider, {
     loop: true,

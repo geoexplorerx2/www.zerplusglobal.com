@@ -14,7 +14,7 @@
                                     <span class="top-corn"></span>
                                     <span class="bottom-corn"></span>
                                     <div class="custom-font">
-                                        <h5 class="thin custom-font">işlevsel</h5>
+                                        <!-- <h5 class="thin custom-font">işlevsel</h5> -->
                                         <h1 data-splitting><a href="javascript:;">
                                                 İşlevsel Çözümler
                                             </a></h1>
@@ -44,7 +44,7 @@
                                     <span class="top-corn"></span>
                                     <span class="bottom-corn"></span>
                                     <div class="custom-font">
-                                        <h5 class="thin custom-font">Etkili</h5>
+                                        <!-- <h5 class="thin custom-font">Etkili</h5> -->
                                         <h1 data-splitting><a href="javascript:;">Etkili Tasarım</a></h1>
                                     </div>
                                     <p>Özgün tasarımlarımızla yaşayan, <br> çarpıcı ve şık yaşamsal alanlar yaratıyoruz.
@@ -70,7 +70,7 @@
                                     <span class="top-corn"></span>
                                     <span class="bottom-corn"></span>
                                     <div class="custom-font">
-                                        <h5 class="thin custom-font">Yenilikçi</h5>
+                                        <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
                                         <h1 data-splitting><a href="javascript:;">
                                                 Yenilikçi Yaklaşım
                                             </a>
@@ -101,11 +101,11 @@
 </header>
 <!-- ==================== End Slider ==================== -->
 <!-- ==================== Start Services ==================== -->
-<section class="services">
+<section class="services d-flex justify-content-center">
     <div class="feat-top">
         <div class="notfull bg-gray wow"></div>
         <div class="container-fluid">
-            <div class="row">
+            <div class="row ">
                 <div class="col-lg-3">
                     <div class="item-sm wow fadeInUp" data-wow-delay="1s">
                         <div class="box">
@@ -159,9 +159,9 @@
                         <li>İç Dizayn</li>
                         <li>Mobilya</li>
                     </ul>
-                    <a href="about.html" class="btn-curve btn-color mt-30">
+                    <!-- <a href="about.html" class="btn-curve btn-color mt-30">
                         <span>Daha Fazla Oku</span>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-lg-6">
@@ -466,7 +466,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Referanslar</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">What People Says?</h4>
+                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">İnsanlar ne Demiş?</h4>
                 </div>
             </div>
         </div>
@@ -515,8 +515,8 @@
                             <p class="playfont">"Ofis/mekan tasarımı ve proje tasarımında gerçekten çok başarılılar. Kafamızdaki birçok soru işaretlerini kaldırıp, konsept mekan tasarladılar. Uygulama ve proje tasarımı yaptırmak istiyorsanız kesinlikle tavsiye edeceğim, kaliteli ve güvenilir bir mimarlık ofisi."</p>
                         </div>
                         <div class="info">
-                            <div class="author">
-                                <img src="img/clients/brands/hotelistan.svg" alt="" style="object-fit: contain">
+                            <div class="author" style='background-color:white;'>
+                                <img src="img/clients/brands/hotelistan.png" alt="" style="object-fit: contain">
                             </div>
                             <h6>Ali Atakan,<span>Hotelistan Ofis/Arpanu Medical/(Kurucu & CEO)</span></h6>
                         </div>

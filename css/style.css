@@ -2210,16 +2210,15 @@ body {
   position: relative; }
   .portfolio .gallery.inf-lit .items:hover .info {
     opacity: 1;
-    -webkit-transform: translate(0) skew(0);
-    -ms-transform: translate(0) skew(0);
-    transform: translate(0) skew(0);
+    -webkit-transform: translate(30) skew(0);
+    -ms-transform: translate(30) skew(0);
+    transform: translate(30) skew(0);
     -webkit-transition: all .4s;
     -o-transition: all .4s;
     transition: all .4s; }
-  .portfolio .gallery.inf-lit .items .info {
+  .portfolio .gallery .items .info {
     background: #fff;
-    position: absolute;
-    bottom: 0;
+    /* bottom: 0;
     left: 15px;
     width: 90%;
     padding: 15px;
@@ -2229,13 +2228,23 @@ body {
     opacity: 0;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
-    transition: all .3s; }
-    .portfolio .gallery.inf-lit .items .info h5 {
+    transition: all .3s;  */
+    position:absolute; 
+    bottom: 0; 
+    left:3; 
+    margin: auto; 
+    border-top-right-radius: 10px;
+  }
+    .portfolio .gallery .items .info h5 {
       font-weight: 600;
-      text-transform: capitalize; }
-    .portfolio .gallery.inf-lit .items .info span {
       text-transform: capitalize;
-      letter-spacing: 1px; }
+      font-size: 0.875em !important;
+     }
+    .portfolio .gallery .items .info span {
+      text-transform: capitalize;
+      letter-spacing: 1px; 
+      font-size: 0.675em !important;
+    }
 
 .portfolio.full-bg {
   position: relative; }
