@@ -12,12 +12,10 @@
             </div>
         </div>
     </header>
-    <!-- ==================== End Slider ==================== -->
-    <!-- ==================== Start works ==================== -->
+
     <section class="portfolio section-padding">
         <div class="container">
             <div class="row">
-                <!-- filter links -->
                 <div class="filtering text-center col-12">
                     <div class="filter box">
                         <span data-filter='*' class="active">Hepsi</span>
@@ -28,11 +26,8 @@
                         <span data-filter='.permit'>Ruhsat</span>
                     </div>
                 </div>
-                <!-- gallery -->
-                <!-- NOTE: delete class inf-lit from this div to stop hover effect -->
-                <div class="gallery twsty full-width">
 
-                    <!-- gallery item -->
+                <div class="gallery twsty full-width">
                     <div style='position: relative;' class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
                         <div class="item-img bg-img " data-background="img/portfolio/mas/1.webp" >
                             <a href="javascript:;" >
@@ -45,7 +40,6 @@
                         </div>
                     </div>
 
-                    <!-- gallery item -->
                     <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/hotelistan-1.webp","img/portfolio/projects/hotelistan-2.webp","img/portfolio/projects/hotelistan-3.webp","img/portfolio/projects/hotelistan-4.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/2.webp">
                             <a href="javascript:;">
@@ -57,7 +51,7 @@
                             <span>Ofis</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items house three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/temenye1-1.webp","img/portfolio/projects/temenye1-2.webp","img/portfolio/projects/temenye1-3.webp","img/portfolio/projects/temenye1-4.webp","img/portfolio/projects/temenye1-5.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/3.webp" >
                             <a href="javascript:;">
@@ -69,7 +63,7 @@
                             <span>Architecture</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/crystalfood-1.webp","img/portfolio/projects/crystalfood-2.webp","img/portfolio/projects/crystalfood-3.webp","img/portfolio/projects/crystalfood-4.webp"]' >
                         <div class="item-img bg-img" data-background="img/portfolio/mas/4.webp">
                             <a href="javascript:;">
@@ -81,7 +75,7 @@
                             <span>Otel</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/pisi-1.webp","img/portfolio/projects/pisi-2.webp","img/portfolio/projects/pisi-3.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/5.webp">
                             <a href="javascript:;">
@@ -93,7 +87,7 @@
                             <span>Restauramt</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/dentfix-1.webp","img/portfolio/projects/dentfix-2.webp","img/portfolio/projects/dentfix-3.webp","img/portfolio/projects/dentfix-4.webp","img/portfolio/projects/dentfix-5.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/6.webp">
                             <a href="javascript:;">
@@ -105,7 +99,7 @@
                             <span>Klinik</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/project-1.webp","img/portfolio/projects/project-2.webp","img/portfolio/projects/project-3.webp","img/portfolio/projects/project-4.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/7.webp">
                             <a href="javascript:;">
@@ -117,7 +111,7 @@
                             <span>Interior Design</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/nova-1.webp","img/portfolio/projects/nova-2.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/8.webp">
                             <a href="javascript:;">
@@ -129,7 +123,7 @@
                             <span>Ofis</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items residential three-column mt-50 fancyGallery">
                         <div class="item-img bg-img" data-background="img/portfolio/mas/9.webp">
                             <a href="javascript:;">
@@ -141,7 +135,7 @@
                             <span>Architecture</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items office theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/mam-1.webp","img/portfolio/projects/mam-2.webp","img/portfolio/projects/mam-3.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/10.webp">
                             <a href="javascript:;">
@@ -153,7 +147,7 @@
                             <span>Ofis</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items residential three-column mt-50 fancyGallery">
                         <div class="item-img bg-img" data-background="img/portfolio/mas/11.webp">
                             <a href="javascript:;">
@@ -165,7 +159,7 @@
                             <span>Architecture</span>
                         </div>
                     </div>
-                    <!-- gallery item -->
+
                     <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/guzide-1.webp","img/portfolio/projects/guzide-2.webp","img/portfolio/projects/guzide-3.webp","img/portfolio/projects/guzide-4.webp","img/portfolio/projects/guzide-5.webp","img/portfolio/projects/guzide-6.webp","img/portfolio/projects/guzide-7.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/12.webp">
                             <a href="javascript:;">

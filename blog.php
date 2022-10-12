@@ -14,10 +14,6 @@
         </div>
     </header>
 
-    <!-- ==================== End Header ==================== -->
-
-    <!-- ==================== Start Blog ==================== -->
-
     <section class="blog-pg section-padding">
         <div class="container">
             <div class="row">
@@ -186,4 +182,5 @@
             </div>
         </div>
     </section>
+
 <?php include('layouts/footer.php'); ?>

@@ -1,51 +1,41 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="tr-TR">
 <head>
-    <!-- Metas -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-    <meta name="keywords" content="HTML5 Template Archo onepage themeforest"/>
-    <meta name="description" content="Archo - Onepage Multi-Purpose HTML5 Template"/>
-    <meta name="author" content=""/>
-
-    <!-- Title  -->
+    <meta name="keywords" content="Mimarlık"/>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <meta property="og:locale" content="tr_TR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Zer+ Architects" />
+	<meta property="og:description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren iç mekânlara dönüştürüyoruz." />
+	<meta property="og:url" content="https://zerplusglobal.com/" />
+	<meta property="og:site_name" content="Zer+ Architects" />
+    <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren iç mekânlara dönüştürüyoruz."/>
+    <link rel="alternate" hreflang="tr" href="https://zerplusglobal.com/">
     <title>Zer+ Architects</title>
-
-    <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico"/>
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
-          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
-    <!-- Plugins -->
     <link rel="stylesheet" href="css/plugins.css"/>
-    <!-- Core Style Css -->
     <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
-<!-- ==================== Start Loading ==================== -->
 <div id="preloader">
     <div class="loading-text">Yükleniyor..</div>
 </div>
-<!-- ==================== End Loading ==================== -->
-<!-- ==================== Start progress-scroll-button ==================== -->
 
 <div class="progress-wrap cursor-pointer">
     <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
     </svg>
 </div>
-<!-- ==================== End progress-scroll-button ==================== -->
-<!-- ==================== Start cursor ==================== -->
+
 <div class="mouse-cursor cursor-outer"></div>
 <div class="mouse-cursor cursor-inner"></div>
-<!-- ==================== End cursor ==================== -->
-
-<!-- ==================== Start Navbar ==================== -->
 
 <nav class="navbar change navbar-expand-lg">
     <div class="container">
@@ -134,29 +124,25 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"><i class="fas fa-bars"></i></span>
         </button>
-        <!-- navbar links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Anasayfa</a>
+                    <a class="nav-link" href="/">Anasayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php">Hakkımızda</a>
+                    <a class="nav-link" href="/about">Hakkımızda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="portfolio.php">Portfolyo</a>
+                    <a class="nav-link" href="/portfolio">Portfolyo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php">İletişim</a>
+                    <a class="nav-link" href="/contact">İletişim</a>
                 </li>
 
             </ul>
             <div class="social-icon">
                 <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
-                <!--                    <a href="#0"><i class="fab fa-behance"></i></a>-->
             </div>
         </div>
     </div>
 </nav>
-
-<!-- ==================== End Navbar ==================== -->

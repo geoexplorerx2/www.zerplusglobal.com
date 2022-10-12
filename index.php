@@ -31,9 +31,7 @@
                     </div>
                 </div>
             </div>
-            <!-- SLIDER ITEM -->
 
-            <!-- SLIDER ITEM -->
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
                     <div class="bg-img" data-background="img/slid/slide-2.webp" data-overlay-dark="5"></div>
@@ -58,8 +56,7 @@
                     </div>
                 </div>
             </div>
-            <!-- SLIDER ITEM -->
-            <!-- SLIDER ITEM -->
+
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
                     <div class="bg-img" data-background="img/slid/slide-4.webp" data-overlay-dark="5"></div>
@@ -87,7 +84,6 @@
                     </div>
                 </div>
             </div>
-            <!-- SLIDER ITEM -->
         </div>
         <div class="cta__slider-arrows">
             <i id="js-cta-slider-next" class="cta__slider-arrow cta__slider-arrow--next">
@@ -99,8 +95,7 @@
         </div>
     </div>
 </header>
-<!-- ==================== End Slider ==================== -->
-<!-- ==================== Start Services ==================== -->
+
 <section class="services d-flex justify-content-center">
     <div class="feat-top">
         <div class="notfull bg-gray wow"></div>
@@ -144,8 +139,7 @@
         </div>
     </div>
 </section>
-<!-- ==================== End Services ==================== -->
-<!-- ==================== Start about ==================== -->
+
 <section class="about section-padding">
     <div class="container">
         <div class="row">
@@ -195,7 +189,7 @@
         </div>
     </div>
 </section>
-<!-- ==================== End about ==================== -->
+
 <section class="portfolio full-bg full-video d-md-block d-none">
     <div class="container-fluid">
         <div class="row">

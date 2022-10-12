@@ -1,52 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Archo
-    Theme URI: http://
-    Description: Architecture & Interior Design HTML Template
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-/* ----------------------------------------------------------------
-
-== Table Of Content
-
-    |--- BASE
-
-        |- typography
-        |- helper classes
-
-    |--- SHORTCODES
-
-        |- extra
-        |- overlay
-        |- section-heading
-        |- buttons
-        |- navbar
-        |- sliders
-        |- intro
-        |- feature-box
-        |- clients
-        |- counter
-        |- portfolio
-        |- process
-        |- progress-bar
-        |- tabs
-        |- team
-        |- testimonials
-        |- blog
-        |- contact-form
-        |- footers
-
-    |--- BASE
-
-        |- responsive
-	
-
-
----------------------------------------------------------------- */
-/* ====================== [ Start Typography  ] ====================== */
 * {
   margin: 0;
   padding: 0;
@@ -3559,11 +3510,10 @@ body {
     margin-top: 50px;
     border-top: 1px solid rgba(255, 255, 255, 0.02); }
     .main-footer .sub-footer p {
-      font-size: 13px; }
+      font-size: 13px;
+    color: #fff }
     .main-footer .logo svg {width: 200px }
 
-/* ====================== [ End Footer ] ====================== */
-/* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 991px) {
   .about.pages-header {background-position: center!important;}
 
@@ -3752,7 +3702,7 @@ body {
     text-align: center !important; } }
 
 @media screen and (max-width: 767px) {
-  .slid-half .nofull{ height: 85vh}
+  .slid-half .nofull{ height: 65vh}
   .cta__slider-item .media-wrapper .bg-img{background-position: center;}
   .services.halfbg .bg{background-size: contain!important;height: 50vh;}
   .sm-mb10 {
