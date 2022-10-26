@@ -1170,6 +1170,14 @@ body {
 
 /* ====================== [ End Button Style ] ====================== */
 /* ====================== [ Start navbar ] ====================== */
+@media screen and (min-width: 1200px) {
+  .navbar .navbar-nav #nav-link {
+    color: black !important;}
+
+  .navbar #social-icon a {
+    color: black !important;}
+}
+
 .navbar {
   position: absolute;
   left: 0;
@@ -1186,7 +1194,7 @@ body {
   .navbar .navbar-nav .nav-link {
     font-size: 13px;
     font-weight: 400;
-    color: #fff;
+    color: white;
     letter-spacing: 1px;
     padding: 15px 7px;
     margin: 10px; }
@@ -1966,7 +1974,7 @@ body {
   font-size: 40px;
   font-weight: 400;
   color: #b19777;
-  padding-right: 70px;
+  padding-right: 10px;
   line-height: 1;
   position: relative; }
   /* .services .item-sm .numb:after {
@@ -4024,7 +4032,7 @@ video {
   margin-left: 15px;
   max-width: 200px;
   height: auto;
-  fill:white;
+  fill:black;
   padding: 20px 0;
 }
 
@@ -4074,7 +4082,9 @@ video {
 
 /* show the cursor on laptop screens and bigger */
 @media only screen and (min-width:768px) {
-  .mouse-cursor {
+  body {
+    cursor: auto; }
+  /* .mouse-cursor {
     position: fixed;
     left: 0;
     top: 0;
@@ -4110,7 +4120,6 @@ video {
     width: 80px;
     height: 80px;
     background-color: #b19777;
-    /* opacity: 0;  */
     opacity: .3; }
   
   .cursor-outer {
@@ -4123,11 +4132,10 @@ video {
     box-sizing: border-box;
     z-index: 10000000;
     opacity: .5;
-    /* opacity: 0; */
     -webkit-transition: all .08s ease-out;
     -o-transition: all .08s ease-out;
     transition: all .08s ease-out; }
     .cursor-outer.cursor-hover {
       opacity: 0; }
-   
+    */
 }

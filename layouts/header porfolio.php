@@ -122,25 +122,25 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
         <!--        </button>-->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="icon-bar"><i class="fas fa-bars"></i></span>
+            <span class="icon-bar"><i style="color:black;" class="fas fa-bars"></i></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" >
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Anasayfa</a>
+                    <a class="nav-link" id="nav-link" href="/">Anasayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about">Hakkımızda</a>
+                    <a  class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/portfolio">Portfolyo</a>
+                    <a  class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact">İletişim</a>
+                    <a  class="nav-link" id="nav-link" href="/contact">İletişim</a>
                 </li>
 
             </ul>
-            <div class="social-icon">
+            <div class="social-icon" id='social-icon'>
                 <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
