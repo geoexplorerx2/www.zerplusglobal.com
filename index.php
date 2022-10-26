@@ -193,7 +193,7 @@
 <section class="portfolio full-bg full-video d-md-block d-none">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-3 col-6 cluom current" data-tab="tab-1" data-video="img/video/video-1.mp4">
+            <div class="col-lg-3 col-6 cluom current" data-tab="tab-1" data-poster="/img/poster.png" data-video="video/video-1.mp4">
                 <div class="fullscreen-bg">
                     <div class="info">
                         <h5>Hotelistan</h5>
@@ -203,7 +203,7 @@
 <!--                    </div>-->
                 </div>
             </div>
-            <div class="col-lg-3 col-6 cluom current " data-tab="tab-2" data-video="img/video/video-2.mp4">
+            <div class="col-lg-3 col-6 cluom current " data-tab="tab-2" data-video="video/video-2.mp4">
                 <div class="info">
                     <h5>Nova Plaza Crystal Hotel</h5>
                 </div>
@@ -211,7 +211,7 @@
 <!--                     <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>-->
 <!--                 </div>-->
             </div>
-            <div class="col-lg-3 col-6 cluom " data-tab="tab-3" data-video="img/video/video-3.mp4">
+            <div class="col-lg-3 col-6 cluom " data-tab="tab-3" data-video="video/video-3.mp4">
                 <div class="info">
                     <h5>Mam Event Management </h5>
                 </div>
@@ -219,7 +219,7 @@
 <!--                   <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>-->
 <!--               </div>-->
             </div>
-            <div class="col-lg-3 col-6 cluom" data-tab="tab-4" data-video="img/video/video-4.mp4">
+            <div class="col-lg-3 col-6 cluom" data-tab="tab-4" data-video="video/video-4.mp4">
                 <div class="info">
                    <h5>Nova Plaza Crystal Hotel<br> Yemek Alanı</h5>
                 </div>
@@ -239,16 +239,16 @@
     </style>
 
     <div class="glry-img">
-        <video id="tab-1" autoplay loop muted  data-src="img/video/video-1.mp4" class="tab-video current">
-            <source  type="video/mp4" >
+        <video id="tab-1" autoplay loop muted data-src="video/video-1.mp4" class="tab-video current">
+            <source src="" type="video/mp4">
         </video>
-        <video id="tab-2"  autoplay loop muted data-src="img/video/video-2.mp4" class="tab-video " style="object-fit: cover">
-            <source src="" type="video/mp4" >
+        <video id="tab-2" autoplay loop muted data-src="video/video-2.mp4" class="tab-video" style="object-fit: cover">
+            <source src="" type="video/mp4">
         </video>
-        <video  id="tab-3" autoplay loop muted   data-src="img/video/video-3.mp4" class=" tab-video "  style="object-fit: cover">
+        <video id="tab-3" autoplay loop muted data-src="video/video-3.mp4" class="tab-video" style="object-fit: cover">
             <source src=""  type="video/mp4">
         </video>
-        <video id="tab-4" autoplay loop muted   data-src="img/video/video-4.mp4" class="tab-video "  style="object-fit: cover">
+        <video id="tab-4" autoplay loop muted data-src="video/video-4.mp4" class="tab-video"  style="object-fit: cover">
             <source src="" type="video/mp4">
         </video>
 </section>
@@ -305,98 +305,6 @@
     </div>
 </section>
 
-
-<!-- ==================== End process ==================== -->
-
-<!-- ==================== Start Team ==================== -->
-<!--<section class="team section-padding">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-5">-->
-<!--                <div class="tit">-->
-<!--                    <h6 class="custom-font mb-10 wow fadeInDown" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">Zer+</h6>-->
-<!--                    <h3 class="wow flipInX" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: flipInX;">Plus Kimdir?</h3>-->
-<!--                    <p class="wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Plus üretime katkı sağlayan paydaşları ifade eder.</p>-->
-<!--                    <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">-->
-<!--                            <span class="prev">-->
-<!--                                <i class="fas fa-long-arrow-alt-left"></i>-->
-<!--                            </span>-->
-<!--                        <span class="next">-->
-<!--                                <i class="fas fa-long-arrow-alt-right"></i>-->
-<!--                            </span>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-7">-->
-<!--                <div class="team-container">-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-1.webp" alt="">-->
-                            <!--                            <div class="social">-->
-                            <!--                                <a href="#0"><i class="fab fa-facebook-f"></i></a>-->
-                            <!--                                <a href="#0"><i class="fab fa-twitter"></i></a>-->
-                            <!--                                <a href="#0"><i class="fab fa-behance"></i></a>-->
-                            <!--                                <a href="#0"><i class="fab fa-linkedin-in"></i></a>-->
-                            <!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Hasib sharif</h5>-->
-<!--                            <span>General Manager</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-2.webp" alt="">-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Jonson Leo</h5>-->
-<!--                            <span>Founder</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-3.webp" alt="">-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Leio Man</h5>-->
-<!--                            <span>Founder</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-4.webp" alt="">-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Robert Front</h5>-->
-<!--                            <span>CEO Founder</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-5.webp" alt="">-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Legender Mao</h5>-->
-<!--                            <span>3D Visualization</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="item wow fadeInUp" data-wow-delay=".3s">-->
-<!--                        <div class="img wow imago">-->
-<!--                            <img src="img/deneme/team-5.webp" alt="">-->
-<!--                        </div>-->
-<!--                        <div class="info">-->
-<!--                            <h5>Legender Mao</h5>-->
-<!--                            <span>3D Visualization</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--    <div class="dots-half bg-img bg-repeat" data-background="img/dots.png"></div>-->
-<!--</section>-->
-<!-- ==================== End Team ==================== -->
-
 <div class="brands" style="margin-top: 90px; margin-bottom:-60px;">
     <div class="container box-top wow fadeInUp o-hidden" data-wow-delay=".3s" style="padding: 15px 30px 5px;">
         <div class="brands-slider">
@@ -450,8 +358,6 @@
         </div>
     </div>
 </div>
-
-<!-- ==================== Start Testimonials ==================== -->
 
 <section class="testimonials grid section-padding bg-img parallaxie" data-background="img/001.jpg"
          data-overlay-dark="10">

@@ -15,10 +15,6 @@
         </div>
     </header>
 
-    <!-- ==================== End Header ==================== -->
-
-    <!-- ==================== Start about ==================== -->
-
     <section class="contact">
         <div class="info bg-gray pt-80 pb-80">
             <div class="container">
@@ -88,7 +84,5 @@
             </div>
         </div>
     </section>
-
-    <!-- ==================== End about ==================== -->
 
 <?php include('layouts/footer.php'); ?>

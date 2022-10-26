@@ -136,6 +136,6 @@
     <script src="js/jquery-migrate-3.0.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="js/plugins.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>

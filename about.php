@@ -59,69 +59,10 @@
                     <p class="mb-20 text-justify">
                         Çalışma şeklimiz son derece yalın ve etkilidir. Sizi dinliyoruz, vizyonunuzu öğrendikten sonra isteklerinize ve hedef kitlenizde en uygun yaratıcı çözümlerle size geri dönüyoruz. Amacımız müşterilerimize sunduğumuz tasarımların, farklı beklentileri karşılayacak kalitede, uygulama aşamasında ise hayallerin gerçeğe dönüşebildiğini gösterecek nitelikte olmasıdır.
                     </p>
-<!--                <section class="process section-padding bg-img bg-repeat" data-background="img/dots.png">-->
-<!--                    <div class="container">-->
-<!--                        <div class="section-head text-center">-->
-<!--                            <div class="row justify-content-center">-->
-<!--                                <div class="col-lg-6 col-md-8 col-sm-10">-->
-<!--                                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">How We Do It</h6>-->
-<!--                                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Work Process</h4>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class=" row">-->
-<!--                                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".3s">-->
-<!--                                            <div class="item">-->
-<!--                                                <div class="bg-img" data-background="img/process/01.webp">-->
-<!--                                                    <h3 class="numb custom-font">01</h3>-->
-<!--                                                </div>-->
-<!--                                                <div class="cont">-->
-<!--                                                    <h6 class="mb-10">Concept</h6>-->
-<!--                                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".5s">-->
-<!--                                            <div class="item">-->
-<!--                                                <div class="bg-img" data-background="img/process/02.webp">-->
-<!--                                                    <h3 class="numb custom-font">02</h3>-->
-<!--                                                </div>-->
-<!--                                                <div class="cont">-->
-<!--                                                    <h6 class="mb-10">Design Process</h6>-->
-<!--                                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".4s">-->
-<!--                                            <div class="item">-->
-<!--                                                <div class="bg-img" data-background="img/process/03.webp">-->
-<!--                                                    <h3 class="numb custom-font">03</h3>-->
-<!--                                                </div>-->
-<!--                                                <div class="cont">-->
-<!--                                                    <h6 class="mb-10">Supervision</h6>-->
-<!--                                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".6s">-->
-<!--                                            <div class="item">-->
-<!--                                                <div class="bg-img" data-background="img/process/04.webp">-->
-<!--                                                    <h3 class="numb custom-font">04</h3>-->
-<!--                                                </div>-->
-<!--                                                <div class="cont">-->
-<!--                                                    <h6 class="mb-10">Budget Planning</h6>-->
-<!--                                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </section>-->
                     <p class="text-justify">
                         ZER+ Architects "Hayal ve İnşa" temelinde otel, restoran, klinik ve konut uygulamaları
                         yoğunlukta çalışmakta olup bunun yanı sıra sanayi yapıları için ruhsat projeleri yürütmektedir.
                     </p>
-
                 </div>
             </div>
         </div>
@@ -162,71 +103,6 @@
             </div>
         </div>
     </section>
-
-    <!-- ==================== End Services ==================== -->
-    <!-- ==================== Start process ====================
-// work process alanı
-<section class="process section-padding bg-img bg-repeat" data-background="img/dots.png">
-    <div class="container">
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">How We Do It</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Work Process</h4>
-                </div>
-            </div>
-        </div>
-        <div class=" row">
-                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".3s">
-                            <div class="item">
-                                <div class="bg-img" data-background="img/process/01.webp">
-                                    <h3 class="numb custom-font">01</h3>
-                                </div>
-                                <div class="cont">
-                                    <h6 class="mb-10">Concept</h6>
-                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".5s">
-                            <div class="item">
-                                <div class="bg-img" data-background="img/process/02.webp">
-                                    <h3 class="numb custom-font">02</h3>
-                                </div>
-                                <div class="cont">
-                                    <h6 class="mb-10">Design Process</h6>
-                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 coulmn wow fadeInUp" data-wow-delay=".4s">
-                            <div class="item">
-                                <div class="bg-img" data-background="img/process/03.webp">
-                                    <h3 class="numb custom-font">03</h3>
-                                </div>
-                                <div class="cont">
-                                    <h6 class="mb-10">Supervision</h6>
-                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="item">
-                                <div class="bg-img" data-background="img/process/04.webp">
-                                    <h3 class="numb custom-font">04</h3>
-                                </div>
-                                <div class="cont">
-                                    <h6 class="mb-10">Budget Planning</h6>
-                                    <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-            </div>
-</section>
- -->
-
-    <!-- ==================== Start Skills ==================== -->
 
     <div class="skills-sec section-padding pt-80">
         <div class="container">

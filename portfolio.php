@@ -29,7 +29,7 @@
 
                 <div class="gallery twsty inf-lit full-width">
                     <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
-                        <div class="item-img bg-img " data-background="img/portfolio/mas/1.webp" >
+                        <div class="item-img bg-img" data-background="img/portfolio/mas/1.webp" >
                             <a href="javascript:;" >
                                 <div class="item-img-overlay"></div>
                             </a>
