@@ -193,7 +193,7 @@
 <section class="portfolio full-bg full-video d-md-block d-none">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-3 col-6 cluom current" data-tab="tab-1" data-poster="/img/poster.png" data-video="video/video-1.mp4">
+            <div class="col-lg-3 col-6 cluom current" data-tab="tab-1" data-poster="img/poster.png" data-video="video/video-1.mp4">
                 <div class="fullscreen-bg">
                     <div class="info">
                         <h5>Hotelistan</h5>
