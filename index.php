@@ -354,6 +354,22 @@
                         <img src="img/clients/brands/alfanova.png" alt="" class="p-3">
                     </div>
                 </div>
+
+                <div class="item swiper-slide">
+                    <div class="img">
+                        <img src="img/clients/brands/nowon.png" alt="" class="p-3">
+                    </div>
+                </div>
+                <div class="item swiper-slide">
+                    <div class="img">
+                        <img src="img/clients/brands/conforcus.png" alt="" class="p-3">
+                    </div>
+                </div>
+                <div class="item swiper-slide">
+                    <div class="img">
+                        <img src="img/clients/brands/guzide.png" alt="" class="p-3">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
