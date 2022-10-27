@@ -7,7 +7,7 @@
                     <div class="cont text-center">
                         <h1>İletişim</h1>
                         <div class="path">
-                            <a href="#0">Anasayfa</a><span>/</span><a href="#0" class="active">İletişim</a>
+                            <a href="/">Anasayfa</a><span>/</span><a href="#0" class="active">İletişim</a>
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,5 @@
 $(function () {
     "use strict";
-    /* ===============================  Navbar Menu  =============================== */
     var wind = $(window);
 
     wind.on("scroll", function () {
@@ -128,7 +127,6 @@ $(function () {
         }
     });
 
-
     const slider = document.getElementById("js-cta-slider");
     const sliderNext = document.getElementById("js-cta-slider-next");
     const sliderPrevious = document.getElementById("js-cta-slider-previous");
@@ -136,52 +134,52 @@ $(function () {
     const interleaveOffset = 5.75;
 
     const swiper = new Swiper(slider, {
-    loop: true,
-    direction: "vertical",
-    speed: 2000,
-    grabCursor: true,
-    watchSlidesProgress: true,
-    autoplay: {
-    delay: 3000,
-    disableOnInteraction: false
-    },
-    pagination: {
-        el: '.slid-half .swiper-pagination',
-        type: 'fraction',
-    },
-    navigation: {
-    nextEl: sliderNext,
-    prevEl: sliderPrevious
-    },
-    on: {
-    progress: function() {
-        let swiper = this;
+        loop: true,
+        direction: "vertical",
+        speed: 2000,
+        grabCursor: true,
+        watchSlidesProgress: true,
+        autoplay: {
+        delay: 3000,
+        disableOnInteraction: false
+        },
+        pagination: {
+            el: '.slid-half .swiper-pagination',
+            type: 'fraction',
+        },
+        navigation: {
+        nextEl: sliderNext,
+        prevEl: sliderPrevious
+        },
+        on: {
+            progress: function() {
+                let swiper = this;
 
-        for (let i = 0; i < swiper.slides.length; i++) {
-        let slideProgress = swiper.slides[i].progress;
-        let innerOffset = swiper.height * interleaveOffset;
-        let innerTranslate = slideProgress * innerOffset;
+                for (let i = 0; i < swiper.slides.length; i++) {
+                let slideProgress = swiper.slides[i].progress;
+                let innerOffset = swiper.height * interleaveOffset;
+                let innerTranslate = slideProgress * innerOffset;
 
-        TweenMax.set(swiper.slides[i].querySelector(".slide-inner"), {
-            y: innerTranslate,
-        });
-        }
-    },
-    touchStart: function() {
-        let swiper = this;
-        for (let i = 0; i < swiper.slides.length; i++) {
-        swiper.slides[i].style.transition = "";
-        }
-    },
-    setTransition: function(speed) {
-        let swiper = this;
-        for (let i = 0; i < swiper.slides.length; i++) {
-        swiper.slides[i].style.transition = speed + "ms";
-        swiper.slides[i].querySelector(".slide-inner").style.transition =
-            speed + "ms";
-        }
-    }
-    },
+                TweenMax.set(swiper.slides[i].querySelector(".slide-inner"), {
+                    y: innerTranslate,
+                });
+                }
+            },
+            touchStart: function() {
+                let swiper = this;
+                for (let i = 0; i < swiper.slides.length; i++) {
+                swiper.slides[i].style.transition = "";
+                }
+            },
+            setTransition: function(speed) {
+                let swiper = this;
+                for (let i = 0; i < swiper.slides.length; i++) {
+                swiper.slides[i].style.transition = speed + "ms";
+                swiper.slides[i].querySelector(".slide-inner").style.transition =
+                    speed + "ms";
+                }
+            }
+        },
     });
 
     new Swiper ('.brands-slider',  {

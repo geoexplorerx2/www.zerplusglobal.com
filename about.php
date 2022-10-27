@@ -6,7 +6,7 @@
                     <div class="cont text-center">
                         <h1>Hakkımızda</h1>
                         <div class="path">
-                            <a href="#0">Anasayfa</a><span>/</span><a href="#0" class="active">Hakkımızda </a>
+                            <a href="/">Anasayfa</a><span>/</span><a href="#0" class="active">Hakkımızda </a>
                         </div>
                     </div>
                 </div>
@@ -67,12 +67,9 @@
             </div>
         </div>
     </section>
-    <!-- ==================== End about ==================== -->
-
-    <!-- ==================== Start Services ==================== -->
 
     <section class="services halfbg">
-        <div class="bg valign"  style="background: url('img/deneme.webp') "  data-overlay-dark="7">
+        <div class="bg valign" style="background: url('img/deneme.webp')" data-overlay-dark="7">
         </div>
         <div class="container ontop">
             <div class="row">

@@ -3,7 +3,6 @@
 <header class="slid-half">
     <div id="js-cta-slider" class="cta__slider-wrapper nofull swiper-container">
         <div class="swiper-wrapper cta__slider">
-            <!-- SLIDER ITEM -->
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
                     <div class="bg-img" data-background="img/slid/slide-3.1.webp" data-overlay-dark="5"></div>
