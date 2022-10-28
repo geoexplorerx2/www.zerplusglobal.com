@@ -205,6 +205,126 @@
                         </div>
                     </div>
 
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_4.pdf">
+                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_4.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Crystal Ruhsat 4</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+                    
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_1.pdf">
+                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_1.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Beyoglu Otel 1</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_2.pdf">
+                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_2.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Beyoglu Otel 2</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_3.pdf">
+                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_3.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Beyoglu Otel 3</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+                    
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_2.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_2.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_3.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_3.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_4.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_4.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+                    
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_5.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_5.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_6.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_6.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_7.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_7.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+                    
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_8.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_8.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_9.pdf">
+                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_9.pdf" height="500" frameborder="0"></iframe>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''>Mayatki Gumusova Model</h5>
+                            <span>Otel</span>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
