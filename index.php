@@ -161,7 +161,11 @@
                 <div class="ab-exp">
                     <div class="row">
                         <div class="col-md-4 mb-20 order-md-1">
-                            <div class="pattern bg-img bg-repeat" data-background="img/line-pattern.png">
+                            <div class="years-exp">
+                                <div class="exp-text">
+                                    <h2 class="custom-font">32</h2>
+                                    <h6>Tamamlanmış <br> Proje</h6>
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-8 wow fadeInUp order-md-2 " data-wow-delay=".3s">

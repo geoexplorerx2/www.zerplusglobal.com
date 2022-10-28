@@ -965,7 +965,7 @@ body {
   opacity: .4;
 }
 [data-overlay-dark="5"]:before, [data-overlay-light="5"]:before {
-  opacity: .5;
+  opacity: 0;
 }
 [data-overlay-dark="6"]:before, [data-overlay-light="6"]:before {
   opacity: .6;
@@ -4484,7 +4484,7 @@ video {
   margin-left: 15px;
   max-width: 200px;
   height: auto;
-  fill:black;
+  fill:#fff;
   padding: 20px 0;
 }
 .navbar.nav-scroll .logo svg{

@@ -4,7 +4,7 @@
                 <div class="col-lg-3">
                     <div class="item abot">
                         <div class="logo-footer mb-20">
-                            <a href="index.html" class="logo">
+                            <a href="/" class="logo">
                                 <svg fill="white"  version="1.0" xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 1353.000000 148.000000"
                                     preserveAspectRatio="xMidYMid meet">

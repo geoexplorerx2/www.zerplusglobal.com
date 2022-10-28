@@ -1,5 +1,5 @@
 <?php include('layouts/header.php'); ?>
-    <header class="about pages-header valign" style="background: url('img/slid/slide-1.jpg');background-size: cover; background-position: bottom; position: relative; background-repeat: no-repeat"  data-overlay-dark="5">
+    <header class="about pages-header valign" style="background: url('img/about.jpg');background-size: cover; background-position: bottom; position: relative; background-repeat: space"  data-overlay-dark="5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

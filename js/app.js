@@ -288,13 +288,6 @@ $(function () {
             arr.push({src: value ,type: "image", caption:imgCaption})
         });
         Fancybox.show(arr);
-
-    });
-
-    $(".fancybox").fancybox({
-        width: 600,
-        height: 300,
-        type: 'iframe'
     });
 
     $('.testimonials .testim').slick({
