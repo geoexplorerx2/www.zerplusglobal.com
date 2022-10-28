@@ -175,45 +175,36 @@
 
                     <!-- ruhsat -->
                     
-                    <div class="items restaurant permit three-column mt-50 fancyGallery">
-                        <div class="item-img bg-img" data-background="img/portfolio/mas/1.png">
-                            <a href="javascript:;">
-                                 <!-- <iframe src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" width="100%" height="500px"></iframe> -->
-                                 <!-- <embed width="191" height="207" src="/pdf files/2.2.BEYOGLU OTEL-2 (1)-Model.pdf" type="application/pdf"> -->
-                                 <!-- <a href="/pdf files/2.2.BEYOGLU OTEL-2 (1)-Model.pdf">BEYOGLU OTEL-2</a></p> -->
-                            </a>
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_1.pdf">
+                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_1.pdf" height="500" frameborder="0"></iframe>
                         </div>
                         <div class="info mt-10">
-                            <h5>
-                                <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" download>
-                                    <img src="/img/download.png" width="50" height="60">Download
-                                </a>
-                            </h5>
-                            <span>Permit</span>
+                            <h5 style=''>Crystal Ruhsat 1</h5>
+                            <span>Otel</span>
                         </div>
                     </div>
-                    <div class="items restaurant permit three-column mt-50 fancyGallery">
-                        <div class="item-img bg-img" data-background="img/portfolio/mas/12.webp">
-                            <a href="javascript:;">
-                                 <iframe src="/pdf files/2.3.BEYOGLU OTEL-2 (1)-Model.pdf"></iframe>
-                            </a>
+                    
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_2.pdf">
+                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_2.pdf" height="500" frameborder="0"></iframe>
                         </div>
                         <div class="info mt-10">
-                            <h5>Güzide Restaurant</h5>
-                            <span>Permit</span>
+                            <h5 style=''>Crystal Ruhsat 2</h5>
+                            <span>Otel</span>
                         </div>
                     </div>
-                    <div class="items restaurant permit three-column mt-50 fancyGallery">
-                        <div class="item-img bg-img" data-background="img/portfolio/mas/12.webp">
-                            <a href="javascript:;">
-                                 <iframe src="/pdf files/2.4.BEYOGLU OTEL-2 (1)-Model.pdf"></iframe>
-                            </a>
+
+                    <div class="items permit three-column mt-50">
+                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_3.pdf">
+                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_3.pdf" height="500" frameborder="0"></iframe>
                         </div>
                         <div class="info mt-10">
-                            <h5>Güzide Restaurant</h5>
-                            <span>Permit</span>
+                            <h5 style=''>Crystal Ruhsat 3</h5>
+                            <span>Otel</span>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>

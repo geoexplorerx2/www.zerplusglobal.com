@@ -277,7 +277,7 @@ $(function () {
         }
     });
 
-    $( ".fancyGallery" ).click(function() {
+    $(".fancyGallery").click(function() {
         var images = $(this).data('images');
         var imgCaption =  $(this).data('caption');
         if(images == undefined ){
@@ -289,6 +289,12 @@ $(function () {
         });
         Fancybox.show(arr);
 
+    });
+
+    $(".fancybox").fancybox({
+        width: 600,
+        height: 300,
+        type: 'iframe'
     });
 
     $('.testimonials .testim').slick({
