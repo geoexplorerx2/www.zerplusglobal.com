@@ -1,4 +1,4 @@
-<?php include('layouts/header porfolio.php'); ?>
+<?php include('layouts/header-porfolio.php'); ?>
 
     <header class="pages-header work-header bg-img valign" data-background="img/009.png" data-overlay-light="9">
         <div class="container">
@@ -29,7 +29,7 @@
 
                 <div class="gallery twsty inf-lit full-width">
 
-                    <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
+                    <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/new/crystal/5.jpg","img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/1.webp" >
                             <a href="javascript:;" >
                                 <div class="item-img-overlay"></div>
@@ -41,7 +41,7 @@
                         </div>
                     </div>
 
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/hotelistan-1.webp","img/portfolio/projects/hotelistan-2.webp","img/portfolio/projects/hotelistan-3.webp","img/portfolio/projects/hotelistan-4.webp"]'>
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/arpanu-ofis/1.jpg","img/portfolio/projects/new/arpanu-ofis/3.jpg","img/portfolio/projects/new/arpanu-ofis/4.jpg","img/portfolio/projects/new/arpanu-ofis/6.jpg", "img/portfolio/projects/new/arpanu-ofis/8.jpg","img/portfolio/projects/hotelistan-1.webp","img/portfolio/projects/hotelistan-2.webp","img/portfolio/projects/hotelistan-3.webp","img/portfolio/projects/hotelistan-4.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/2.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay"></div>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
 
-                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/crystalfood-1.webp","img/portfolio/projects/crystalfood-2.webp","img/portfolio/projects/crystalfood-3.webp","img/portfolio/projects/crystalfood-4.webp"]' >
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/crystal-yemek/2.jpg","img/portfolio/projects/new/crystal-yemek/5.jpg","img/portfolio/projects/crystalfood-1.webp","img/portfolio/projects/crystalfood-2.webp","img/portfolio/projects/crystalfood-3.webp","img/portfolio/projects/crystalfood-4.webp"]' >
                         <div class="item-img bg-img" data-background="img/portfolio/mas/4.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -89,7 +89,8 @@
                         </div>
                     </div>
 
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/dentfix-1.webp","img/portfolio/projects/dentfix-2.webp","img/portfolio/projects/dentfix-3.webp","img/portfolio/projects/dentfix-4.webp","img/portfolio/projects/dentfix-5.webp"]'>
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/dentfix/1.jpg","img/portfolio/projects/new/dentfix/2.jpg","img/portfolio/projects/new/dentfix/3.jpg","img/portfolio/projects/new/dentfix/4.jpg","img/portfolio/projects/new/dentfix/5.jpg",
+                        "img/portfolio/projects/dentfix-1.webp","img/portfolio/projects/dentfix-2.webp","img/portfolio/projects/dentfix-3.webp","img/portfolio/projects/dentfix-4.webp","img/portfolio/projects/dentfix-5.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/6.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -113,7 +114,8 @@
                         </div>
                     </div>
 
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/nova-1.webp","img/portfolio/projects/nova-2.webp"]'>
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/lab/2.jpg","img/portfolio/projects/new/lab/3.jpg","img/portfolio/projects/new/lab/D1.jpg",
+                        "img/portfolio/projects/nova-1.webp","img/portfolio/projects/nova-2.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/8.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -137,7 +139,7 @@
                         </div>
                     </div>
 
-                    <div class="items office theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/mam-1.webp","img/portfolio/projects/mam-2.webp","img/portfolio/projects/mam-3.webp"]'>
+                    <div class="items office theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/mam/1.jpg","img/portfolio/projects/new/mam/2.jpg","img/portfolio/projects/mam-1.webp","img/portfolio/projects/mam-2.webp","img/portfolio/projects/mam-3.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/10.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -149,19 +151,20 @@
                         </div>
                     </div>
 
-                    <div class="items residential three-column mt-50 fancyGallery">
-                        <div class="item-img bg-img" data-background="img/portfolio/mas/11.webp">
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/pera/1.jpg", "img/portfolio/projects/new/pera/2.jpg","img/portfolio/projects/new/pera/3.jpg","img/portfolio/projects/new/pera/4.jpg","img/portfolio/projects/new/pera/5.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/new/pera/1.jpg">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Luxury Villa</h5>
+                            <h5 style=''>Nova Plaza Pera Hotel</h5>
                             <span>Architecture</span>
                         </div>
                     </div>
 
-                    <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/guzide-1.webp","img/portfolio/projects/guzide-2.webp","img/portfolio/projects/guzide-3.webp","img/portfolio/projects/guzide-4.webp","img/portfolio/projects/guzide-5.webp","img/portfolio/projects/guzide-6.webp","img/portfolio/projects/guzide-7.webp"]'>
+                    <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/guzide-cumhuriyet/1.jpg","img/portfolio/projects/new/guzide-cumhuriyet/2.jpg","img/portfolio/projects/new/guzide-cumhuriyet/3.jpg","img/portfolio/projects/new/guzide-cumhuriyet/4.jpg","img/portfolio/projects/new/guzide-cumhuriyet/5.jpg","img/portfolio/projects/new/guzide-kent/1.jpg","img/portfolio/projects/new/guzide-kent/2.jpg",
+                        "img/portfolio/projects/guzide-1.webp","img/portfolio/projects/guzide-2.webp","img/portfolio/projects/guzide-3.webp","img/portfolio/projects/guzide-4.webp","img/portfolio/projects/guzide-5.webp","img/portfolio/projects/guzide-6.webp","img/portfolio/projects/guzide-7.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/12.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
