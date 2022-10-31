@@ -39,7 +39,7 @@
 
 <nav class="navbar change navbar-expand-lg">
     <div class="container">
-        <a class="logo" href="index.php">
+        <a class="logo" href="/">
             <svg style="fill: #fff;" version="1.0" xmlns="http://www.w3.org/2000/svg"
                  width="1353.000000pt" height="148.000000pt" viewBox="0 0 1353.000000 148.000000"
                  preserveAspectRatio="xMidYMid meet">
