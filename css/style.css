@@ -3936,7 +3936,7 @@ body {
       margin-left: 15px;
       max-width: 200px;
       height: auto;
-      fill:white
+      /* fill:white; */
  }
   .nav-scroll .navbar-collapse .nav-link, .light .navbar-collapse .nav-link {
       color: #fff !important;

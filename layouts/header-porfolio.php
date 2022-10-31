@@ -40,7 +40,7 @@
 <nav class="navbar change navbar-expand-lg">
     <div class="container">
         <a class="logo" href="index.php">
-            <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+            <svg style="fill:black;" version="1.0" xmlns="http://www.w3.org/2000/svg"
                  width="1353.000000pt" height="148.000000pt" viewBox="0 0 1353.000000 148.000000"
                  preserveAspectRatio="xMidYMid meet">
                 <g transform="translate(0.000000,148.000000) scale(0.100000,-0.100000)"
@@ -127,21 +127,21 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto" >
                 <li class="nav-item">
-                    <a class="nav-link" id="nav-link" href="/">Anasayfa</a>
+                    <a style="color:black;" class="nav-link" id="nav-link" href="/">Anasayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a  class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
                 </li>
                 <li class="nav-item">
-                    <a  class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
                 </li>
                 <li class="nav-item">
-                    <a  class="nav-link" id="nav-link" href="/contact">İletişim</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/contact">İletişim</a>
                 </li>
 
             </ul>
             <div class="social-icon" id='social-icon'>
-                <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a style="color:black;" href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>

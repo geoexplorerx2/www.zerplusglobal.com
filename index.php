@@ -328,8 +328,8 @@
                     </div>
                 </div>
                 <div class="item swiper-slide">
-                    <div class="img">
-                        <img src="img/clients/brands/mam.png" alt="">
+                    <div class="img" >
+                        <img src="img/clients/brands/mam.png" alt="" style="padding: 0rem;" >
                     </div>
                 </div>
                 <div class="item swiper-slide">
@@ -365,12 +365,12 @@
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="img/clients/brands/conforcus.png" alt="" class="p-3">
+                        <img src="img/clients/brands/conforcus.png" alt="" class="" style="padding: 1.5rem;">
                     </div>
                 </div>
                 <div class="item swiper-slide">
-                    <div class="img">
-                        <img src="img/clients/brands/guzide.png" alt="" class="p-3">
+                    <div style="text-align: center;" class="img">
+                        <img src="img/clients/brands/guzide.png" alt="" class="" style="padding: 0rem;" >
                     </div>
                 </div>
             </div>
