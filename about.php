@@ -49,17 +49,17 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="txt-cont">
-                        <p class="mb-20 text-justify">Mimari ve iç mimari tasarım, projelendirme ve uygulama alanında, insan odaklı projeler üreten ZER+ İstanbul'da Nihan Zer tarafından kuruldu. </p>
-                        <p class="text-justify">
+                        <p class="mb-20 text-left">Mimari ve iç mimari tasarım, projelendirme ve uygulama alanında, insan odaklı projeler üreten ZER+ İstanbul'da Nihan Zer tarafından kuruldu. </p>
+                        <p class="text-left">
                             ZER+ hızla değişen ve gelişen yeni tasarım metodları ve güncel malzeme bilgisini; inşaat ekonomisi ile fonksiyonellik ve estetik bağlamında birleştiren ve gelecek vizyonu ile harmanlayan bir tasarım sürecini benimsemiştir.  ZER+ tasarımda detay - bütün ilişkisi ve disiplinler arası alanda kabul görmüş çözüm ortakları ve uzman firmalarla ekipler oluşturarak işverenlerine mümkün olan en iyi çözümleri üretebilmek için çalışmaktadır.
                         </p>
                     </div>
                 </div>
                 <div class="col-12 mt-20">
-                    <p class="mb-20 text-justify">
+                    <p class="mb-20 text-left">
                         Çalışma şeklimiz son derece yalın ve etkilidir. Sizi dinliyoruz, vizyonunuzu öğrendikten sonra isteklerinize ve hedef kitlenizde en uygun yaratıcı çözümlerle size geri dönüyoruz. Amacımız müşterilerimize sunduğumuz tasarımların, farklı beklentileri karşılayacak kalitede, uygulama aşamasında ise hayallerin gerçeğe dönüşebildiğini gösterecek nitelikte olmasıdır.
                     </p>
-                    <p class="text-justify">
+                    <p class="text-left">
                         ZER+ Architects "Hayal ve İnşa" temelinde otel, restoran, klinik ve konut uygulamaları
                         yoğunlukta çalışmakta olup bunun yanı sıra sanayi yapıları için ruhsat projeleri yürütmektedir.
                     </p>

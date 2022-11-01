@@ -150,7 +150,6 @@
                     <ul>
                         <li>Mimari</li>
                         <li>İç Dizayn</li>
-                        <li>Mobilya</li>
                     </ul>
                     <!-- <a href="about.html" class="btn-curve btn-color mt-30">
                         <span>Daha Fazla Oku</span>
