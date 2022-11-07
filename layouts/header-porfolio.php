@@ -127,21 +127,21 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto" >
                 <li class="nav-item">
-                    <a style="color:black;" class="nav-link" id="nav-link" href="/">Anasayfa</a>
+                    <a style="color:white;" class="nav-link" id="nav-link" href="/">Anasayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
+                    <a  style="color:white;" class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
+                    <a  style="color:white;" class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/contact">İletişim</a>
+                    <a  style="color:white;" class="nav-link" id="nav-link" href="/contact">İletişim</a>
                 </li>
 
             </ul>
             <div class="social-icon" id='social-icon'>
-                <a style="color:black;" href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a style="color:white;" href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>

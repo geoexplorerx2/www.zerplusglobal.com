@@ -3936,7 +3936,6 @@ body {
       margin-left: 15px;
       max-width: 200px;
       height: auto;
-      /* fill:white; */
  }
   .nav-scroll .navbar-collapse .nav-link, .light .navbar-collapse .nav-link {
       color: #fff !important;
@@ -3965,7 +3964,7 @@ body {
       position: static;
       height: auto;
  }
-  .navbar .search .search-form form {
+  .navbar .search .search-form form {nav-link
       position: static;
       width: 100%;
       -webkit-transform: none;
@@ -4488,7 +4487,7 @@ video {
   padding: 20px 0;
 }
 .navbar.nav-scroll .logo svg{
-  fill: #000000;
+  fill: black !important;
 }
 .services .item-bx{
   padding: 30px 25px;
