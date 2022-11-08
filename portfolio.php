@@ -29,7 +29,8 @@
 
                 <div class="gallery twsty inf-lit full-width">
 
-                    <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/new/crystal/5.jpg","img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
+                    <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["img/portfolio/projects/crystalyemek/1.jpg","img/portfolio/projects/crystalyemek/2.jpg","img/portfolio/projects/crystalyemek/3.jpg","img/portfolio/projects/crystalyemek/4.jpg","img/portfolio/projects/crystalyemek/5.jpg","img/portfolio/projects/crystalyemek/6.jpg",
+                        "img/portfolio/projects/new/crystal/5.jpg","img/portfolio/projects/crystal-1.webp","img/portfolio/projects/crystal-2.webp","img/portfolio/projects/crystal-3.webp","img/portfolio/projects/crystal-4.webp" ]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/1.webp" >
                             <a href="javascript:;" >
                                 <div class="item-img-overlay"></div>
@@ -41,7 +42,8 @@
                         </div>
                     </div>
 
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/arpanu-ofis/1.jpg","img/portfolio/projects/new/arpanu-ofis/3.jpg","img/portfolio/projects/new/arpanu-ofis/4.jpg","img/portfolio/projects/new/arpanu-ofis/6.jpg", "img/portfolio/projects/new/arpanu-ofis/8.jpg","img/portfolio/projects/hotelistan-1.webp","img/portfolio/projects/hotelistan-2.webp","img/portfolio/projects/hotelistan-3.webp","img/portfolio/projects/hotelistan-4.webp"]'>
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/arpanuofis/1.jpg","img/portfolio/projects/arpanuofis/2.jpg","img/portfolio/projects/arpanuofis/3.jpg","img/portfolio/projects/arpanuofis/4.jpg","img/portfolio/projects/arpanuofis/5.jpg","img/portfolio/projects/arpanuofis/6.jpg","img/portfolio/projects/arpanuofis/7.jpg","img/portfolio/projects/arpanuofis/8.jpg",
+                        "img/portfolio/projects/new/arpanu-ofis/1.jpg","img/portfolio/projects/new/arpanu-ofis/3.jpg","img/portfolio/projects/new/arpanu-ofis/4.jpg","img/portfolio/projects/new/arpanu-ofis/6.jpg", "img/portfolio/projects/new/arpanu-ofis/8.jpg","img/portfolio/projects/hotelistan-1.webp","img/portfolio/projects/hotelistan-2.webp","img/portfolio/projects/hotelistan-3.webp","img/portfolio/projects/hotelistan-4.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/2.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay"></div>
@@ -65,7 +67,8 @@
                         </div>
                     </div>
 
-                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/crystal-yemek/2.jpg","img/portfolio/projects/new/crystal-yemek/5.jpg","img/portfolio/projects/crystalfood-1.webp","img/portfolio/projects/crystalfood-2.webp","img/portfolio/projects/crystalfood-3.webp","img/portfolio/projects/crystalfood-4.webp"]' >
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/crystalyemek/1.jpg","img/portfolio/projects/crystalyemek/2.jpg","img/portfolio/projects/crystalyemek/3.jpg","img/portfolio/projects/crystalyemek/4.jpg","img/portfolio/projects/crystalyemek/5.jpg","img/portfolio/projects/crystalyemek/6.jpg",
+                        "img/portfolio/projects/new/crystal-yemek/2.jpg","img/portfolio/projects/new/crystal-yemek/5.jpg","img/portfolio/projects/crystalfood-1.webp","img/portfolio/projects/crystalfood-2.webp","img/portfolio/projects/crystalfood-3.webp","img/portfolio/projects/crystalfood-4.webp"]' >
                         <div class="item-img bg-img" data-background="img/portfolio/mas/4.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -89,7 +92,8 @@
                         </div>
                     </div>
 
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/dentfix/1.jpg","img/portfolio/projects/new/dentfix/2.jpg","img/portfolio/projects/new/dentfix/3.jpg","img/portfolio/projects/new/dentfix/4.jpg","img/portfolio/projects/new/dentfix/5.jpg",
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/dentfix/1.jpg","img/portfolio/projects/dentfix/2.jpg","img/portfolio/projects/dentfix/3.jpg","img/portfolio/projects/dentfix/4.jpg","img/portfolio/projects/dentfix/5.jpg",
+                        "img/portfolio/projects/new/dentfix/1.jpg","img/portfolio/projects/new/dentfix/2.jpg","img/portfolio/projects/new/dentfix/3.jpg","img/portfolio/projects/new/dentfix/4.jpg","img/portfolio/projects/new/dentfix/5.jpg",
                         "img/portfolio/projects/dentfix-1.webp","img/portfolio/projects/dentfix-2.webp","img/portfolio/projects/dentfix-3.webp","img/portfolio/projects/dentfix-4.webp","img/portfolio/projects/dentfix-5.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/6.webp">
                             <a href="javascript:;">
@@ -139,7 +143,8 @@
                         </div>
                     </div>
 
-                    <div class="items office theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/mam/1.jpg","img/portfolio/projects/new/mam/2.jpg","img/portfolio/projects/mam-1.webp","img/portfolio/projects/mam-2.webp","img/portfolio/projects/mam-3.webp"]'>
+                    <div class="items office theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/mam/1.jpg","img/portfolio/projects/mam/2.jpg","img/portfolio/projects/mam/3.jpg",
+                        "img/portfolio/projects/new/mam/1.jpg","img/portfolio/projects/new/mam/2.jpg","img/portfolio/projects/mam-1.webp","img/portfolio/projects/mam-2.webp","img/portfolio/projects/mam-3.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/10.webp">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -151,7 +156,8 @@
                         </div>
                     </div>
 
-                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/pera/1.jpg", "img/portfolio/projects/new/pera/2.jpg","img/portfolio/projects/new/pera/3.jpg","img/portfolio/projects/new/pera/4.jpg","img/portfolio/projects/new/pera/5.jpg"]'>
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/pera/1.jpg","img/portfolio/projects/pera/2.jpg","img/portfolio/projects/pera/3.jpg","img/portfolio/projects/pera/4.jpg","img/portfolio/projects/pera/5.jpg",
+                        "img/portfolio/projects/new/pera/1.jpg", "img/portfolio/projects/new/pera/2.jpg","img/portfolio/projects/new/pera/3.jpg","img/portfolio/projects/new/pera/4.jpg","img/portfolio/projects/new/pera/5.jpg"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/projects/new/pera/1.jpg">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
@@ -163,7 +169,8 @@
                         </div>
                     </div>
 
-                    <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/new/guzide-cumhuriyet/1.jpg","img/portfolio/projects/new/guzide-cumhuriyet/2.jpg","img/portfolio/projects/new/guzide-cumhuriyet/3.jpg","img/portfolio/projects/new/guzide-cumhuriyet/4.jpg","img/portfolio/projects/new/guzide-cumhuriyet/5.jpg","img/portfolio/projects/new/guzide-kent/1.jpg","img/portfolio/projects/new/guzide-kent/2.jpg",
+                    <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/guzideKent/1.jpg","img/portfolio/projects/guzideKent/2.jpg",
+                        "img/portfolio/projects/new/guzide-cumhuriyet/1.jpg","img/portfolio/projects/new/guzide-cumhuriyet/2.jpg","img/portfolio/projects/new/guzide-cumhuriyet/3.jpg","img/portfolio/projects/new/guzide-cumhuriyet/4.jpg","img/portfolio/projects/new/guzide-cumhuriyet/5.jpg","img/portfolio/projects/new/guzide-kent/1.jpg","img/portfolio/projects/new/guzide-kent/2.jpg",
                         "img/portfolio/projects/guzide-1.webp","img/portfolio/projects/guzide-2.webp","img/portfolio/projects/guzide-3.webp","img/portfolio/projects/guzide-4.webp","img/portfolio/projects/guzide-5.webp","img/portfolio/projects/guzide-6.webp","img/portfolio/projects/guzide-7.webp"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/mas/12.webp">
                             <a href="javascript:;">
@@ -176,81 +183,36 @@
                         </div>
                     </div>
 
-                    <!-- ruhsat -->
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_1.pdf">
-                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_1.pdf" height="500" frameborder="0"></iframe>
+                    <!-- ruhsat images -->
+                    <div class="items permit three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/ruhsatlar/crystal-ruhsat-1.jpg","img/portfolio/projects/ruhsatlar/crystal-ruhsat-2.jpg","img/portfolio/projects/ruhsatlar/crystal-ruhsat-3.jpg","img/portfolio/projects/ruhsatlar/crystal-ruhsat-4.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/ruhsatlar/crystal-ruhsat-1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
                             <h5 style=''>Crystal Ruhsat 1</h5>
                             <span>Otel</span>
                         </div>
                     </div>
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_2.pdf">
-                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_2.pdf" height="500" frameborder="0"></iframe>
+
+                    <div class="items permit three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/ruhsatlar/beyogluOtel-1.jpg","img/portfolio/projects/ruhsatlar/beyogluOtel-2.jpg","img/portfolio/projects/ruhsatlar/beyogluOtel-3.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/ruhsatlar/beyogluOtel-1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Crystal Ruhsat 2</h5>
+                            <h5 style=''>Beyoglu Otel </h5>
                             <span>Otel</span>
                         </div>
                     </div>
 
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_3.pdf">
-                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_3.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Crystal Ruhsat 3</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/crystal_ruhsat_4.pdf">
-                            <iframe class="mx-auto" src="pdf_files/crystal_ruhsat_4.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Crystal Ruhsat 4</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_1.pdf">
-                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_1.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Beyoglu Otel 1</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_2.pdf">
-                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_2.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Beyoglu Otel 2</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/beyoglu_otel_3.pdf">
-                            <iframe class="mx-auto" src="pdf_files/beyoglu_otel_3.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Beyoglu Otel 3</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_2.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_2.pdf" height="500" frameborder="0"></iframe>
+                    <div class="items permit three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/ruhsatlar/mayatkiGumusovaModel-1.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-2.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-3.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-4.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-5.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-6.jpg","img/portfolio/projects/ruhsatlar/mayatkiGumusovaMode-7.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/ruhsatlar/mayatkiGumusovaModel-1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
                             <h5 style=''>Mayatki Gumusova Model</h5>
@@ -258,76 +220,44 @@
                         </div>
                     </div>
 
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_3.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_3.pdf" height="500" frameborder="0"></iframe>
+                    <!-- hamam images -->
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/catmaMescitHamam/1.jpg","img/portfolio/projects/catmaMescitHamam/2.jpg","img/portfolio/projects/catmaMescitHamam/3.jpg","img/portfolio/projects/catmaMescitHamam/5.jpg","img/portfolio/projects/catmaMescitHamam/6.jpg","img/portfolio/projects/catmaMescitHamam/7.jpg","img/portfolio/projects/catmaMescitHamam/8.jpg","img/portfolio/projects/catmaMescitHamam/9.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/catmaMescitHamam/1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
+                            <h5 style=''>Catma Mescit Istanbul Hamam</h5>
+                            <span>Hamam</span>
                         </div>
                     </div>
 
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_4.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_4.pdf" height="500" frameborder="0"></iframe>
+                    <!-- con4cus images -->
+                     <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/con4cus/1.jpg","img/portfolio/projects/con4cus/2.jpg","img/portfolio/projects/con4cus/3.jpg","img/portfolio/projects/con4cus/4.jpg","img/portfolio/projects/con4cus/5.jpg","img/portfolio/projects/con4cus/6.jpg","img/portfolio/projects/con4cus/7.jpg","img/portfolio/projects/con4cus/8.jpg","img/portfolio/projects/con4cus/9.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/con4cus/1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_5.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_5.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
+                            <h5 style=''>Con4Cus</h5>
+                            <span>Ofis</span>
                         </div>
                     </div>
 
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_6.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_6.pdf" height="500" frameborder="0"></iframe>
+                    <!-- mayAtkRender images -->
+                    <div class="items office three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/mayAtkRender/1.jpg","img/portfolio/projects/mayAtkRender/2.jpg","img/portfolio/projects/mayAtkRender/3.jpg","img/portfolio/projects/mayAtkRender/4.jpg","img/portfolio/projects/mayAtkRender/5.jpg","img/portfolio/projects/mayAtkRender/6.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/mayAtkRender/1.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
+                            <h5 style=''>May Atk Render</h5>
+                            <span>Ofis</span>
                         </div>
                     </div>
-
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_7.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_7.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-                    
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_8.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_8.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-
-                    <div class="items permit three-column mt-50">
-                        <div class="item-img bg-img" data-background="pdf_files/mayatki_gumusova_model_9.pdf">
-                            <iframe class="mx-auto" src="pdf_files/mayatki_gumusova_model_9.pdf" height="500" frameborder="0"></iframe>
-                        </div>
-                        <div class="info mt-10">
-                            <h5 style=''>Mayatki Gumusova Model</h5>
-                            <span>Otel</span>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>
