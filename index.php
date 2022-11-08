@@ -95,6 +95,59 @@
     </div>
 </header>
 
+<section class="portfolio full-bg-img full-bg d-md-none d-block mt-5">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3 col-6 column current" data-tab="tab1-1" >
+                <div class="fullscreen-bg">
+                    <div class="info">
+                        <h5>Hotelistan</h5>
+                    </div>
+                    <div class="more">
+                        <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-6 column current " data-tab="tab1-2">
+                <div class="info">
+                    <h5>Nova Plaza Crystal Hotel</h5>
+                </div>
+                <!----
+                 <div class="more">
+                     <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                 </div>
+                 ---->
+            </div>
+            <div class="col-lg-3 col-6 column " data-tab="tab1-3">
+                <div class="info">
+                    <h5>Mam Event Management </h5>
+                </div>
+                <!----
+               <div class="more">
+                   <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+               </div>
+               ---->
+            </div>
+            <div class="col-lg-3 col-6 column" data-tab="tab1-4" >
+                <div class="info">
+                    <h5>Nova Plaza Crystal Hotel<br> Yemek Alanı</h5>
+                </div>
+                <!----
+                  <div class="more">
+                      <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                  </div>
+                ---->
+            </div>
+        </div>
+    </div>
+    <div class="glry-img">
+        <div id="tab1-1" class="bg-img tab-img current" data-background="img/portfolio/mas/2.jpg" data-overlay-dark="2"></div>
+        <div id="tab1-2" class="bg-img tab-img" data-background="img/portfolio/mas/1.jpg" data-overlay-dark="2"></div>
+        <div id="tab1-3" class="bg-img tab-img" data-background="img/portfolio/mas/10.jpg" data-overlay-dark="2"></div>
+        <div id="tab1-4" class="bg-img tab-img" data-background="img/portfolio/mas/4.jpg" data-overlay-dark="2"></div>
+    </div>
+</section>
+
 <section class="services d-flex justify-content-center">
     <div class="feat-top">
         <div class="notfull bg-gray wow"></div>
@@ -254,58 +307,8 @@
             <source src="" type="video/mp4">
         </video>
 </section>
-<section class="portfolio full-bg-img full-bg d-md-none d-block">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-3 col-6 column current" data-tab="tab1-1" >
-                <div class="fullscreen-bg">
-                    <div class="info">
-                        <h5>Hotelistan</h5>
-                    </div>
-                    <div class="more">
-                        <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-6 column current " data-tab="tab1-2">
-                <div class="info">
-                    <h5>Nova Plaza Crystal Hotel</h5>
-                </div>
-                <!----
-                 <div class="more">
-                     <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
-                 </div>
-                 ---->
-            </div>
-            <div class="col-lg-3 col-6 column " data-tab="tab1-3">
-                <div class="info">
-                    <h5>Mam Event Management </h5>
-                </div>
-                <!----
-               <div class="more">
-                   <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
-               </div>
-               ---->
-            </div>
-            <div class="col-lg-3 col-6 column" data-tab="tab1-4" >
-                <div class="info">
-                    <h5>Nova Plaza Crystal Hotel<br> Yemek Alanı</h5>
-                </div>
-                <!----
-                  <div class="more">
-                      <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
-                  </div>
-                ---->
-            </div>
-        </div>
-    </div>
-    <div class="glry-img">
-        <div id="tab1-1" class="bg-img tab-img current" data-background="img/portfolio/mas/2.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-2" class="bg-img tab-img" data-background="img/portfolio/mas/1.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-3" class="bg-img tab-img" data-background="img/portfolio/mas/10.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-4" class="bg-img tab-img" data-background="img/portfolio/mas/4.jpg" data-overlay-dark="2"></div>
-    </div>
-</section>
+
+
 
 <div class="brands" style="margin-top: 90px; margin-bottom:-60px;">
     <div class="container box-top wow fadeInUp o-hidden" data-wow-delay=".3s" style="padding: 15px 30px 5px;">
