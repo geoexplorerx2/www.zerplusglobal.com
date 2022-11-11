@@ -131,6 +131,20 @@
             </div>
         </div>
     </footer>
+    
+<!-- whatsapp btn start -->
+    <div id="whatsappBtn"></div>
+    <div class="d-none">
+      <p id="wp-send-message">Hello, I would like to know about the services and prices!</p>
+      <p id="wp-message">If you are interested in a Dental Treatment in Turkey or have any questions about the process in general, feel free to start a chat. Our experienced multilingual Medical Advisors are at your service 24/7 to provide you with support.</p>
+      <p id="send-message-btn">Send Message</p>
+   </div>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+   <script type="text/javascript" src="./js/app.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+   <script type="text/javascript" src="./js/venom-button.min.js"></script>
+<!-- whatsapp btn end -->
 
     <script src="js/jquery-3.0.0.min.js"></script>
     <script src="js/jquery-migrate-3.0.0.min.js"></script>
