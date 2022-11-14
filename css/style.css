@@ -57,6 +57,11 @@ a, span {
 a:hover, span:hover {
   text-decoration: none;
 }
+
+.whatsapp-img {
+  width: 29px;
+  margin-right: -5px
+}
 /* ====================== [ End Typography ] ====================== */
 /* ====================== [ Start Helper Classes ] ====================== */
 .o-hidden {

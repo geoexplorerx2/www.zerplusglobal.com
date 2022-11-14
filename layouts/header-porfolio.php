@@ -15,7 +15,7 @@
     <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren iç mekânlara dönüştürüyoruz."/>
     <link rel="alternate" hreflang="tr" href="https://zerplusglobal.com/">
     <title>Zer+ Architects</title>
-    <link rel="shortcut icon" href="img/favicon.ico"/>
+    <link rel="shortcut icon" href="img/favicon.png"/>
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">

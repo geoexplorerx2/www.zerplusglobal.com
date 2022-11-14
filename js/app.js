@@ -5,17 +5,17 @@ $(document).ready(function(){
     var sendWpMessage = $("#wp-send-message").text();
 
     $('#whatsappBtn').venomButton({
-        phone: '905469023191',
+        phone: '905465593473',
         popupMessage: sendMessage,
         message: sendWpMessage,
         showPopup: true,
         position: "left",
         linkButton: false,
         showOnIE: false,
-        headerTitle: '<img width="200" src="./img/core-img/logo.png"><span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i></span>',
+        headerTitle: '<img class="whatsapp-img" src="/img/favicon.png"><span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i> Zerplus</span>',
         headerColor: 'rgb(9, 94, 84)',
         backgroundColor: '#25d366',
-        buttonImage: '<img src="assets/whatsapp.svg">',
+        buttonImage: '<i class="fab fa-whatsapp" aria-hidden="true"></i>',
         zIndex: 999,
     });
 });
