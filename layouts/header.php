@@ -21,7 +21,12 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="css/plugins.css"/>
-    <link rel="stylesheet" href="css/style.css"/>
+    
+    <!-- start whatsapp btn -->
+    <link type="text/css" href="./css/venom-button.min.css" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+   <!-- end whatsapp btn -->
+   <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
 

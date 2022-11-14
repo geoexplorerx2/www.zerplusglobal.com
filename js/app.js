@@ -1,3 +1,27 @@
+// start whatsapp btn
+$(document).ready(function(){
+
+    var sendMessage = $("#wp-message").text();
+    var sendWpMessage = $("#wp-send-message").text();
+
+    $('#whatsappBtn').venomButton({
+        phone: '905469023191',
+        popupMessage: sendMessage,
+        message: sendWpMessage,
+        showPopup: true,
+        position: "left",
+        linkButton: false,
+        showOnIE: false,
+        headerTitle: '<img width="200" src="./img/core-img/logo.png"><span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i></span>',
+        headerColor: 'rgb(9, 94, 84)',
+        backgroundColor: '#25d366',
+        buttonImage: '<img src="assets/whatsapp.svg">',
+        zIndex: 999,
+    });
+});
+
+// end whatsapp btn
+
 $(function () {
     "use strict";
     var wind = $(window);
