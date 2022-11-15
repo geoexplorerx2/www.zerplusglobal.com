@@ -136,7 +136,7 @@
     <div id="whatsappBtn"></div>
     <div class="d-none">
         <p id="wp-send-message">Merhaba, hizmetler ve fiyatlar hakkında bilgi almak istiyorum!</p>
-        <p id="wp-message">Zerplus</p>
+        <p id="wp-message">Profesyonel ekip desteği ile Zer Plus Architects, talepleriniz doğrultusunda mimari proje, tasarım ve uygulama alanlarında size en uygun yaratıcı çözümleriyle yardımcı olmaktan mutluluk duyacaktır.</p>
         <p id="send-message-btn">İletişime Geç</p>
     </div>
 
