@@ -141,10 +141,10 @@
         </div>
     </div>
     <div class="glry-img">
-        <div id="tab1-1" class="bg-img tab-img current" data-background="img/portfolio/mas/2.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-2" class="bg-img tab-img" data-background="img/portfolio/mas/1.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-3" class="bg-img tab-img" data-background="img/portfolio/mas/10.jpg" data-overlay-dark="2"></div>
-        <div id="tab1-4" class="bg-img tab-img" data-background="img/portfolio/mas/4.jpg" data-overlay-dark="2"></div>
+        <div id="tab1-1" class="bg-img tab-img current" data-background="img/portfolio/mas/2.webp" data-overlay-dark="2"></div>
+        <div id="tab1-2" class="bg-img tab-img" data-background="img/portfolio/mas/2.webp" data-overlay-dark="2"></div>
+        <div id="tab1-3" class="bg-img tab-img" data-background="img/portfolio/mas/2.webp" data-overlay-dark="2"></div>
+        <div id="tab1-4" class="bg-img tab-img" data-background="img/portfolio/mas/2.webp" data-overlay-dark="2"></div>
     </div>
 </section>
 
