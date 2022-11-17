@@ -9,10 +9,10 @@
     <meta property="og:locale" content="tr_TR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Zer+ Architects" />
-	<meta property="og:description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren iç mekânlara dönüştürüyoruz." />
+	<meta property="og:description" content="Cesur, yenilikçi ve farklı fikirlerimizi ilham veren iç mekânlara dönüştürüyoruz." />
 	<meta property="og:url" content="https://zerplusglobal.com/" />
 	<meta property="og:site_name" content="Zer+ Architects" />
-    <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren mekânlara dönüştürüyoruz."/>
+    <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi ilham veren mekânlara dönüştürüyoruz."/>
     <link rel="alternate" hreflang="tr" href="https://zerplusglobal.com/">
     <title>Zer+ Architects</title>
     <link rel="shortcut icon" href="img/favicon.png"/>
