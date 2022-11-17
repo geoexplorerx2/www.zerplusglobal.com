@@ -12,7 +12,7 @@ $(document).ready(function(){
         position: "left",
         linkButton: false,
         showOnIE: false,
-        headerTitle: '<img class="whatsapp-img" src="img/favicon.png"><span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i> Zerplus</span>',
+        headerTitle: '<span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i> Zerplus</span>',
         headerColor: 'rgb(9, 94, 84)',
         backgroundColor: '#25d366',
         buttonImage: '<i class="fab fa-whatsapp" aria-hidden="true"></i>',
