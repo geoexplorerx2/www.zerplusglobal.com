@@ -68,6 +68,10 @@
                             </div>
 
                             <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Telefon Numarası" required="required">
+                            </div>
+
+                            <div class="form-group">
                                 <input id="form_email" type="email" name="email" placeholder="E-mail Adresi"
                                     required="required">
                             </div>

@@ -1,3 +1,4 @@
+import 'intl-tel-input/build/css/intlTelInput.css';
 // start whatsapp btn
 $(document).ready(function(){
 
