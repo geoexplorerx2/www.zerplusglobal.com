@@ -36,7 +36,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Nova Crystal Hotel</h5>
+                            <h5 style=''>Crystal Hotel</h5>
                             <span>Otel</span>
                         </div>
                     </div>
@@ -186,7 +186,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>May Atkı Render</h5>
+                            <h5 style=''>May Atkı Fabrika</h5>
                             <span>Fabrika</span>
                         </div>
                     </div>
@@ -223,19 +223,19 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Crystal Ruhsat 1</h5>
+                            <h5 style=''>Crystal Ruhsat</h5>
                             <span>Otel</span>
                         </div>
                     </div>
 
-                    <div class="items permit three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/ruhsatlar/1.jpg","img/portfolio/projects/ruhsatlar/beyogluOtel-2.jpg"]'>
+                    <div class="items permit three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/ruhsatlar/1.jpg","img/portfolio/projects/ruhsatlar/2.jpg"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/projects/ruhsatlar/1.jpg">
                             <a href="javascript:;">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5 style=''>Beyoglu Otel</h5>
+                            <h5 style=''>Beyoğlu Otel</h5>
                             <span>Otel</span>
                         </div>
                     </div>

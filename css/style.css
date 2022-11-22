@@ -135,7 +135,7 @@ a:hover, span:hover {
   background-repeat: repeat;
 }
 .section-padding {
-  padding: 120px 0;
+  padding-bottom: 120px;
 }
 .section-ptb {
   padding: 80px 0;
@@ -1175,6 +1175,11 @@ body {
   .navbar #social-icon a {
       color: black !important;
  }
+}
+@media screen and (max-width: 990px) {
+  .change-color a {
+    color: white !important;
+  }
 }
 .navbar {
   position: absolute;
@@ -3169,6 +3174,31 @@ body {
   font-style: italic;
   color: #333;
 }
+
+@media screen and (max-width: 640px) {
+  .testimonials.grid .item .cont p {
+    font-size: 14px;
+  }
+  .section-head {
+    margin: 0 auto 40px;
+  }
+  .mb-50{
+    margin-bottom: -100px !important;
+  }
+  .mobile_adjust {
+    font-size: smaller;
+  }
+  .about.section-padding {
+    padding: 0 !important;
+  }
+  .services .feat-top .item-sm {
+    margin-bottom: 10px !important;
+  }
+  .services .feat-top {
+    padding: 50px 10px 50px !important;
+  }
+}
+
 .testimonials.grid .item .info {
   margin-top: 30px;
   padding-left: 30px;

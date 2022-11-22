@@ -1,4 +1,3 @@
-import 'intl-tel-input/build/css/intlTelInput.css';
 // start whatsapp btn
 $(document).ready(function(){
 
@@ -476,7 +475,7 @@ $(window).on("load", function () {
 
     $('#contact-form').on('submit', function (e) {
         if (!e.isDefaultPrevented()) {
-            var url = "contact.php";
+            var url = "mail_handler.php";
 
             $.ajax({
                 type: "POST",
@@ -497,6 +496,31 @@ $(window).on("load", function () {
         }
     });
 
+});
+
+$(document).ready(function() {
+$('.myform').on('submit',function(){
+
+// Add text 'loading...' right after clicking on the submit button. 
+$('.messages').text('Loading...'); 
+
+var form = $(this);
+     $.ajax({
+     url: "mail_handler.php",
+     method: form.attr('method'),
+     data: form.serialize(),
+     success: function(result){
+        if (result.search('success')){
+            $('.messages').text('Mesajınızı Aldık!');  
+        } else {
+            $('.messages').text('Hata Oluştu! Lütfen Tekrar Deneyiniz');
+        }
+}
+});
+
+// Prevents default submission of the form after clicking on the submit button. 
+return false;   
+});
 });
 
 paceOptions = {

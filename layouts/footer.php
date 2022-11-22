@@ -145,6 +145,38 @@
     <script type="text/javascript" src="js/venom-button.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
+    <script type="text/javascript" src="js/intlTelInput.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
+
+    <script src="build/js/intlTelInput.js"></script>
+  <script>
+    var input = document.querySelector("#phone");
+    
+    window.intlTelInput(input, {
+        initialCountry: false,
+        geoIpLookup: function(callback) {
+            $.get('https://ipinfo.io', function() {}, "jsonp").always(function(resp) {
+            var countryCode = (resp && resp.country) ? resp.country : "us";
+            callback(countryCode);
+            });
+        },
+        // nationalMode: true,
+      // allowDropdown: false,
+      // autoHideDialCode: false,
+    //   autoPlaceholder: "aggressive",
+      // dropdownContainer: document.body,
+      // excludeCountries: ["us"],
+    //   formatOnDisplay: false,
+      // hiddenInput: "full_number",
+    //   initialCountry: "auto",
+    //   localizedCountries: { 'de': 'Deutschland' },
+      // nationalMode: false,
+      // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+      placeholderNumberType: "MOBILE",
+      preferredCountries: ['tr'],
+      separateDialCode: true,
+      utilsScript: "../build/js/utils.js",
+    });
+  </script>
 </body>
 </html>
