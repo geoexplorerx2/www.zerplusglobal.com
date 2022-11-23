@@ -59,7 +59,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="img/slid/slide-4.jpeg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="img/slid/slide-4.jpg" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">

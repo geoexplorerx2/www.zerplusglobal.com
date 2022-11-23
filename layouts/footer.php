@@ -160,18 +160,6 @@
             callback(countryCode);
             });
         },
-        // nationalMode: true,
-      // allowDropdown: false,
-      // autoHideDialCode: false,
-    //   autoPlaceholder: "aggressive",
-      // dropdownContainer: document.body,
-      // excludeCountries: ["us"],
-    //   formatOnDisplay: false,
-      // hiddenInput: "full_number",
-    //   initialCountry: "auto",
-    //   localizedCountries: { 'de': 'Deutschland' },
-      // nationalMode: false,
-      // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
       placeholderNumberType: "MOBILE",
       preferredCountries: ['tr'],
       separateDialCode: true,

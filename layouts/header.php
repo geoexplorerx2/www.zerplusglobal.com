@@ -117,12 +117,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                 </g>
             </svg>
         </a>
-        <!--        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
-        <!--            -->
-        <!--            <span class="icon-bar top-bar"></span>-->
-        <!--            <span class="icon-bar middle-bar"></span>-->
-        <!--            <span class="icon-bar bottom-bar"></span>-->
-        <!--        </button>-->
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"><i class="fas fa-bars"></i></span>
