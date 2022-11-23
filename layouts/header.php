@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="css/plugins.css"/>
     <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="build/css/intlTelInput.css">
+    <lik rel="stylesheet" href="build/css/demo.css">
 </head>
 <body>
 

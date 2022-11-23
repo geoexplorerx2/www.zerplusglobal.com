@@ -3,6 +3,7 @@
 <header class="slid-half">
     <div id="js-cta-slider" class="cta__slider-wrapper nofull swiper-container">
         <div class="swiper-wrapper cta__slider">
+            
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
                     <div class="bg-img" data-background="img/slid/slide-3.1.webp" data-overlay-dark="5"></div>
@@ -33,7 +34,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="img/slid/slide-2.webp" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="img/slid/slide-2.jpg" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -58,7 +59,63 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="img/slid/slide-4.webp" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="img/slid/slide-4.jpeg" data-overlay-dark="5"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-10 offset-lg-1">
+                                <div class="caption">
+                                    <span class="top-corn"></span>
+                                    <span class="bottom-corn"></span>
+                                    <div class="custom-font">
+                                        <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
+                                        <h1 data-splitting><a href="javascript:;">
+                                                Yenilikçi Yaklaşım
+                                            </a>
+                                        </h1>
+                                    </div>
+                                    <p>Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara
+                                        dönüştürüyoruz.</p>
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
+                                        <span>Keşfet</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta__slider-item swiper-slide">
+                <div class="media-wrapper slide-inner valign">
+                    <div class="bg-img" data-background="img/slid/slide-5.jpg" data-overlay-dark="5"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-10 offset-lg-1">
+                                <div class="caption">
+                                    <span class="top-corn"></span>
+                                    <span class="bottom-corn"></span>
+                                    <div class="custom-font">
+                                        <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
+                                        <h1 data-splitting><a href="javascript:;">
+                                                Yenilikçi Yaklaşım
+                                            </a>
+                                        </h1>
+                                    </div>
+                                    <p>Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara
+                                        dönüştürüyoruz.</p>
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
+                                        <span>Keşfet</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta__slider-item swiper-slide">
+                <div class="media-wrapper slide-inner valign">
+                    <div class="bg-img" data-background="img/slid/slide-6.jpg" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -84,6 +141,7 @@
                 </div>
             </div>
         </div>
+
         <div class="cta__slider-arrows">
             <i id="js-cta-slider-next" class="cta__slider-arrow cta__slider-arrow--next">
                 <i class="fas fa-chevron-up"></i>
@@ -104,7 +162,7 @@
                         <h5>Hotelistan</h5>
                     </div>
                     <div class="more">
-                        <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                        <a href="/portfolio">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -112,31 +170,25 @@
                 <div class="info">
                     <h5>Nova Plaza Crystal Hotel</h5>
                 </div>
-                <!----
                  <div class="more">
-                     <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                     <a href="/portfolio">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
                  </div>
-                 ---->
             </div>
             <div class="col-lg-3 col-6 column " data-tab="tab1-3">
                 <div class="info">
                     <h5>Mam Event Management </h5>
                 </div>
-                <!----
                <div class="more">
-                   <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                   <a href="/portfolio">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
                </div>
-               ---->
             </div>
             <div class="col-lg-3 col-6 column" data-tab="tab1-4" >
                 <div class="info">
                     <h5>Nova Plaza Crystal Hotel<br> Yemek Alanı</h5>
                 </div>
-                <!----
                   <div class="more">
-                      <a href="#0">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
+                      <a href="/portfolio">Projeyi Görüntüle <i class="fas fa-chevron-right"></i></a>
                   </div>
-                ---->
             </div>
         </div>
     </div>
@@ -199,7 +251,7 @@
                 <div class="exp-content nopat wow fadeInUp" data-wow-delay=".3s">
                     <h6 class="sub-title">Hakkımızda</h6>
                     <h2 class="mb-20 playfont">Hayal ve İnşa <br></h2>
-                    <p>Disiplinler arası bir kavram olan mimarlıkta ve bir tasarım disiplini olan iç mimarlıkta değişim süreklilik arz eder ve yaratıcılıkla birlikte gelir. ZER+ kararlı bir optimizm rehberliğinde, tasarımın gücünün olumlu değişimi tetikleyebileceğine, mekâna ve kişiye özgü fonksiyonel çözümler üreterek hayalleri projelendirip, uygulamaya ve gerçeğe dönüştürmeyi hedeflemektedir.</p>
+                    <p class="mobile_adjust">Disiplinler arası bir kavram olan mimarlıkta ve bir tasarım disiplini olan iç mimarlıkta değişim süreklilik arz eder ve yaratıcılıkla birlikte gelir. ZER+ kararlı bir optimizm rehberliğinde, tasarımın gücünün olumlu değişimi tetikleyebileceğine, mekâna ve kişiye özgü fonksiyonel çözümler üreterek hayalleri projelendirip, uygulamaya ve gerçeğe dönüştürmeyi hedeflemektedir.</p>
                     <ul>
                         <li>Mimari</li>
                         <li>İç Dizayn</li>
@@ -382,7 +434,7 @@
 
 <section class="testimonials grid section-padding bg-img parallaxie" data-background="img/001.jpg"
          data-overlay-dark="10">
-    <div class="container mb-50">
+    <div class="container mb-50 ">
         <div class="section-head text-center">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
