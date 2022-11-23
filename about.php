@@ -16,7 +16,7 @@
 
     <section class="about section-padding">
         <div class="container">
-            <div class="row">
+            <div class="row mt-50">
                 <div class="col-lg-6">
                     <div class="numbers">
                         <div class="row">
