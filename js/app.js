@@ -470,7 +470,6 @@ $(window).on("load", function () {
         $(this).addClass('active').siblings().removeClass('active');
     });
 
-
     $('#contact-form').validator();
 
     $('#contact-form').on('submit', function (e) {
@@ -495,32 +494,29 @@ $(window).on("load", function () {
             return false;
         }
     });
-
 });
 
 $(document).ready(function() {
 $('.myform').on('submit',function(){
 
-// Add text 'loading...' right after clicking on the submit button. 
 $('.messages').text('Loading...'); 
 
 var form = $(this);
-     $.ajax({
-     url: "mail_handler.php",
-     method: form.attr('method'),
-     data: form.serialize(),
-     success: function(result){
-        if (result.search('success')){
-            $('.messages').text('Mesajınızı Aldık!');  
-        } else {
-            $('.messages').text('Hata Oluştu! Lütfen Tekrar Deneyiniz');
+    $.ajax({
+        url: "mail_handler.php",
+        method: form.attr('method'),
+        data: form.serialize(),
+        success: function(result){
+            if (result.search('success')){
+                $('.messages').text('Mesajınızı Aldık!');  
+            } else {
+                $('.messages').text('Hata Oluştu! Lütfen Tekrar Deneyiniz');
+            }
         }
-}
-});
+    });
 
-// Prevents default submission of the form after clicking on the submit button. 
-return false;   
-});
+    return false;   
+    });
 });
 
 paceOptions = {
@@ -566,8 +562,6 @@ $(document).ready(function () {
         jQuery('html, body').animate({ scrollTop: 0 }, duration);
         return false;
     })
-
-
 });
 
 function mousecursor() {
