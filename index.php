@@ -1,4 +1,4 @@
-<?php include('layouts/header.php'); ?>
+<?php include('layouts/header.php'); include('lang/tr.php'); ?>
 
 <header class="slid-half">
     <div id="js-cta-slider" class="cta__slider-wrapper nofull swiper-container">
@@ -15,14 +15,10 @@
                                     <span class="bottom-corn"></span>
                                     <div class="custom-font">
                                         <!-- <h5 class="thin custom-font">işlevsel</h5> -->
-                                        <h1 data-splitting><a href="javascript:;">
-                                                İşlevsel Çözümler
-                                            </a></h1>
+                                        <h1 data-splitting><a href="javascript:;"><?= $lang['intro-title-1']; ?></a></h1>
                                     </div>
-                                    <p>Yaşamsal gereksinimleri akılcı çözümlerle <br> karşılayan zamansız mekânlar
-                                        tasarlıyoruz.
-                                    </p>
-                                    <a href="portfolio.php"  class="btn-curve btn-color mt-30">
+                                    <p><?= $lang['intro-desc-1']; ?></p>
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
                                         <span>Keşfet</span>
                                     </a>
                                 </div>
