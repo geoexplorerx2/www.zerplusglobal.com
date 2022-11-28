@@ -1,4 +1,4 @@
-<?php include('lang/tr.php'); ?>
+<?php include('../lang/tr.php'); ?>
 
 
 <!DOCTYPE html>

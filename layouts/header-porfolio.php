@@ -1,3 +1,5 @@
+<?php include('lang/tr.php'); ?>
+
 <!DOCTYPE html>
 <html lang="tr-TR">
 <head>
@@ -15,6 +17,11 @@
     <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi ilham veren mekânlara dönüştürüyoruz."/>
     <link rel="alternate" hreflang="tr" href="https://zerplusglobal.com/">
     <title>Zer+ Architects</title>
+    <!-- s -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
+    <!-- e -->
     <link rel="shortcut icon" href="img/favicon.png"/>
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
@@ -22,10 +29,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="css/plugins.css"/>
     <link rel="stylesheet" href="css/style.css"/>
+    
 </head>
 <body>
 <div id="preloader">
-    <div class="loading-text">Yükleniyor..</div>
+    <div class="loading-text"><?= $lang['loading']; ?></div>
 </div>
 
 <div class="progress-wrap cursor-pointer">
@@ -114,12 +122,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                 </g>
             </svg>
         </a>
-        <!--        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
-        <!--            -->
-        <!--            <span class="icon-bar top-bar"></span>-->
-        <!--            <span class="icon-bar middle-bar"></span>-->
-        <!--            <span class="icon-bar bottom-bar"></span>-->
-        <!--        </button>-->
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"><i style="color:black;" class="fas fa-bars"></i></span>
@@ -127,19 +130,49 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
         <div class="collapse navbar-collapse change-color" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto" >
                 <li class="nav-item">
-                    <a style="color:black;" class="nav-link" id="nav-link" href="/">Anasayfa</a>
+                    <a style="color:black;" class="nav-link" id="nav-link" href="/"><?= $lang['nav-home']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/about">Hakkımızda</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/about"><?= $lang['nav-about']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/portfolio">Portfolyo</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/portfolio"><?= $lang['nav-portfolio']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a  style="color:black;" class="nav-link" id="nav-link" href="/contact">İletişim</a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/contact"><?= $lang['nav-contact']; ?></a>
                 </li>
-
             </ul>
+
+            <div class="dropdown">
+                <a class="dropdown-toggle  ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+                    <i class="flag-turkey flag m-0"></i>
+                </a>
+
+                <ul class="dropdown-menu" aria-labelledby="Dropdown">
+                    <li>
+                        <a class="dropdown-item" value="tr"><i class="flag-turkey flag"></i>Turkish<i class="fa fa-check text-success ms-2"></i></a>
+                    </li>
+                    <li><hr class="dropdown-divider" /></li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-america flag"></i>English</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-france flag"></i>French</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-germany flag"></i>Deutsch</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-russia flag"></i>Pусский</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-spain flag"></i>Español</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" value="#"><i class="flag-italy flag"></i>Italiano</a>
+                    </li>
+                </ul>
+            </div>
             <div class="social-icon" id='social-icon'>
                 <a style="color:black;" href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>

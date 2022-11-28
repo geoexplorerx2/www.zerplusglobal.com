@@ -1,4 +1,11 @@
-// start whatsapp btn
+// languages: 
+$(".language").click(function(){
+    var selectedLanguage = $(this).attr("value");
+    console.log(selectedLanguage);
+    window.location.href = '/zerplus/webpage/' + selectedLanguage;
+});
+
+// start whatsapp btn:
 $(document).ready(function(){
 
     var sendMessage = $("#wp-message").text();

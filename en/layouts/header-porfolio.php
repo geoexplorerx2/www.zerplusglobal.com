@@ -1,5 +1,4 @@
-<?php include('lang/tr.php'); ?>
-
+<?php include('../lang/en.php'); ?>
 
 <!DOCTYPE html>
 <html lang="tr-TR">
@@ -12,27 +11,27 @@
     <meta property="og:locale" content="tr_TR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Zer+ Architects" />
-	<meta property="og:description" content="Cesur, yenilikçi ve farklı fikirlerimizi  ilham veren iç mekânlara dönüştürüyoruz." />
+	<meta property="og:description" content="Cesur, yenilikçi ve farklı fikirlerimizi ilham veren iç mekânlara dönüştürüyoruz." />
 	<meta property="og:url" content="https://zerplusglobal.com/" />
 	<meta property="og:site_name" content="Zer+ Architects" />
     <meta name="description" content="Cesur, yenilikçi ve farklı fikirlerimizi ilham veren mekânlara dönüştürüyoruz."/>
     <link rel="alternate" hreflang="tr" href="https://zerplusglobal.com/">
     <title>Zer+ Architects</title>
+    <!-- s -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
+    <!-- e -->
     <link rel="shortcut icon" href="img/favicon.png"/>
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="css/plugins.css"/>
     <link rel="stylesheet" href="css/style.css"/>
-    <link rel="stylesheet" href="build/css/intlTelInput.css">
-    <lik rel="stylesheet" href="build/css/demo.css">
+    
 </head>
 <body>
-
 <div id="preloader">
     <div class="loading-text"><?= $lang['loading']; ?></div>
 </div>
@@ -49,7 +48,7 @@
 <nav class="navbar change navbar-expand-lg">
     <div class="container">
         <a class="logo" href="/">
-            <svg style="fill: #fff;" version="1.0" xmlns="http://www.w3.org/2000/svg"
+            <svg style="fill:black;" version="1.0" xmlns="http://www.w3.org/2000/svg"
                  width="1353.000000pt" height="148.000000pt" viewBox="0 0 1353.000000 148.000000"
                  preserveAspectRatio="xMidYMid meet">
                 <g transform="translate(0.000000,148.000000) scale(0.100000,-0.100000)"
@@ -126,61 +125,57 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="icon-bar"><i class="fas fa-bars"></i></span>
+            <span class="icon-bar"><i style="color:black;" class="fas fa-bars"></i></span>
         </button>
-        
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
+        <div class="collapse navbar-collapse change-color" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto" >
                 <li class="nav-item">
-                    <a class="nav-link" href="/"><?= $lang['nav-home']; ?></a>
+                    <a style="color:black;" class="nav-link" id="nav-link" href="/"><?= $lang['nav-home']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about"><?= $lang['nav-about']; ?></a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/about"><?= $lang['nav-about']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/portfolio"><?= $lang['nav-portfolio']; ?></a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/portfolio"><?= $lang['nav-portfolio']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact"><?= $lang['nav-contact']; ?></a>
+                    <a  style="color:black;" class="nav-link" id="nav-link" href="/contact"><?= $lang['nav-contact']; ?></a>
                 </li>
             </ul>
 
             <div class="dropdown">
-                <a class="dropdown-toggle ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+                <a class="dropdown-toggle  ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
                     <i class="flag-turkey flag m-0"></i>
                 </a>
 
                 <ul class="dropdown-menu" aria-labelledby="Dropdown">
                     <li>
-                        <a class="dropdown-item language" value="tr"><i class="flag-turkey flag"></i>Turkish<i class="fa fa-check text-success ms-2"></i></a>
+                        <a class="dropdown-item" value="tr"><i class="flag-turkey flag"></i>Turkish<i class="fa fa-check text-success ms-2"></i></a>
                     </li>
                     <li><hr class="dropdown-divider" /></li>
                     <li>
-                        <a class="dropdown-item language" value="en"><i class="flag-america flag"></i>English</a>
+                        <a class="dropdown-item" value="#"><i class="flag-america flag"></i>English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="fr"><i class="flag-france flag"></i>French</a>
+                        <a class="dropdown-item" value="#"><i class="flag-france flag"></i>French</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="de"><i class="flag-germany flag"></i>Deutsch</a>
+                        <a class="dropdown-item" value="#"><i class="flag-germany flag"></i>Deutsch</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="ru"><i class="flag-russia flag"></i>Pусский</a>
+                        <a class="dropdown-item" value="#"><i class="flag-russia flag"></i>Pусский</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="es"><i class="flag-spain flag"></i>Español</a>
+                        <a class="dropdown-item" value="#"><i class="flag-spain flag"></i>Español</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="it"><i class="flag-italy flag"></i>Italiano</a>
+                        <a class="dropdown-item" value="#"><i class="flag-italy flag"></i>Italiano</a>
                     </li>
                 </ul>
             </div>
-
-
-            <div class="social-icon">
-                <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
+            <div class="social-icon" id='social-icon'>
+                <a style="color:black;" href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
-        
     </div>
 </nav>
