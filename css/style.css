@@ -19,6 +19,20 @@
   padding-left: unset;
   margin-top: unset;
 }
+
+.dropdown-menu>li:first-child .dropdown-item {
+  color: black !important;
+}
+
+.dropdown-menu>li:not(:first-child):not(:last-child) .dropdown-item {
+  border-radius: 0;
+  color: black !important;
+}
+
+.dropdown-menu>li:last-child .dropdown-item {
+  color : black !important;
+}
+
 body {
   color: #191514;
   line-height: 1.5;
@@ -1633,9 +1647,10 @@ body {
 .cta__slider-arrows {
   display: block;
   position: absolute;
-  bottom: 40px;
+  bottom: 60px;
   right: 40px;
   z-index: 2;
+  margin-bottom: 20px;
 }
 .cta__slider-arrow {
   width: 55px;
@@ -3974,7 +3989,7 @@ body {
  }
   .navbar .navbar-collapse {
       max-height: 340px;
-      overflow: auto;
+      /* overflow: auto; */
       background: #111;
       text-align: center;
       padding: 10px 15px;

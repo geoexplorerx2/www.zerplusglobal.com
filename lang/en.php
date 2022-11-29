@@ -2,13 +2,13 @@
 // ENGLISH: 
 
 // Loading:
-$lang['loading'] = "Yükleniyor..";
+$lang['loading'] = "Loading..";
 
 // Header
-$lang['nav-home'] = "Anasayfa";
-$lang['nav-about'] = "Hakkımızda";
-$lang['nav-portfolio'] = "Portfolyo";
-$lang['nav-contact'] = "İletişim";
+$lang['nav-home'] = "Home";
+$lang['nav-about'] = "About";
+$lang['nav-portfolio'] = "Portfolio";
+$lang['nav-contact'] = "Contact";
 
 // INDEX PAGE:
 // Hero Section:

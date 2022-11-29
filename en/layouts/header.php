@@ -1,8 +1,8 @@
-<?php include('../lang/tr.php'); ?>
+<?php include('../lang/en.php'); ?>
 
 
 <!DOCTYPE html>
-<html lang="tr-TR">
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -159,7 +159,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                         <a class="dropdown-item language" value="en"><i class="flag-america flag"></i>English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="fr"><i class="flag-france flag"></i>French</a>
+                        <a class="dropdown-item language" value="fr"><i class="flag-france flag"></i>Français</a>
                     </li>
                     <li>
                         <a class="dropdown-item language" value="de"><i class="flag-germany flag"></i>Deutsch</a>
