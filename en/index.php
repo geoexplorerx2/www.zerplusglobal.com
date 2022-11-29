@@ -18,7 +18,7 @@
                                         <h1 data-splitting><a href="javascript:;"><?= $lang['intro-title-1']; ?></a></h1>
                                     </div>
                                     <p><?= $lang['intro-desc-1']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -42,7 +42,7 @@
                                         <h1 data-splitting><a href="javascript:;"><?= $lang['intro-title-2']; ?></a></h1>
                                     </div>
                                     <p><?= $lang['intro-desc-2']; ?></p>
-                                    <a href="/portfolio"  class="btn-curve btn-color mt-30">
+                                    <a href="portfolio.php"  class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -69,7 +69,7 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-3']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -96,7 +96,7 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-3']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -123,7 +123,7 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-3']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="portfolio.php" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>

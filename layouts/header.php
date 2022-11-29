@@ -1,5 +1,8 @@
+<?php include('lang/tr.php'); ?>
+
+
 <!DOCTYPE html>
-<html lang="tr-TR">
+<html lang="tr">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -19,6 +22,9 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="css/plugins.css"/>
     <link rel="stylesheet" href="css/style.css"/>
@@ -28,7 +34,7 @@
 <body>
 
 <div id="preloader">
-    <div class="loading-text">Yükleniyor..</div>
+    <div class="loading-text"><?= $lang['loading']; ?></div>
 </div>
 
 <div class="progress-wrap cursor-pointer">
@@ -122,24 +128,59 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"><i class="fas fa-bars"></i></span>
         </button>
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Anasayfa</a>
+                    <a class="nav-link" href="/"><?= $lang['nav-home']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about">Hakkımızda</a>
+                    <a class="nav-link" href="/about"><?= $lang['nav-about']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/portfolio">Portfolyo</a>
+                    <a class="nav-link" href="/portfolio"><?= $lang['nav-portfolio']; ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact">İletişim</a>
+                    <a class="nav-link" href="/contact"><?= $lang['nav-contact']; ?></a>
                 </li>
             </ul>
+
+            <div class="dropdown">
+                <a class="dropdown-toggle ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+                    <i class="flag-turkey flag m-0"></i>
+                </a>
+
+                <ul class="dropdown-menu" aria-labelledby="Dropdown">
+                    <li>
+                        <a class="dropdown-item language" value="tr"><i class="flag-turkey flag"></i>Turkish<i class="fa fa-check text-success ms-2"></i></a>
+                    </li>
+                    <li><hr class="dropdown-divider" /></li>
+                    <li>
+                        <a class="dropdown-item language" value="en"><i class="flag-america flag"></i>English</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item language" value="fr"><i class="flag-france flag"></i>Français</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item language" value="de"><i class="flag-germany flag"></i>Deutsch</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item language" value="ru"><i class="flag-russia flag"></i>Pусский</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item language" value="es"><i class="flag-spain flag"></i>Español</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item language" value="it"><i class="flag-italy flag"></i>Italiano</a>
+                    </li>
+                </ul>
+            </div>
+
+
             <div class="social-icon">
                 <a href="https://www.instagram.com/zerplusglobal/?igshid=NzNkNDdiOGI%3D" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
+        
     </div>
 </nav>
