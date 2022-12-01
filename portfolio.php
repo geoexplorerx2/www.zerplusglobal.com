@@ -127,7 +127,6 @@
                         </div>
                     </div>
 
-                    <!-- hamam images -->
                     <div class="items restaurant three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/catmaMescitHamam/0.jpg","img/portfolio/projects/catmaMescitHamam/1.jpg","img/portfolio/projects/catmaMescitHamam/2.jpg","img/portfolio/projects/catmaMescitHamam/5.jpg","img/portfolio/projects/catmaMescitHamam/6.jpg","img/portfolio/projects/catmaMescitHamam/7.jpg","img/portfolio/projects/catmaMescitHamam/8.jpg","img/portfolio/projects/catmaMescitHamam/9.jpg","img/portfolio/projects/catmaMescitHamam/3.jpg"]'>
                         <div class="item-img bg-img" data-background="img/portfolio/projects/catmaMescitHamam/cover.jpg">
                             <a href="javascript:;">
@@ -137,6 +136,30 @@
                         <div class="info mt-10">
                             <h5 style=''><?= $lang['portfolio-name-9'] ; ?></h5>
                             <span><?= $lang['portfolio-hamam']; ?></span>
+                        </div>
+                    </div>
+                    <!-- taksim hotel -->
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/taksimSquare/1.jpg","img/portfolio/projects/taksimSquare/2.jpg","img/portfolio/projects/taksimSquare/3.jpg","img/portfolio/projects/taksimSquare/4.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/taksimSquare/cover.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''><?= $lang['portfolio-name-19'] ; ?></h5>
+                            <span><?= $lang['portfolio-otel']; ?></span>
+                        </div>
+                    </div>
+                    <!-- park hotel -->
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["img/portfolio/projects/parkOtel/1.jpg","img/portfolio/projects/parkOtel/2.jpg","img/portfolio/projects/parkOtel/3.jpg","img/portfolio/projects/parkOtel/4.jpg","img/portfolio/projects/parkOtel/5.jpg"]'>
+                        <div class="item-img bg-img" data-background="img/portfolio/projects/parkOtel/cover.jpg">
+                            <a href="javascript:;">
+                                <div class="item-img-overlay valign"></div>
+                            </a>
+                        </div>
+                        <div class="info mt-10">
+                            <h5 style=''><?= $lang['portfolio-name-20'] ; ?></h5>
+                            <span><?= $lang['portfolio-otel']; ?></span>
                         </div>
                     </div>
                     

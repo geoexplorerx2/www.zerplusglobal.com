@@ -106,30 +106,32 @@ $lang['portfolio-ruhsat'] = "Ruhsat";
 
 $lang['portfolio-restoran'] = "Restoran";
 $lang['portfolio-klinik'] = "Klinik";
-$lang['portfolio-mimar'] = "Architecture";
+$lang['portfolio-mimar'] = "Mimari";
 $lang['portfolio-hamam'] = "Hamam";
 $lang['portfolio-fabrika'] = "Fabrika";
 $lang['portfolio-render'] = "Render";
 $lang['portfolio-icdizayn'] = "İç Dizyn";
 
-$lang['portfolio-name-1'] = "Crystal Hotel";
+$lang['portfolio-name-1'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-2'] = "Arpanu Medical Ofis";
 $lang['portfolio-name-3'] = "Crystal Restaurant";
 $lang['portfolio-name-4'] = " Dentfix Diş Kliniği";
 $lang['portfolio-name-5'] = "Nova Dental Laboratory";
 $lang['portfolio-name-6'] = "Mam Event Management";
-$lang['portfolio-name-7'] = "Nova Plaza Pera Hotel";
+$lang['portfolio-name-7'] = "Nova Plaza Pera Otel";
 $lang['portfolio-name-8'] = "Güzide Restaurant";
 $lang['portfolio-name-9'] = "Catma Mescit Istanbul Hamam";
 $lang['portfolio-name-10'] = "Pişi Pişi <br> Kahvaltı Salonu";
 $lang['portfolio-name-11'] = "Temenye Konakları";
 $lang['portfolio-name-12'] = "Con4Cus";
 $lang['portfolio-name-13'] = "May Atkı Fabrika";
-$lang['portfolio-name-14'] = "Crystal Hotel";
-$lang['portfolio-name-15'] = "City Hotel";
+$lang['portfolio-name-14'] = "Nova Plaza Crystal Otel";
+$lang['portfolio-name-15'] = "Nova Plaza City Otel";
 $lang['portfolio-name-16'] = "Crystal Ruhsat";
 $lang['portfolio-name-17'] = "Beyoğlu Otel";
 $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
+$lang['portfolio-name-19'] = "Nova Plaza Taksim Otel";
+$lang['portfolio-name-20'] = "Nova Plaza Park Otel";
 
 
 // CONTACT PAGE:
