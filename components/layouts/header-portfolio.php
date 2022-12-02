@@ -1,7 +1,5 @@
-<?php include('lang/en.php'); ?>
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -22,14 +20,13 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
     <!-- e -->
-    <link rel="shortcut icon" href="img/favicon.png"/>
+    <link rel="shortcut icon" href="<?= $pageLink ?>/img/favicon.png"/>
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
-    <link rel="stylesheet" href="css/plugins.css"/>
-    <link rel="stylesheet" href="css/style.css"/>
-    
+    <link rel="stylesheet" href="<?= $pageLink ?>/css/plugins.css"/>
+    <link rel="stylesheet" href="<?= $pageLink ?>/css/style.css"/>   
 </head>
 <body>
 <div id="preloader">
@@ -154,22 +151,22 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                     </li>
                     <li><hr class="dropdown-divider" /></li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-america flag"></i>English</a>
+                        <a class="dropdown-item" value="en"><i class="flag-america flag"></i>English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-france flag"></i>Français</a>
+                        <a class="dropdown-item" value="fr"><i class="flag-france flag"></i>Français</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-germany flag"></i>Deutsch</a>
+                        <a class="dropdown-item" value="de"><i class="flag-germany flag"></i>Deutsch</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-russia flag"></i>Pусский</a>
+                        <a class="dropdown-item" value="ru"><i class="flag-russia flag"></i>Pусский</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-spain flag"></i>Español</a>
+                        <a class="dropdown-item" value="es"><i class="flag-spain flag"></i>Español</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="#"><i class="flag-italy flag"></i>Italiano</a>
+                        <a class="dropdown-item" value="it"><i class="flag-italy flag"></i>Italiano</a>
                     </li>
                 </ul>
             </div>
