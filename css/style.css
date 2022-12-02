@@ -12,12 +12,13 @@
   outline: none;
   list-style: none;
 }
-.row>* {
-  flex-shrink: unset;
-  max-width: unset;
+
+.row.portfolio>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
   padding-right: unset;
   padding-left: unset;
-  margin-top: unset;
 }
 
 .dropdown-menu>li:first-child .dropdown-item {

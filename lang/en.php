@@ -1,8 +1,7 @@
 <?php
-// ENGLISH: 
 
 // Loading:
-$lang['loading'] = "Loading..";
+$lang['loading'] = "LOADING..";
 
 // Header
 $lang['nav-home'] = "Home";
@@ -20,12 +19,15 @@ $lang['intro-desc-2'] = "Özgün tasarımlarımızla yaşayan, <br> çarpıcı v
 
 $lang['intro-title-3'] = "Yenilikçi Yaklaşım";
 $lang['intro-desc-3'] = "Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara dönüştürüyoruz.";
+
 // Buttons:
 $lang['button-kesfet'] = "Keşfet";
 $lang['button-gonder'] = "Gönder";
+$lang['button-goruntule'] = "Projeyi Görüntüle";
+
 
 // Services:
-$lang['service-1'] = "Mimari";
+$lang['service-1'] = "Architecture";
 $lang['service-desc-1'] = "İhtiyaçlarınıza ve isteklerinize göre mimari konsept ve uygulama projeleri hazırlıyoruz.";
 
 $lang['service-2'] = "İç Mimari";
@@ -65,7 +67,7 @@ $lang['reviewer-title-4'] = "Hotelistan Ofis/Arpanu Medical/(Kurucu & CEO)";
 // Footer:
 $lang['footer-telephone'] = "Telefon";
 $lang['footer-mail'] = "Mail";
-$lang['footer-adress'] = "Adres";
+$lang['footer-address'] = "Adres";
 
 $lang['footer-desc'] = "ZER+ olarak hayal edilen mimari projeleri sizler için yaşanılır gerçekliğe dönüştürüyoruz.";
 $lang['footer-rights'] = "Tüm Hakları Saklıdır.";
@@ -102,18 +104,61 @@ $lang['portfolio-ticari'] = "Ticari";
 $lang['portfolio-konut'] = "Konut";
 $lang['portfolio-ruhsat'] = "Ruhsat";
 
+$lang['portfolio-restoran'] = "Restoran";
+$lang['portfolio-klinik'] = "Klinik";
+$lang['portfolio-mimar'] = "Mimari";
+$lang['portfolio-hamam'] = "Hamam";
+$lang['portfolio-fabrika'] = "Fabrika";
+$lang['portfolio-render'] = "Render";
+$lang['portfolio-icdizayn'] = "İç Dizyn";
+
+$lang['portfolio-name-1'] = "Nova Plaza Crystal Otel";
+$lang['portfolio-name-2'] = "Arpanu Medical Ofis";
+$lang['portfolio-name-3'] = "Crystal Restaurant";
+$lang['portfolio-name-4'] = " Dentfix Diş Kliniği";
+$lang['portfolio-name-5'] = "Nova Dental Laboratory";
+$lang['portfolio-name-6'] = "Mam Event Management";
+$lang['portfolio-name-7'] = "Nova Plaza Pera Otel";
+$lang['portfolio-name-8'] = "Güzide Restaurant";
+$lang['portfolio-name-9'] = "Catma Mescit Istanbul Hamam";
+$lang['portfolio-name-10'] = "Pişi Pişi <br> Kahvaltı Salonu";
+$lang['portfolio-name-11'] = "Temenye Konakları";
+$lang['portfolio-name-12'] = "Con4Cus";
+$lang['portfolio-name-13'] = "May Atkı Fabrika";
+$lang['portfolio-name-14'] = "Nova Plaza Crystal Otel";
+$lang['portfolio-name-15'] = "Nova Plaza City Otel";
+$lang['portfolio-name-16'] = "Crystal Ruhsat";
+$lang['portfolio-name-17'] = "Beyoğlu Otel";
+$lang['portfolio-name-18'] = "Mayatki Gumusova Model";
+$lang['portfolio-name-19'] = "Nova Plaza Taksim Otel";
+$lang['portfolio-name-20'] = "Nova Plaza Park Otel";
+
+
 // CONTACT PAGE:
 $lang['contact-call'] = "Bizi Arayın";
 $lang['contact-email'] = "Mail Atın";
 $lang['contact-address'] = "Adres";
+$lang['contact-1'] = "+90 546 559 34 73";
+$lang['contact-2'] = "info@zerplusglobal.com";
 
 // placeholders:
-$lang['placeholder-1'] = "Ad, Soyad";
-$lang['placeholder-2'] = "Telefon Numarası";
-$lang['placeholder-3'] = "E-mail Adresi";
-$lang['placeholder-4'] = "Mesajınız";
+$lang['placeholder-1'] = "Name & Surname";
+$lang['placeholder-2'] = "Phone Number";
+$lang['placeholder-3'] = "E-mail Address";
+$lang['placeholder-4'] = "Your Message";
 
 // WHATSAPP MESSAGE:
 $lang['whatsapp-1'] = "Merhaba, hizmetler ve fiyatlar hakkında bilgi almak istiyorum!";
 $lang['whatsapp-2'] = "Profesyonel ekip desteği ile Zer Plus Architects, talepleriniz doğrultusunda mimari proje, tasarım ve uygulama alanlarında size en uygun yaratıcı çözümleriyle yardımcı olmaktan mutluluk duyacaktır.";
 $lang['whatsapp-3'] = "İletişime Geç";
+
+// Names: 
+$lang['name-1'] = "Hotelistan";
+$lang['name-2'] = "Nova Plaza Crystal Hotel";
+$lang['name-3'] = "Nova Plaza Crystal Hotel<br> Yemek Alanı";
+$lang['name-4'] = "Mam Event Management";
+
+$lang['name-5'] = "Batuhan Aydoğdu,";
+$lang['name-6'] = "Samet Karaman,";
+$lang['name-7'] = "Sami Mutlu,";
+$lang['name-8'] = "Ali Atakan,";

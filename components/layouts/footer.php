@@ -140,15 +140,15 @@
         <p id="send-message-btn"><?= $lang['whatsapp-3']; ?></p>
     </div>
 
-    <script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
-    <script type="text/javascript" src="js/jquery-migrate-3.0.0.min.js"></script>
-    <script type="text/javascript" src="js/venom-button.min.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/jquery-3.0.0.min.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/jquery-migrate-3.0.0.min.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/venom-button.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
-    <script type="text/javascript" src="js/plugins.js"></script>
-    <script type="text/javascript" src="js/intlTelInput.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/plugins.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/intlTelInput.js"></script>
+    <script type="text/javascript" src="<?= $pageLink ?>/js/app.js"></script>
     <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.js"></script>
-    <script src="build/js/intlTelInput.js"></script>
+    <script src="<?= $pageLink ?>/build/js/intlTelInput.js"></script>
     <script>
         var input = document.querySelector("#phone");
         
