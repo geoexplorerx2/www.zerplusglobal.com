@@ -7,7 +7,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 if($_REQUEST['name'] !='' || $_REQUEST['phone'] !=''){
-    $to = "mohd_8580@live.com"; // this is your Email address
+    $to = ""; // this is your Email address
     $name = $_REQUEST['name'];
     $phone = $_REQUEST['phone'];
     $from = $_REQUEST['email']; // this is the sender's Email address
@@ -38,7 +38,7 @@ $mail = new PHPMailer(true);
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'New Message from ZerPlus Contact Form';
+    $mail->Subject = 'New Message from ZerPlus';
     $mail->Body    = 'Name: ' . $name . '<br>' . 
                      'Phone Number: ' . $phone . '<br>' . 
                      'Email: ' . $from . '<br>' . 
@@ -47,7 +47,7 @@ $mail = new PHPMailer(true);
 
     // $mail->send();
     if($mail->send()){
-          $response = 'success';
+        $response = 'success';
     }else{
         $response ='error';
     }
