@@ -17,8 +17,17 @@ $lang['intro-desc-1'] = "Yaşamsal gereksinimleri akılcı çözümlerle <br> ka
 $lang['intro-title-2'] = "Etkili Tasarım";
 $lang['intro-desc-2'] = "Özgün tasarımlarımızla yaşayan, <br> çarpıcı ve şık yaşamsal alanlar yaratıyoruz.";
 
-$lang['intro-title-3'] = "Yenilikçi Yaklaşım";
-$lang['intro-desc-3'] = "Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara dönüştürüyoruz.";
+$lang['intro-title-3'] = "Yaşanabilir Konfor Alanları";
+$lang['intro-desc-3'] = "Kullanıcı deneyimi odaklı yaşam alanları ile ihtiyaçları eyleme dönüştürüyoruz.";
+
+$lang['intro-title-4'] = "Zamansız Mekanlar";
+$lang['intro-desc-4'] = "Eksiksiz iç tasarım ve dekorasyon ile hayalinizdeki mekânı gerçekliğe taşıyoruz.";
+
+$lang['intro-title-5'] = "Özgün Temalar";
+$lang['intro-desc-5'] = "İlham verici tasarımlar ile mekânın göz alıcı bir görünüme kavuşmasını sağlıyoruz.";
+
+$lang['intro-title-6'] = "Yenilikçi Yaklaşım";
+$lang['intro-desc-6'] = "Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara dönüştürüyoruz.";
 
 // Buttons:
 $lang['button-kesfet'] = "Keşfet";

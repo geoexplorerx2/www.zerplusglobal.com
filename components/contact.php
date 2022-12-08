@@ -61,7 +61,8 @@
 
                         <div class="controls">
                             <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="<?= $lang['placeholder-1']; ?>" required="required">
+                                <input id="form_name" type="text" name="name" placeholder="<?= $lang['placeholder-1']; ?>" 
+                                    required="required">
                             </div>
                         
                             <div class="form-group">

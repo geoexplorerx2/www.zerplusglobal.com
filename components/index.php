@@ -89,11 +89,11 @@
                                     <div class="custom-font">
                                         <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
                                         <h1 data-splitting><a href="javascript:;">
-                                                <?= $lang['intro-title-3']; ?>
+                                                <?= $lang['intro-title-4']; ?>
                                             </a>
                                         </h1>
                                     </div>
-                                    <p><?= $lang['intro-desc-3']; ?></p>
+                                    <p><?= $lang['intro-desc-4']; ?></p>
                                     <a href="/portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
@@ -116,11 +116,38 @@
                                     <div class="custom-font">
                                         <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
                                         <h1 data-splitting><a href="javascript:;">
-                                                <?= $lang['intro-title-3']; ?>
+                                                <?= $lang['intro-title-5']; ?>
                                             </a>
                                         </h1>
                                     </div>
-                                    <p><?= $lang['intro-desc-3']; ?></p>
+                                    <p><?= $lang['intro-desc-5']; ?></p>
+                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                        <span><?= $lang['button-kesfet']; ?></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta__slider-item swiper-slide">
+                <div class="media-wrapper slide-inner valign">
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.jpg" data-overlay-dark="5"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-10 offset-lg-1">
+                                <div class="caption">
+                                    <span class="top-corn"></span>
+                                    <span class="bottom-corn"></span>
+                                    <div class="custom-font">
+                                        <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
+                                        <h1 data-splitting><a href="javascript:;">
+                                                <?= $lang['intro-title-6']; ?>
+                                            </a>
+                                        </h1>
+                                    </div>
+                                    <p><?= $lang['intro-desc-6']; ?></p>
                                     <a href="/portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
