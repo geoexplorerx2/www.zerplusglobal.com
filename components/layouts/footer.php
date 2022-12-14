@@ -145,26 +145,10 @@
     <script type="text/javascript" src="<?= $pageLink ?>/js/venom-button.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script type="text/javascript" src="<?= $pageLink ?>/js/plugins.js"></script>
-    <script type="text/javascript" src="<?= $pageLink ?>/js/intlTelInput.js"></script>
+    <script src="<?= $pageLink ?>/js/intltelinput/intlTelInput.js"></script>
     <script type="text/javascript" src="<?= $pageLink ?>/js/app.js"></script>
     <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.js"></script>
-    <script src="<?= $pageLink ?>/build/js/intlTelInput.js"></script>
-    <script>
-        var input = document.querySelector("#phone");
-        
-        window.intlTelInput(input, {
-            initialCountry: false,
-            geoIpLookup: function(callback) {
-                $.get('https://ipinfo.io', function() {}, "jsonp").always(function(resp) {
-                var countryCode = (resp && resp.country) ? resp.country : "us";
-                callback(countryCode);
-                });
-            },
-        placeholderNumberType: "MOBILE",
-        preferredCountries: ['tr'],
-        separateDialCode: true,
-        utilsScript: "../build/js/utils.js",
-        });
-    </script>
+    
+    
 </body>
 </html>

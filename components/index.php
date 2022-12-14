@@ -16,7 +16,16 @@
                                         <h1 data-splitting><a href="javascript:;"><?= $lang['intro-title-1']; ?></a></h1>
                                     </div>
                                     <p><?= $lang['intro-desc-1']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -40,7 +49,16 @@
                                         <h1 data-splitting><a href="javascript:;"><?= $lang['intro-title-2']; ?></a></h1>
                                     </div>
                                     <p><?= $lang['intro-desc-2']; ?></p>
-                                    <a href="/portfolio"  class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -67,7 +85,16 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-3']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -94,7 +121,16 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-4']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -121,7 +157,16 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-5']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>
@@ -148,7 +193,16 @@
                                         </h1>
                                     </div>
                                     <p><?= $lang['intro-desc-6']; ?></p>
-                                    <a href="/portfolio" class="btn-curve btn-color mt-30">
+                                    <a href="<?php
+                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                                    ?>portfolio" class="btn-curve btn-color mt-30">
                                         <span><?= $lang['button-kesfet']; ?></span>
                                     </a>
                                 </div>

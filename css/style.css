@@ -1229,6 +1229,15 @@ body {
   padding: 15px 7px;
   margin: 10px;
 }
+
+.navbar .navbar-nav .nav-link.portfolioOnly {
+  font-size: 13px;
+  font-weight: 400;
+  color: black;
+  letter-spacing: 1px;
+  padding: 15px 7px;
+  margin: 10px;
+}
 .navbar .navbar-nav .dropdown-menu {
   padding: 10px 0;
   border: 0;
@@ -3198,7 +3207,8 @@ body {
 .testimonials.grid .item .cont p {
   font-size: 18px;
   font-weight: 400;
-  font-style: italic;
+  /* font-style: italic; */
+  font-family: cursive;
   color: #333;
 }
 

@@ -25,8 +25,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/plugins.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/style.css"/>
-    <link rel="stylesheet" href="<?= $pageLink ?>/build/css/intlTelInput.css">
-    <lik rel="stylesheet" href="<?= $pageLink ?>/build/css/demo.css">
+    <lik rel="stylesheet" href="<?= $pageLink ?>/css/demo.css">
+
+    <link rel="stylesheet" href="<?= $pageLink ?>/css/intlTelInput.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 
@@ -126,19 +128,70 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
             <span class="icon-bar"><i class="fas fa-bars"></i></span>
         </button>
         
+        
+
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/"><?= $lang['nav-home']; ?></a>
+                    <a class="nav-link" 
+                        href="<?php 
+                            if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                            if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                            if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                        ?>">
+                        <?= $lang['nav-home']; ?>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" 
+                        href="<?php 
+                           if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                           if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                           if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                           if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                           if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                           if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                           if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                           if($subUrl == '/es/' || $subUrl == 'es') echo "/es/";
+                        ?>about">
+                        <?= $lang['nav-about']; ?>
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about"><?= $lang['nav-about']; ?></a>
+                    <a class="nav-link" 
+                        href="<?php 
+                            if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                            if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                            if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/";
+                        ?>portfolio">
+                        <?= $lang['nav-portfolio']; ?>
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/portfolio"><?= $lang['nav-portfolio']; ?></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/contact"><?= $lang['nav-contact']; ?></a>
+                    <a class="nav-link" 
+                        href="<?php 
+                            if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
+                            if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
+                            if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
+                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
+                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
+                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
+                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
+                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                        ?>contact">
+                        <?= $lang['nav-contact']; ?>
+                    </a>
                 </li>
             </ul>
 
@@ -149,9 +202,8 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
                 <ul class="dropdown-menu" aria-labelledby="Dropdown">
                     <li>
-                        <a class="dropdown-item language" value="tr"><i class="flag-turkey flag"></i>Turkish<i class="fa fa-check text-success ms-2"></i></a>
+                        <a class="dropdown-item language" value="tr"><i class="flag-turkey flag"></i>Turkish</a>
                     </li>
-                    <li><hr class="dropdown-divider" /></li>
                     <li>
                         <a class="dropdown-item language" value="en"><i class="flag-america flag"></i>English</a>
                     </li>

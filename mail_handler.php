@@ -32,13 +32,23 @@ $mail = new PHPMailer(true);
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $mail->setFrom($from);
-    $mail->addAddress('mo.alsaleh@hotelistan.com', 'Zerplus');     //Add a recipient
-    $mail->addReplyTo('mo.alsaleh@hotelistan.com', 'Information');
+    $recipients = array(
+        'melikesimsek@zerplusglobal.com' => 'melikesimsek@zerplusglobal',
+        'ahmeteminturk@zerplusglobal.com' => 'ahmeteminturk@zerplusglobal',
+        'melihozbilge@zerplusglobal.com' => 'melihozbilge@zerplusglobal',
+        'ilkim@zerplusglobal.com' => 'ilkim@zerplusglobal',
+        'mo.alsaleh@hotelistan.com' => 'mo.alsaleh@hotelistan',
+    );
+
+    foreach($recipients as $email => $recName)
+        {
+        $mail->AddCC($email, $recName);
+        }
 
     //Content
+    $mail->setFrom('info@zerplus.com', 'ZerPlus');
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'New Message from ZerPlus';
+    $mail->Subject = 'New Message from ZerPlus' ;
     $mail->Body    = 'Name: ' . $name . '<br>' . 
                      'Phone Number: ' . $phone . '<br>' . 
                      'Email: ' . $from . '<br>' . 
@@ -53,3 +63,4 @@ $mail = new PHPMailer(true);
     }
        echo $response;
 }
+
