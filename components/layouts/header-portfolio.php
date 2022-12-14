@@ -201,19 +201,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                         <a class="dropdown-item" value="en"><i class="flag-america flag"></i>English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item" value="fr"><i class="flag-france flag"></i>Français</a>
-                    </li>
-                    <li>
                         <a class="dropdown-item" value="de"><i class="flag-germany flag"></i>Deutsch</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-item" value="ru"><i class="flag-russia flag"></i>Pусский</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-item" value="es"><i class="flag-spain flag"></i>Español</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-item" value="it"><i class="flag-italy flag"></i>Italiano</a>
                     </li>
                 </ul>
             </div>
