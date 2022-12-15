@@ -1,7 +1,7 @@
 <?php
 
 // Loading:
-$lang['loading'] = "Yükleniyor .."; //missing
+$lang['loading'] = "Laden .."; 
 
 // Header
 $lang['nav-home'] = "Startseite";
@@ -30,9 +30,9 @@ $lang['intro-title-6'] = "Innovativer Ansatz";
 $lang['intro-desc-6'] = "Wir setzen unsere gewagten, innovativen und unverwechselbaren Ideen in inspirierende Innenräume um.";
 
 // Buttons:
-$lang['button-kesfet'] = "Keşfet"; //missing
-$lang['button-gonder'] = "Gönder";//missing
-$lang['button-goruntule'] = "Projeyi Görüntüle"; //missing
+$lang['button-kesfet'] = "Erkunden Sie"; 
+$lang['button-gonder'] = "Abschicken ";
+$lang['button-goruntule'] = "Projekt anzeigen"; 
 
 
 // Services:
@@ -42,15 +42,15 @@ $lang['service-desc-1'] = "Wir entwickeln architektonische Konzepte und realisie
 $lang['service-2'] = "Architektonische Innengestaltung ";
 $lang['service-desc-2'] = "Wir erstellen innenarchitektonische Raumpläne und setzen die Projekte um.";
 
-$lang['service-3'] = "Uygulama & Proje Yönetimi"; //missing
+$lang['service-3'] = "Umsetzung & Projektmanagement"; 
 $lang['service-desc-3'] = "Wir verwirklichen architektonische und raumgestalterische Projekte und führen den Bauprozess durch.";
 
 $lang['service-4'] = "Architektonische Beratungsdienste";
 $lang['service-desc-4'] = "Wir bieten maßgeschneiderte, kreative und innovative Designlösungen für individuelle Raum- und Projektanforderung unserer Kunden.";
 
-$lang['service-5'] = " / İç Dizayn"; //missing
+$lang['service-5'] = " / Innenarchitektur "; 
 
-$lang['services-desc-5'] = "Kullanıcı istekleri ve hayalindeki mekân odak noktamızı oluştur"; //missing
+$lang['services-desc-5'] = "Die Wünsche und der Traumort unserer Kunden stehen für uns im Mittelpunkt"; 
 
 $lang['service-5'] = "Träume zum Konstruieren";
 $lang['service-desc-5'] = "In der Architektur, die ein interdisziplinäres Fachgebiet ist, und in der Innenarchitektur, einer Design-Disziplin, ist der Wandel ein kontinuierlicher Prozess, der mit Kreativität einhergeht. ZER+ hat sich zum Ziel gesetzt, Träume zu projizieren, zu realisieren und in die Realität umzusetzen, indem wir funktionale Lösungen entwickeln, die auf den Raum und den Menschen zugeschnitten sind. Unter der Berücksichtigung entschlossener Optimierung und durch die Kraft des Designs, werden so unweigerlich positive Veränderungen ausgelöst.";
@@ -71,7 +71,7 @@ $lang['review-3'] = "Wir möchten Frau Nihan, der Architektin von Zer Plus Archi
 $lang['reviewer-title-3'] = "Dentfix Zahnklinik/ (Gründer & CEO)";
 
 $lang['review-4'] = "Sie sind wirklich erfolgreich im Bereich Büro-/Raum- und Projektdesign. Sie haben alle Fragezeichen, die wir im Kopf hatten, ausgeräumt und einen konzeptionellen Raum entworfen. Wenn man ein Projekt entwerfen und umsetzen lassen möchte, würde ich sie auf jeden Fall empfehlen, sie sind definitiv ein hochwertiges und zuverlässiges Architekturbüro.";
-$lang['reviewer-title-4'] = "Hotelistan Ofis/Arpanu Medical/(Gründer & CEO)"; //missing
+$lang['reviewer-title-4'] = "Hotelistan Büro/Arpanu Medical/(Gründer & CEO)";
 
 // Footer:
 $lang['footer-telephone'] = "Telefon";
@@ -79,7 +79,7 @@ $lang['footer-mail'] = "E-Mail";
 $lang['footer-address'] = "Adresse";
 
 $lang['footer-desc'] = "Als ZER + verwandeln wir Ihre architektonischen Traumprojekte in eine lebenswerte Realität. ";
-$lang['footer-rights'] = "Tüm Hakları Saklıdır."; //missing
+$lang['footer-rights'] = "Alle Rechte vorbehalten."; 
 
 ///////////////////////////////////////////////////////////////////////////////
 // ABOUT PAGE:
@@ -114,12 +114,12 @@ $lang['portfolio-konut'] = "WOHNHAUS";
 $lang['portfolio-ruhsat'] = "BAUGENEHMIGUNGSVERFAHREN";
 
 $lang['portfolio-restoran'] = "Restaurant";
-$lang['portfolio-klinik'] = "Klinik";//missing
+$lang['portfolio-klinik'] = "Klinik";
 $lang['portfolio-mimar'] = "Architektonisch";
-$lang['portfolio-hamam'] = "Hamam"; //missing
-$lang['portfolio-fabrika'] = "Fabrika"; //missing
-$lang['portfolio-render'] = "Render"; //missing
-$lang['portfolio-icdizayn'] = "İç Dizyn"; //missing
+$lang['portfolio-hamam'] = "Hammam "; 
+$lang['portfolio-fabrika'] = "Fabrik"; 
+$lang['portfolio-render'] = "Render"; 
+$lang['portfolio-icdizayn'] = "Innenarchitektur "; 
 
 $lang['portfolio-name-1'] = "Nova Plaza Crystal Hotel";
 $lang['portfolio-name-2'] = "Arpanu Medical Ofis";
@@ -157,14 +157,14 @@ $lang['placeholder-3'] = "E-Mail Adresse";
 $lang['placeholder-4'] = "Your Message";
 
 // WHATSAPP MESSAGE:
-$lang['whatsapp-1'] = "Merhaba, hizmetler ve fiyatlar hakkında bilgi almak istiyorum!";//missing
+$lang['whatsapp-1'] = "Hallo, ich möchte mich über die Dienstleistungen und Preise erkundigen!";
 $lang['whatsapp-2'] = "Das professionelle Team von Zer Plus Architects unterstützt Sie gerne in den Bereichen architektonisches Projekt, Design und Umsetzung und bietet Ihnen die kreativsten Lösungen, die Ihren Anforderungen entsprechen.";
 $lang['whatsapp-3'] = "Kontaktieren Sie uns";
 
 // Names: 
 $lang['name-1'] = "Hotelistan";
 $lang['name-2'] = "Nova Plaza Crystal Hotel";
-$lang['name-3'] = " ";//missing
+$lang['name-3'] = "Nova Plaza Crystal Hotel <br> Speisesaal";
 $lang['name-4'] = "Mam Event Management";
 
 $lang['name-5'] = "Batuhan Aydoğdu,";
