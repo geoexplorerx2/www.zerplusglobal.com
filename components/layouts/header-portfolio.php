@@ -131,12 +131,7 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                         href="<?php 
                             if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
                             if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
-                            if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
-                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
-                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
-                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
-                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
-                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
+                            if($subUrl == '/de/' || $subUrl == 'de') echo "/de/";  
                         ?>">
                         <?= $lang['nav-home']; ?>
                     </a>
@@ -147,11 +142,6 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                             if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
                             if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
                             if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
-                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
-                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
-                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
-                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
-                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
                         ?>about">
                         <?= $lang['nav-about']; ?>
                     </a>
@@ -162,11 +152,6 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                             if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
                             if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
                             if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
-                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
-                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
-                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
-                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
-                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
                         ?>portfolio">
                         <?= $lang['nav-portfolio']; ?>
                     </a>
@@ -177,11 +162,6 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
                             if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
                             if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
                             if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
-                            if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
-                            if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
-                            if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
-                            if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
-                            if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
                         ?>contact">
                         <?= $lang['nav-contact']; ?>
                     </a>
@@ -190,7 +170,14 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
             <div class="dropdown">
                 <a class="dropdown-toggle  ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
-                    <i class="flag-turkey flag m-0"></i>
+                <i class="flag m-0
+                    <?php 
+                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "flag-turkey"; 
+                        if($subUrl == '/en/' || $subUrl == 'en') echo "flag-america";
+                        if($subUrl == '/de/' || $subUrl == 'de') echo "flag-germany"; 
+                    ?>
+                    ">
+                    </i>
                 </a>
 
                 <ul class="dropdown-menu" aria-labelledby="Dropdown">
