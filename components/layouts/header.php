@@ -189,13 +189,15 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
                 <ul class="dropdown-menu" aria-labelledby="Dropdown">
                     <li>
-                        <a class="dropdown-item language" value=""><i class="flag-turkey flag"></i>Turkish</a>
+                        <a class="dropdown-item language" 
+                        <?php if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "hidden"; ?>
+                         value=""><i class="flag-turkey flag"></i>Turkish</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="en"><i class="flag-america flag"></i>English</a>
+                        <a class="dropdown-item language" <?php if($subUrl == '/en/' || $subUrl == 'en') echo "hidden"; ?> value="en"><i class="flag-america flag"></i>English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" value="de"><i class="flag-germany flag"></i>Deutsch</a>
+                        <a class="dropdown-item language" <?php if($subUrl == '/de/' || $subUrl == 'de') echo "hidden"; ?> value="de"><i class="flag-germany flag"></i>Deutsch</a>
                     </li>
                 </ul>
             </div>
