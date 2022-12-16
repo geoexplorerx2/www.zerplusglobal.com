@@ -52,7 +52,9 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 map-box">
-                    <div style="width:100%; height:100%; position: relative;"><iframe width="100%" height="100%" src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=Halaskargazi%20Cad.%20No%3A%2038%2F66%20D%3A18%20Lotus%20Ni%C5%9Fanta%C5%9F%C4%B1%20-%20%C5%9Ei%C5%9Fli%2F%20IST+(Zen%20Mimarl%C4%B1k)&amp;ie=UTF8&amp;t=&amp;z=16&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><div style="position: absolute;width: 80%;bottom: 10px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"><small style="line-height: 1.8;font-size: 2px;background: #fff;">Powered by <a href="http://www.googlemapsgenerator.com/tr/">Googlemapsgenerator.com/tr/</a> & <a href="https://spelstopp.net/">Spelstopp.net</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><br />
+                    <div style="width:100%; height:100%; position: relative;">
+                    <iframe width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.795828619822!2d28.985526415817574!3d41.05159377929649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab750bfac5c89%3A0x2d1492b6c19d57c3!2zTG90dXMgTmnFn2FudGHFn8Sx!5e0!3m2!1sen!2str!4v1671118912727!5m2!1sen!2str" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><div style="position: absolute;width: 80%;bottom: 10px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"><small style="line-height: 1.8;font-size: 2px;background: #fff;">Powered by <a href="http://www.googlemapsgenerator.com/tr/">Googlemapsgenerator.com/tr/</a> & <a href="https://spelstopp.net/">Spelstopp.net</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><br />
+
                 </div>
                 <div class="col-lg-6 form">
                     <form class="myform" method="post" >
