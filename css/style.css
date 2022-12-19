@@ -1813,8 +1813,9 @@ body {
   transform: translateY(0);
 }
 .pages-header {
-  height: 75vh;
+  height: 35vh;
  background-size: cover!important;
+ margin-bottom: -30px;
 }
 .pages-header .cont h1 {
   font-size: 75px;
