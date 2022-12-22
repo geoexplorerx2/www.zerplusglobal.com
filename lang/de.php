@@ -93,6 +93,8 @@ $lang['facts-2'] = "KONSULTIERTE UNTERNEHMEN";
 $lang['facts-3'] = "VEREINFACHTE GENEHMIGUNGSVERFAHREN";
 $lang['facts-4'] = "3D-MODELLIERUNG & RENDERING DIENSTLEISTUNGEN ANGEBOTEN ";
 
+$lang['our-team'] = "Unser Team";
+
 // Stats:
 $lang['stats-1'] = "ARCHITEKTUR ";
 $lang['stats-2'] = "INNENARCHITEKTUR ";
