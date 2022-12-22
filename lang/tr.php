@@ -93,6 +93,8 @@ $lang['facts-2'] = "Danışmanlık Verilen Firmalar";
 $lang['facts-3'] = "Ruhsat Projeleri";
 $lang['facts-4'] = "Görselleştirme";
 
+$lang['our-team'] = "Bizim Ekibimiz";
+
 // Stats:
 $lang['stats-1'] = "Mimarlık";
 $lang['stats-2'] = "İç Tasarım";
@@ -164,7 +166,7 @@ $lang['whatsapp-3'] = "İletişime Geç";
 // Names: 
 $lang['name-1'] = "Hotelistan";
 $lang['name-2'] = "Nova Plaza Crystal Hotel";
-$lang['name-3'] = "Nova Plaza Crystal Hotel<br> Yemek Alanı";
+$lang['name-3'] = "Nova Plaza Crystal Hotel<br> Restaurant ";
 $lang['name-4'] = "Mam Event Management";
 
 $lang['name-5'] = "Batuhan Aydoğdu,";

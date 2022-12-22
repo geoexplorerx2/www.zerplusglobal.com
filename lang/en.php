@@ -93,6 +93,8 @@ $lang['facts-2'] = "CONSULTANCY SERVICES OFFERED";
 $lang['facts-3'] = "STREAMLINED PERMITTING SERVICES OFFERED ";
 $lang['facts-4'] = "3D MODELING & RENDERING SERVICES OFFERED";
 
+$lang['our-team'] = "Our Team";
+
 // Stats:
 $lang['stats-1'] = "ARCHITECTURE";
 $lang['stats-2'] = "INTERIOR ARCHITECTURE";
