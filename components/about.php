@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="cont text-center">
+                <div class="cont text-center pt-5">
                     <h1><?= $lang['nav-about']; ?></h1>
                     <div class="path">
                         <a href="/"><?= $lang['nav-home']; ?></a><span>/</span><a href="#0" class="active"><?= $lang['nav-about']; ?> </a>
@@ -143,7 +143,7 @@
 </div>
 <div class="teamContainer" >
 <div class="container text-center mb-5">
-        <h1 class="my-5 playfont"><?= $lang['our-team']; ?></h1>
+        <h1 class="my-5"><?= $lang['our-team']; ?></h1>
         <!-- <span>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</span> -->
 </div>
     <div class="container mt-3 ourTeam">
@@ -164,12 +164,12 @@
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ilkim.jpg" width="90">
-                    <h5 class="mt-3 name">Ilkim. F</h5><span class="work d-block">Architect & Project Manager</span>
+                    <h5 class="mt-3 name">Ilkim F.</h5><span class="work d-block">Architect & Project Manager</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.emin.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet Emin.T</h5><span class="work d-block">Architect & Visual Designer</span>
+                    <h5 class="mt-3 name">Ahmet Emin T.</h5><span class="work d-block">Architect & Visual Designer</span>
                 </div>
             </div>
             <div class="col-md-4">
@@ -179,22 +179,22 @@
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/melih.jpg" width="90">
-                    <h5 class="mt-3 name">Melih.O</h5><span class="work d-block">Architect</span>
+                    <h5 class="mt-3 name">Melih O.</h5><span class="work d-block">Architect</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/melike.jpg" width="90">
-                    <h5 class="mt-3 name">Melike.S</h5><span class="work d-block">Industrial Designer</span>
+                    <h5 class="mt-3 name">Melike S.</h5><span class="work d-block">Industrial Designer</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.m.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet.M</h5><span class="work d-block">Electrician</span>
+                    <h5 class="mt-3 name">Ahmet M.</h5><span class="work d-block">Electric Engineer</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.t.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet.T</h5><span class="work d-block">Electrician</span>
+                    <h5 class="mt-3 name">Ahmet T.</h5><span class="work d-block">Electric Engineer</span>
                 </div>
             </div>
         </div>
