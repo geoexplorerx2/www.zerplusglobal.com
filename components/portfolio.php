@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-head text-center mb-0">
             <div class="row justify-content-center">
-                <div class="col-lg-7 col-md-9 col-sm-11">
+                <div class="col-lg-7 col-md-9 col-sm-11 portfolio-margin">
                     <h6 class="custom-font"><?= $lang['portfolio-portfolio']; ?></h6>
                     <h4 class="playfont"><?= $lang['portfolio-hayal']; ?></h4>
                 </div>
@@ -137,7 +137,7 @@
                     </div>
                 </div>
                 <!-- taksim hotel -->
-                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/taksimSquare/1.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/2.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/3.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/4.jpg"]'>
+                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/taksimSquare/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/3.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/4.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/taksimSquare/cover.jpg">
                         <a href="javascript:;">
                             <div class="item-img-overlay valign"></div>
