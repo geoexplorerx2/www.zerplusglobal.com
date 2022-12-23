@@ -93,7 +93,7 @@ $lang['facts-2'] = "Danışmanlık Verilen Firmalar";
 $lang['facts-3'] = "Ruhsat Projeleri";
 $lang['facts-4'] = "Görselleştirme";
 
-$lang['our-team'] = "Bizim Ekibimiz";
+$lang['our-team'] = "Ekibimiz";
 
 // Stats:
 $lang['stats-1'] = "Mimarlık";
