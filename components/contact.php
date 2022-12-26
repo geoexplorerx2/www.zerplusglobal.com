@@ -1,6 +1,6 @@
 <header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp)"  data-overlay-dark="5">
         <div class="container">
-            <div class="row">
+            <div class="row contact-top-margin">
                 <div class="col-lg-12">
                     <div class="cont text-center">
                         <h1><?= $lang['nav-contact']; ?></h1>
