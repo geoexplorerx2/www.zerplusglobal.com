@@ -77,6 +77,7 @@ $lang['reviewer-title-4'] = "Hotelistan Büro/Arpanu Medical/(Gründer & CEO)";
 $lang['footer-telephone'] = "Telefon";
 $lang['footer-mail'] = "E-Mail";
 $lang['footer-address'] = "Adresse";
+$lang['footer-message'] = "Ihre Nachricht";
 
 $lang['footer-desc'] = "Als ZER + verwandeln wir Ihre architektonischen Traumprojekte in eine lebenswerte Realität. ";
 $lang['footer-rights'] = "Alle Rechte vorbehalten."; 
@@ -93,7 +94,16 @@ $lang['facts-2'] = "KONSULTIERTE UNTERNEHMEN";
 $lang['facts-3'] = "VEREINFACHTE GENEHMIGUNGSVERFAHREN";
 $lang['facts-4'] = "3D-MODELLIERUNG & RENDERING DIENSTLEISTUNGEN ANGEBOTEN ";
 
+// Our team:
 $lang['our-team'] = "Unser Team";
+$lang['job-title-1'] = "Architekt und Projektleiter";
+$lang['job-title-2'] = "Architekt & Firmengründer";
+$lang['job-title-3'] = "Architekt und visueller Designer";
+$lang['job-title-4'] = "IT-Manager & Direktor";
+$lang['job-title-5'] = "Architekt";
+$lang['job-title-6'] = "Industriedesigner";
+$lang['job-title-7'] = "Elektroingenieur";
+
 
 // Stats:
 $lang['stats-1'] = "ARCHITEKTUR ";
@@ -104,6 +114,7 @@ $lang['stats-4'] = "UMSETZUNG";
 $lang['content-2-title'] = "Die Verwirklichung Ihrer Träume in eine lebenswerte Realität. ";
 $lang['content-2-desc'] = "ZER+ schöpft seine Stärke aus dem Geist der Zusammenarbeit, gemeinsamen Werten und unterschiedlichen Perspektiven und arbeitet weiterhin mit einem originellen, modernen, zeitlosen und nachhaltigen Designansatz, bei dem die Funktion im Vordergrund steht und im Einklang mit der Form steht.";
 
+///////////////////////////////////////////////////////////////////////////////
 // PORTFOLIO PAGE:
 $lang['portfolio-portfolio'] = "UNSER PORTFOLIO";
 $lang['portfolio-hayal'] = "Träume zum Konstruieren";
@@ -144,7 +155,7 @@ $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
 $lang['portfolio-name-19'] = "Nova Plaza Taksim Hotel";
 $lang['portfolio-name-20'] = "Nova Plaza Park Hotel";
 
-
+///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
 $lang['contact-call'] = "Rufen Sie uns an";
 $lang['contact-email'] = "E-Mail";
@@ -156,7 +167,7 @@ $lang['contact-2'] = "info@zerplusglobal.com";
 $lang['placeholder-1'] = "Name, Nachname";
 $lang['placeholder-2'] = "Telefonnummer ";
 $lang['placeholder-3'] = "E-Mail Adresse";
-$lang['placeholder-4'] = "Your Message";
+$lang['placeholder-4'] = "Ihre Nachricht";
 
 // WHATSAPP MESSAGE:
 $lang['whatsapp-1'] = "Hallo, ich möchte mich über die Dienstleistungen und Preise erkundigen!";

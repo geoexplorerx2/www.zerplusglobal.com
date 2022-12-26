@@ -9,6 +9,10 @@
   height: 2rem;
 }
 
+.contact-top-margin {
+  margin-top: 4em;
+}
+
 .work {
   font-size: 14px;
   padding-top: 20px;
@@ -55,7 +59,7 @@
 }
 
 .portfolio-margin {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 .ourTeam {
@@ -3242,6 +3246,9 @@ body {
 /* ====================== [ Start Testimonials ] ====================== */
 .testimonials.grid .testim {
   position: relative;
+}
+.testi-margin {
+  margin-bottom: 3.5em;
 }
 .testimonials.grid .testim .slick-track {
   padding-top: 15px;

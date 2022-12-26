@@ -93,7 +93,15 @@ $lang['facts-2'] = "Danışmanlık Verilen Firmalar";
 $lang['facts-3'] = "Ruhsat Projeleri";
 $lang['facts-4'] = "Görselleştirme";
 
+// Our team:
 $lang['our-team'] = "Ekibimiz";
+$lang['job-title-1'] = "Mimar & Proje Müdürü";
+$lang['job-title-2'] = "Mimar & Kurucu";
+$lang['job-title-3'] = "Mimar & Görsel Tasarım Uzmanı";
+$lang['job-title-4'] = "IT Müdürü & Yönetici";
+$lang['job-title-5'] = "Mimar";
+$lang['job-title-6'] = "Endüstriyel Tasarımcı";
+$lang['job-title-7'] = "Elektrik Mühendisi";
 
 // Stats:
 $lang['stats-1'] = "Mimarlık";
@@ -104,6 +112,7 @@ $lang['stats-4'] = "Uygulama";
 $lang['content-2-title'] = "Hayallerinizi yaşanılır gerçekliğe dönüştürüyoruz.";
 $lang['content-2-desc'] = "Gücünü; işbirliği ruhundan, ortak değerlerinden ve farklı bakış açılarından alan ZER+ işlevin öncelikli ve form ile uyum içerisinde olduğu, projenin çevre içindeki rolünü benimseyen, özgün, çağdaş ve zamansız bir tasarım yaklaşımı ile çalışmalarını sürdürmektedir.";
 
+///////////////////////////////////////////////////////////////////////////////
 // PORTFOLIO PAGE:
 $lang['portfolio-portfolio'] = "Portfolyomuz";
 $lang['portfolio-hayal'] = "Hayal ve İnşa";
@@ -144,7 +153,7 @@ $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
 $lang['portfolio-name-19'] = "Nova Plaza Taksim Otel";
 $lang['portfolio-name-20'] = "Nova Plaza Park Otel";
 
-
+///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
 $lang['contact-call'] = "Bizi Arayın";
 $lang['contact-email'] = "Mail Atın";
