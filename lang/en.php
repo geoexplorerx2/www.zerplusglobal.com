@@ -18,10 +18,10 @@ $lang['intro-title-2'] = "Impressive Designs";
 $lang['intro-desc-2'] = "Through our unique designs we create living, striking and stylish spaces.";
 
 $lang['intro-title-3'] = "Comfortable Living Spaces";
-$lang['intro-desc-3'] = "We create human-centered living spaces to add value and enhance people’s lives. ";
+$lang['intro-desc-3'] = "We create human-centered living spaces to add value and enhance people’s lives.";
 
 $lang['intro-title-4'] = "Timeless Places ";
-$lang['intro-desc-4'] = "We incorporate unity to design timeless interiors; turning your dreamplace into reality. ";
+$lang['intro-desc-4'] = "We incorporate unity to design timeless interiors; turning your dreamplace into reality.";
 
 $lang['intro-title-5'] = "Unique Themes";
 $lang['intro-desc-5'] = "We create eye-catching living spaces through inspirational architectural designs.";
@@ -77,6 +77,7 @@ $lang['reviewer-title-4'] = "Hotelistan Ofis/Arpanu Medical/(Founder & CEO)";
 $lang['footer-telephone'] = "Phone";
 $lang['footer-mail'] = "Email";
 $lang['footer-address'] = "Address";
+$lang['footer-message'] = "Your Message";
 
 $lang['footer-desc'] = "As ZER +, we transform your dream architectural projects into a livable reality.";
 $lang['footer-rights'] = "All Rights Are Reserved.";
@@ -93,7 +94,15 @@ $lang['facts-2'] = "CONSULTANCY SERVICES OFFERED";
 $lang['facts-3'] = "STREAMLINED PERMITTING SERVICES OFFERED ";
 $lang['facts-4'] = "3D MODELING & RENDERING SERVICES OFFERED";
 
+// Our team:
 $lang['our-team'] = "Our Team";
+$lang['job-title-1'] = "Architect & Founder";
+$lang['job-title-2'] = "Architect & Project Manager";
+$lang['job-title-3'] = "Architect & Visual Designer";
+$lang['job-title-4'] = "IT Manager & Director";
+$lang['job-title-5'] = "Architect";
+$lang['job-title-6'] = "Industrial Designer";
+$lang['job-title-7'] = "Electrical Engineer";
 
 // Stats:
 $lang['stats-1'] = "ARCHITECTURE";
@@ -104,6 +113,7 @@ $lang['stats-4'] = "IMPLEMENTATION";
 $lang['content-2-title'] = "Turning your dreams into a liveable reality.";
 $lang['content-2-desc'] = "Drawing its strength from the spirit of collaboration, common values and different perspectives, ZER+ continues to work with an original, contemporary, timeless and sustainable design approach where function is prioritized and in harmony with form.";
 
+///////////////////////////////////////////////////////////////////////////////
 // PORTFOLIO PAGE:
 $lang['portfolio-portfolio'] = "OUR PORTFOLIO";
 $lang['portfolio-hayal'] = "Dreams to Construct";
@@ -144,7 +154,7 @@ $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
 $lang['portfolio-name-19'] = "Nova Plaza Taksim Hotel";
 $lang['portfolio-name-20'] = "Nova Plaza Park Hotel";
 
-
+///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
 $lang['contact-call'] = "Call Us";
 $lang['contact-email'] = "Email Us";

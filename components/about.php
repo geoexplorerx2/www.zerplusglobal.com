@@ -15,7 +15,7 @@
 
 <section class="about section-padding">
     <div class="container">
-        <div class="row mt-50">
+        <div class="row mt-50 ms-0">
             <div class="col-lg-6">
                 <div class="numbers">
                     <div class="row">
@@ -149,7 +149,7 @@
         <div class="row">
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/nihan.jpg" width="90">
-                    <h5 class="mt-3 name">Nihan Z.</h5><span class="work d-block">Architect & Founder</span>
+                    <h5 class="mt-3 name">Nihan Z.</h5><span class="work d-block"><?= $lang['job-title-2']; ?></span>
                     <!-- <div class="mt-4 about"><span>is a long established fact that eader&nbsp; will be distracted by the readable content.</span></div>
                     <div class="mt-4">
                         <h6 class="v-profile">View Profile</h6>
@@ -158,42 +158,42 @@
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.murat.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet Murat U.</h5><span class="work d-block">Architect & Project Manager</span>
+                    <h5 class="mt-3 name">Ahmet Murat U.</h5><span class="work d-block"><?= $lang['job-title-1']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ilkim.jpg" width="90">
-                    <h5 class="mt-3 name">Ilkim F.</h5><span class="work d-block">Architect & Project Manager</span>
+                    <h5 class="mt-3 name">Ilkim F.</h5><span class="work d-block"><?= $lang['job-title-1']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.emin.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet Emin T.</h5><span class="work d-block">Architect & Visual Designer</span>
+                    <h5 class="mt-3 name">Ahmet Emin T.</h5><span class="work d-block"><?= $lang['job-title-3']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/enes.jpg" width="90">
-                    <h5 class="mt-3 name">Enes D.</h5><span class="work d-block">IT Manager & Director</span>
+                    <h5 class="mt-3 name">Enes D.</h5><span class="work d-block"><?= $lang['job-title-4']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/melih.jpg" width="90">
-                    <h5 class="mt-3 name">Melih O.</h5><span class="work d-block">Architect</span>
+                    <h5 class="mt-3 name">Melih O.</h5><span class="work d-block"><?= $lang['job-title-5']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/melike.jpg" width="90">
-                    <h5 class="mt-3 name">Melike S.</h5><span class="work d-block">Industrial Designer</span>
+                    <h5 class="mt-3 name">Melike S.</h5><span class="work d-block"><?= $lang['job-title-6']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.m.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet M.</h5><span class="work d-block">Electric Engineer</span>
+                    <h5 class="mt-3 name">Ahmet M.</h5><span class="work d-block"><?= $lang['job-title-7']; ?></span>
                 </div>
             </div>
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.t.jpg" width="90">
-                    <h5 class="mt-3 name">Ahmet T.</h5><span class="work d-block">Electric Engineer</span>
+                    <h5 class="mt-3 name">Ahmet T.</h5><span class="work d-block"><?= $lang['job-title-7']; ?></span>
                 </div>
             </div>
         </div>

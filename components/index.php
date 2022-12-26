@@ -512,7 +512,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row testi-margin">
             <div class="col-lg-12">
                 <div class="testim wow fadeInUp" data-wow-delay=".3s">
                     <div class="item">
