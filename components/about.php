@@ -147,8 +147,8 @@
 </div>
     <div class="container mt-3 ourTeam">
         <div class="row">
-            <div class="col-md-4 col-6">
-                <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/nihan.jpg" width="90">
+            <div class="col-4 mx-auto">
+                <div class="teamWhite nihan teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/nihan.jpg" width="90">
                     <h5 class="mt-3 name">Nihan Z.</h5><span class="work d-block"><?= $lang['job-title-2']; ?></span>
                     <!-- <div class="mt-4 about"><span>is a long established fact that eader&nbsp; will be distracted by the readable content.</span></div>
                     <div class="mt-4">
@@ -156,6 +156,9 @@
                     </div> -->
                 </div>
             </div>
+        </div>
+
+        <div class="row">
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.murat.jpg" width="90">
                     <h5 class="mt-3 name">Ahmet Murat U.</h5><span class="work d-block"><?= $lang['job-title-1']; ?></span>

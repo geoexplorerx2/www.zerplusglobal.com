@@ -590,12 +590,19 @@ $(function () {
 
 // Vanilla Javascript
 var input = document.querySelector("#phone");
-window.intlTelInput(input,({
-  // options here
-}));
+window.intlTelInput(input, {
+    initialCountry: "auto",
+    geoIpLookup: function(callback) {
+      $.get('https://ipinfo.io?token=50e05e240bcaa2', function() {}, "jsonp").always(function(resp) {
+        var countryCode = (resp && resp.country) ? resp.country : "us";
+        callback(countryCode);
+      });
+    },
+    utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/utils.js" // just for formatting/placeholders etc
+  });
 
 $(document).ready(function() {
-    $('.iti__flag-container').click(function() { 
+    $(document).hover(function() { 
       var countryCode = $('.iti__selected-flag').attr('title');
       var countryCode = countryCode.replace(/[^0-9]/g,'')
       $('#phone').val("");
