@@ -139,7 +139,7 @@
         <p id="wp-message"><?= $lang['whatsapp-2']; ?></p>
         <p id="send-message-btn"><?= $lang['whatsapp-3']; ?></p>
     </div>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script type="text/javascript" src="<?= $pageLink ?>/js/jquery-3.0.0.min.js"></script>
     <script type="text/javascript" src="<?= $pageLink ?>/js/jquery-migrate-3.0.0.min.js"></script>
     <script type="text/javascript" src="<?= $pageLink ?>/js/venom-button.min.js"></script>
