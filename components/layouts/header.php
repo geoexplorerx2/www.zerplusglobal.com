@@ -21,14 +21,12 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/plugins.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/style.css"/>
     <lik rel="stylesheet" href="<?= $pageLink ?>/css/demo.css">
 
     <link rel="stylesheet" href="<?= $pageLink ?>/css/intlTelInput.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 
