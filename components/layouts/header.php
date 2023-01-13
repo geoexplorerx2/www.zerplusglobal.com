@@ -19,9 +19,9 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css" />
     <link rel="stylesheet" href="<?= $pageLink ?>/css/plugins.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/style.css"/>
     <lik rel="stylesheet" href="<?= $pageLink ?>/css/demo.css">
@@ -175,27 +175,27 @@ c0 -424 4 -459 57 -523 43 -50 94 -69 196 -69 l87 0 0 29 0 29 -90 4 c-103 5
 
             <div class="dropdown">
                 <a class="dropdown-toggle ms-4 me-3" value="" id="Dropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
-                    <i class="flag m-0
+                    <span class="fi 
                     <?php 
-                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "flag-turkey"; 
-                        if($subUrl == '/en/' || $subUrl == 'en') echo "flag-america";
-                        if($subUrl == '/de/' || $subUrl == 'de') echo "flag-germany"; 
+                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "fi-tr"; 
+                        if($subUrl == '/en/' || $subUrl == 'en') echo "fi-us";
+                        if($subUrl == '/de/' || $subUrl == 'de') echo "fi-de"; 
                     ?>
                     ">
-                    </i>
+</span>
                 </a>
 
                 <ul class="dropdown-menu" aria-labelledby="Dropdown">
                     <li>
                         <a class="dropdown-item language" 
                         <?php if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "hidden"; ?>
-                         value=""><i class="flag-turkey flag"></i>Turkish</a>
+                         value=""><span class="fi fi-tr"></span> Turkish</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" <?php if($subUrl == '/en/' || $subUrl == 'en') echo "hidden"; ?> value="en"><i class="flag-america flag"></i>English</a>
+                        <a class="dropdown-item language" <?php if($subUrl == '/en/' || $subUrl == 'en') echo "hidden"; ?> value="en"><span class="fi fi-us"></span> English</a>
                     </li>
                     <li>
-                        <a class="dropdown-item language" <?php if($subUrl == '/de/' || $subUrl == 'de') echo "hidden"; ?> value="de"><i class="flag-germany flag"></i>Deutsch</a>
+                        <a class="dropdown-item language" <?php if($subUrl == '/de/' || $subUrl == 'de') echo "hidden"; ?> value="de"><span class="fi fi-de"></span> Deutsch</a>
                     </li>
                 </ul>
             </div>
