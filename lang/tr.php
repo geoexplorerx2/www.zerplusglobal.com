@@ -131,6 +131,7 @@ $lang['portfolio-hamam'] = "Hamam";
 $lang['portfolio-fabrika'] = "Fabrika";
 $lang['portfolio-render'] = "Render";
 $lang['portfolio-hotel'] = "Otel";
+$lang['portfolio-konut'] = "Konut";
 
 $lang['portfolio-name-1'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-2'] = "Arpanu Medical Ofis";
