@@ -588,7 +588,7 @@ $(function () {
     mousecursor();
 });
 
-// Vanilla Javascript
+// intl-tel-input
 var input = document.querySelector("#phone");
 window.intlTelInput(input, {
     initialCountry: "auto",
