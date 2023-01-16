@@ -182,7 +182,7 @@
                     </div>
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-11'] ; ?></h5>
-                        <span><?= $lang['portfolio-mimar']; ?></span>
+                        <span><?= $lang['portfolio-konut']; ?></span>
                     </div>
                 </div>
 
