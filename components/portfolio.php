@@ -232,7 +232,7 @@
                     </div>
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-15'] ; ?></h5>
-                        <span><?= $lang['portfolio-icdizayn']; ?></span>
+                        <span><?= $lang['portfolio-hotel']; ?></span>
                     </div>
                 </div>
 
@@ -269,7 +269,7 @@
                     </div>
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-18'] ; ?></h5>
-                        <span><?= $lang['portfolio-otel']; ?></span>
+                        <span><?= $lang['portfolio-fabrika']; ?></span>
                     </div>
                 </div>
             </div>

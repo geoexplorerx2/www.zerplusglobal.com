@@ -130,7 +130,7 @@ $lang['portfolio-mimar'] = "Mimari";
 $lang['portfolio-hamam'] = "Hamam";
 $lang['portfolio-fabrika'] = "Fabrika";
 $lang['portfolio-render'] = "Render";
-$lang['portfolio-icdizayn'] = "İç Dizyn";
+$lang['portfolio-hotel'] = "Otel";
 
 $lang['portfolio-name-1'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-2'] = "Arpanu Medical Ofis";
