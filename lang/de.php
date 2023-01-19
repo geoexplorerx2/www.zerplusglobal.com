@@ -156,6 +156,8 @@ $lang['portfolio-name-17'] = "Beyoğlu Hotel";
 $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
 $lang['portfolio-name-19'] = "Nova Plaza Taksim Hotel";
 $lang['portfolio-name-20'] = "Nova Plaza Park Hotel";
+$lang['portfolio-name-21'] = "Crystal Zer";
+$lang['portfolio-name-22'] = "Nova Tas";
 
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
