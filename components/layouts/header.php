@@ -17,19 +17,21 @@
     <title>Zer+ Architects</title>
 
     <link rel="shortcut icon" href="<?= $pageLink ?>/img/favicon.png"/>
+    <lik rel="preload" href="<?= $pageLink ?>/css/style.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';" />
     <lik rel="preload" href="<?= $pageLink ?>/css/highPriority.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/css/intlTelInput.css" integrity="sha512-gxWow8Mo6q6pLa1XH/CcH8JyiSDEtiwJV78E+D+QP0EVasFs8wKXq16G8CLD4CJ2SnonHr4Lm/yY2fSI2+cbmw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/img/flags.png" integrity="sha512-gxWow8Mo6q6pLa1XH/CcH8JyiSDEtiwJV78E+D+QP0EVasFs8wKXq16G8CLD4CJ2SnonHr4Lm/yY2fSI2+cbmw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
     <link rel="stylesheet" href="<?= $pageLink ?>/css/plugins.css"/>
     <link rel="stylesheet" href="<?= $pageLink ?>/css/style.css"/>   
-    <lik rel="preload" href="<?= $pageLink ?>/css/demo.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';" />
+    <link rel="stylesheet" href="<?= $pageLink ?>/css/demo.css"/>
+    <!-- <lik rel="preload" href="<?= $pageLink ?>/css/demo.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';" /> -->
 </head>
 <body>
 

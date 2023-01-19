@@ -236,6 +236,32 @@
                     </div>
                 </div>
 
+                <!-- crystal zer -->
+                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/crystalZer/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/3.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/4.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/5.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/6.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/7.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/8.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/9.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/10.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/11.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/12.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/13.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/crystalZer/12.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-21'] ; ?></h5>
+                        <span><?= $lang['portfolio-hotel']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Nova Tas -->
+                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novaTas/1.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/2.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/3.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/4.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/5.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/6.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/7.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/8.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/9.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/10.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/11.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/12.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/13.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/14.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/15.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/16.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/17.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/18.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/19.png", "<?= $pageLink ?>/img/portfolio/projects/novaTas/20.png"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novaTas/1.png">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-22'] ; ?></h5>
+                        <span><?= $lang['portfolio-hotel']; ?></span>
+                    </div>
+                </div>
+
                 <!-- ruhsat images -->
                 <div class="items permit three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/ruhsatlar/crystal-ruhsat-1.jpg","<?= $pageLink ?>/img/portfolio/projects/ruhsatlar/crystal-ruhsat-2.jpg","<?= $pageLink ?>/img/portfolio/projects/ruhsatlar/crystal-ruhsat-3.jpg","<?= $pageLink ?>/img/portfolio/projects/ruhsatlar/crystal-ruhsat-4.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/ruhsatlar/crystal-ruhsat-1.jpg">
