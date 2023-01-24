@@ -148,7 +148,7 @@ $lang['portfolio-name-9'] = "Catma Mescit Hamam";
 $lang['portfolio-name-10'] = "Pişi Pişi <br> Kahvaltı Salonu";
 $lang['portfolio-name-11'] = "Temenye Konakları";
 $lang['portfolio-name-12'] = "Con4Cus IT-Büro";
-$lang['portfolio-name-13'] = "May Atkı Fabrika";
+$lang['portfolio-name-13'] = "May Atkı Fabrika Ruhsat";
 $lang['portfolio-name-14'] = "Nova Plaza Crystal Hotel";
 $lang['portfolio-name-15'] = "City Hotel";
 $lang['portfolio-name-16'] = "Crystal Ruhsat";
@@ -156,8 +156,8 @@ $lang['portfolio-name-17'] = "Beyoğlu Hotel";
 $lang['portfolio-name-18'] = "Mayatki Gumusova Model";
 $lang['portfolio-name-19'] = "Nova Plaza Taksim Hotel";
 $lang['portfolio-name-20'] = "Nova Plaza Park Hotel";
-$lang['portfolio-name-21'] = "Crystal Zer";
-$lang['portfolio-name-22'] = "Nova Tas";
+$lang['portfolio-name-21'] = "Nova Plaza Crystal Hotel";
+$lang['portfolio-name-22'] = "NovaTas Spa";
 
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:

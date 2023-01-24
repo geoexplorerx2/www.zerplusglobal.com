@@ -4,7 +4,7 @@
             
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3.1.webp" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3-1.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -37,7 +37,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-2.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-2.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -70,7 +70,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -106,7 +106,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-5.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-5.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -142,7 +142,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-6.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-6.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -178,7 +178,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">

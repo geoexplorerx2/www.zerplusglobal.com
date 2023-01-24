@@ -1,4 +1,4 @@
-    <footer class="main-footer dark">
+<footer class="main-footer dark">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
@@ -140,18 +140,22 @@
         <p id="send-message-btn"><?= $lang['whatsapp-3']; ?></p>
     </div>
     <script defer  src="https://kit.fontawesome.com/1899ceef68.js" crossorigin="anonymous"></script>
-    <script defer  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script defer  type="text/javascript" src="<?= $pageLink ?>/js/jquery-3.0.0.min.js"></script>
     <script defer  type="text/javascript" src="<?= $pageLink ?>/js/jquery-migrate-3.0.0.min.js"></script>
     <script defer  type="text/javascript" src="<?= $pageLink ?>/js/venom-button.min.js"></script>
     <script defer  type="text/javascript" src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
-    <script defer  type="text/javascript" src="<?= $pageLink ?>/js/plugins.js"></script>
+    <script defer  type="text/javascript" src="<?= $pageLink ?>/js/plugins.js" defer></script>
+    <? if ($_SERVER[PHP_SELF] == "/contact.php") {?>
     <script defer  src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/intlTelInput.min.js" integrity="sha512-+gShyB8GWoOiXNwOlBaYXdLTiZt10Iy6xjACGadpqMs20aJOoh+PJt3bwUVA6Cefe7yF7vblX6QwyXZiVwTWGg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script defer  src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/intlTelInput-jquery.min.js" integrity="sha512-9WaaZVHSw7oRWH7igzXvUExj6lHGuw6GzMKW7Ix7E+ELt/V14dxz0Pfwfe6eZlWOF5R6yhrSSezaVR7dys6vMg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script defer  src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/utils.min.js" integrity="sha512-jEc69+XeOdfDwLui+HpPWl8/8+cxkHcwcznwbVGrmVlECJD+L1yN0PljgF2MPs6+1bTX+gNvo/9C3YJ7n4i9qw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <?
+    }
+    ?>
+   
     <script defer  type="text/javascript" src="<?= $pageLink ?>/js/app.js"></script>
-    <script defer  type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.min.js"></script>
-    
+    <script defer  type="text/javascript"src="<?= $pageLink ?>/js/mdb.min.js"></script>
+
     
 </body>
 </html>
