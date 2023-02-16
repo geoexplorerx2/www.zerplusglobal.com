@@ -4,7 +4,7 @@
             
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3-1.webp" data-overlay-dark="5"></div>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3-1.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -37,7 +37,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-2.webp" data-overlay-dark="5"></div>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-2.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -70,7 +70,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
+                    <div class="bg-img" loading='lazy' data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -106,7 +106,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-5.webp" data-overlay-dark="5"></div>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-5.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -142,7 +142,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-6.webp" data-overlay-dark="5"></div>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-6.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -178,7 +178,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -343,12 +343,12 @@
                         </div>
                         <div class="col-md-8 wow fadeInUp order-md-2 " data-wow-delay=".3s">
                             <div class="img mb-20 wow imago">
-                                <img src="<?= $pageLink ?>/img/detay-1.webp" alt="">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/detay-1.webp" alt="">
                             </div>
                         </div>
                         <div class="col-md-7 wow fadeInUp order-md-3 order-4" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="<?= $pageLink ?>/img/detay-2.webp" alt="">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/detay-2.webp" alt="">
                             </div>
                         </div>
                         <div class="col-md-5 order-md-4 order-3">
@@ -438,63 +438,63 @@
             <div class="swiper-wrapper d-flex align-items-center">
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/hotelistan.svg" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/hotelistan.svg" width="125" height="28" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide" >
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/novaplaza.png" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/novaplaza.png" width="125" height="61" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/nova.svg" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/nova.svg" width="125" height="30" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img" >
-                        <img src="<?= $pageLink ?>/img/clients/brands/mam.png" alt="" style="padding: 0rem;" >
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/mam.png" width="125" height="35" alt="" style="padding: 0rem;" >
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/dentfix.png" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/dentfix.png" width="125" height="31" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/arpanu.png" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/arpanu.png" width="125" height="42" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/kete.png" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/kete.png" width="125" height="41" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/aliceoto.png" alt="">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/aliceoto.png" width="125" height="125" alt="">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/alfanova.png" alt="" class="p-3">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/alfanova.webp" width="93" height="93" alt="" class="p-3">
                     </div>
                 </div>
 
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/nowon.png" alt="" class="p-3">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/nowon.png" width="93" height="25" alt="" class="p-3">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/conforcus.png" alt="" class="" style="padding: 1.5rem;">
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/conforcus.png" width="77" height="77" alt="" class="" style="padding: 1.5rem;">
                     </div>
                 </div>
                 <div class="item swiper-slide">
                     <div style="text-align: center;" class="img">
-                        <img src="<?= $pageLink ?>/img/clients/brands/guzide.png" alt="" class="" style="padding: 0rem;" >
+                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/guzide.png" width="125" height="125" alt="" class="" style="padding: 0rem;" >
                     </div>
                 </div>
             </div>
@@ -516,49 +516,49 @@
             <div class="col-lg-12">
                 <div class="testim wow fadeInUp" data-wow-delay=".3s">
                     <div class="item">
-                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" width="52" height="52" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"<?= $lang['review-1']; ?>"</p>
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="<?= $pageLink ?>/img/clients/brands/crystal.png" alt="" style="object-fit: contain">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/crystal.png" alt="" style="object-fit: contain">
                             </div>
                             <h6><?= $lang['name-5']; ?><span><?= $lang['reviewer-title-1']; ?></span></h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" width="52" height="52" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"<?= $lang['review-2']; ?>"</p>
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="<?= $pageLink ?>/img/clients/brands/nova.svg" alt="" style="filter: invert(1);object-fit: contain">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/nova.svg" alt="" style="filter: invert(1);object-fit: contain">
                             </div>
                             <h6><?= $lang['name-6']; ?><span><?= $lang['reviewer-title-2']; ?></span></h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" width="52" height="52" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"<?= $lang['review-3']; ?>"</p>
                         </div>
                         <div class="info">
                             <div class="author">
-                                <img src="<?= $pageLink ?>/img/clients/brands/dentfix.png" alt="" style="object-fit: contain">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/dentfix.png" alt="" style="object-fit: contain">
                             </div>
                             <h6><?= $lang['name-7']; ?><span><?= $lang['reviewer-title-3']; ?></span></h6>
                         </div>
                     </div>
                     <div class="item">
-                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" alt=""></span>
+                        <span class="quote-icon"><img src="<?= $pageLink ?>/img/clients/quote.svg" width="52" height="52" alt=""></span>
                         <div class="cont">
                             <p class="playfont">"<?= $lang['review-4']; ?>"</p>
                         </div>
                         <div class="info">
                             <div class="author" >
-                                <img src="<?= $pageLink ?>/img/clients/brands/hotelistan.png" alt="" style="object-fit: contain">
+                                <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/hotelistan.png" alt="" style="object-fit: contain">
                             </div>
                             <h6><?= $lang['name-8']; ?><span><?= $lang['reviewer-title-4']; ?></span></h6>
                         </div>
