@@ -158,6 +158,9 @@ $lang['portfolio-name-20'] = "Nova Plaza Park Hotel";
 $lang['portfolio-name-21'] = "Nova Plaza Crystal Hotel";
 $lang['portfolio-name-22'] = "NovaTas Spa";
 
+$lang['portfolio-name-23'] = "Berlin Office Version 1";
+$lang['portfolio-name-24'] = "Berlin Office Version 2";
+
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
 $lang['contact-call'] = "Call Us";
