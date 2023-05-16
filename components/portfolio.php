@@ -526,6 +526,19 @@
                         <span><?= $lang['portfolio-konut']; ?></span>
                     </div>
                 </div>
+
+                <!-- prime hotel -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/name/1.jpg","<?= $pageLink ?>/img/portfolio/projects/name/2.jpg","<?= $pageLink ?>/img/portfolio/projects/name/3.jpg","<?= $pageLink ?>/img/portfolio/projects/name/4.jpg","<?= $pageLink ?>/img/portfolio/projects/name/5.jpg","<?= $pageLink ?>/img/portfolio/projects/name/6.jpg","<?= $pageLink ?>/img/portfolio/projects/name/7.jpg","<?= $pageLink ?>/img/portfolio/projects/name/8.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/name/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-33'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

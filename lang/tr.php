@@ -135,17 +135,17 @@ $lang['portfolio-konut'] = "Konut";
 
 $lang['portfolio-name-1'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-2'] = "Arpanu Medical Ofis";
-$lang['portfolio-name-3'] = "Crystal Restaurant";
+$lang['portfolio-name-3'] = "Nova Plaza Crystal Hotel Restaurant";
 $lang['portfolio-name-4'] = "Dentfix Diş Kliniği";
-$lang['portfolio-name-5'] = "Nova Dental Laboratory";
+$lang['portfolio-name-5'] = "Nova Dental Laboratory Office";
 $lang['portfolio-name-6'] = "Mam Event Management";
 $lang['portfolio-name-7'] = "Nova Plaza Pera Otel";
 $lang['portfolio-name-8'] = "Güzide Restaurant";
 $lang['portfolio-name-9'] = "Çatma Mescit Hamamı";
-$lang['portfolio-name-10'] = "Pişi Pişi <br> Kahvaltı Salonu";
-$lang['portfolio-name-11'] = "Temenye Evleri";
+$lang['portfolio-name-10'] = "Pişi Pişi <br> Kahvaltı Evi";
+$lang['portfolio-name-11'] = "Temenye Konakları";
 $lang['portfolio-name-12'] = "Con4Cus Bilişim Ofisi";
-$lang['portfolio-name-13'] = "May Atkı Fabrika Ruhsat";
+$lang['portfolio-name-13'] = "May Atkı Fabrika";
 $lang['portfolio-name-14'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-15'] = "City Otel";
 $lang['portfolio-name-16'] = "Nova Plaza Crystal Otel Ruhsat Projesi";
@@ -156,17 +156,18 @@ $lang['portfolio-name-20'] = "Nova Plaza Park Otel";
 $lang['portfolio-name-21'] = "Nova Plaza Crystal Otel";
 $lang['portfolio-name-22'] = "NovaTas Spa";
 
-$lang['portfolio-name-23'] = "Berlin Ofis Version 1";
-$lang['portfolio-name-24'] = "Berlin Ofis Version 2";
+$lang['portfolio-name-23'] = "Berlin Medical Offices";
+$lang['portfolio-name-24'] = "Berlin Medical Offices";
 
-$lang['portfolio-name-25'] = "Coach Coffee Posts";
-$lang['portfolio-name-26'] = "Berlin Office Version 3";
-$lang['portfolio-name-27'] = "zer Zurich";
-$lang['portfolio-name-28'] = "Team Pro";
-$lang['portfolio-name-29'] = "Novatas";
-$lang['portfolio-name-30'] = "Conforcus Open";
-$lang['portfolio-name-31'] = "nova Prime";
-$lang['portfolio-name-32'] = "gift Shop Open";
+$lang['portfolio-name-25'] = "Coach Coffee";
+$lang['portfolio-name-26'] = "Berlin Medical Offices";
+$lang['portfolio-name-27'] = "Zurich OZ House";
+$lang['portfolio-name-28'] = "TeamPro Office";
+$lang['portfolio-name-29'] = "NovaTas Spa";
+$lang['portfolio-name-30'] = "Conforcus IT Solutions";
+$lang['portfolio-name-31'] = "Nova Plaza Prime Hotel";
+$lang['portfolio-name-32'] = "Nova Plaza Prime Hotel Gift Shop";
+$lang['portfolio-name-33'] = "Nova Plaza Prime Hotel";
 
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
