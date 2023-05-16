@@ -93,7 +93,7 @@
                 </div>
 
                 <!-- mam -->
-                <div class="items office theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/mam/1.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/2.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/3.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/4.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/5.jpg"]'>
+                <!-- <div class="items office theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/mam/1.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/2.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/3.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/4.jpg","<?= $pageLink ?>/img/portfolio/projects/mam/5.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/mam/cover.jpg">
                         <a href="javascript:;">
                             <div class="item-img-overlay valign"></div>
@@ -103,7 +103,7 @@
                         <h5 style=''><?= $lang['portfolio-name-6'] ; ?></h5>
                         <span><?= $lang['portfolio-ofis']; ?></span>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- pera hotel -->
                 <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/pera/1.jpg","<?= $pageLink ?>/img/portfolio/projects/pera/3.jpg","<?= $pageLink ?>/img/portfolio/projects/pera/6.jpg","<?= $pageLink ?>/img/portfolio/projects/pera/5.jpg","<?= $pageLink ?>/img/portfolio/projects/pera/4.jpg",
@@ -417,6 +417,112 @@
                     </div>
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-11'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- NEW NEW NEW NEW -->
+
+                <!-- coachCoffeePosts -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/2.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/3.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/4.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/5.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/6.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/7.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/8.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/9.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/10.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/11.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-25'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- berlin -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/2.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/3.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/4.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/5.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/6.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-26'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- zerZurich -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/2.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/3.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/4.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/5.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-27'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- TeamPro -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/2.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/3.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/4.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/5.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/6.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/7.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/8.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/9.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/10.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/11.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/12.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/13.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/14.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-28'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- novatasfinal -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novatasfinal/1.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/2.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/3.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/4.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/5.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/6.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/7.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/8.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/9.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/10.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/1.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/2.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/3.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/4.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/5.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novatasfinal/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-29'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- conforcusOpen -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/7.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/8.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/9.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/10.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/11.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/12.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-30'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- novaPrime -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/2.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/3.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/4.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/5.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/6.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/7.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/8.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/9.png"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-31'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- giftShopOpen -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/7.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-32'] ; ?></h5>
                         <span><?= $lang['portfolio-konut']; ?></span>
                     </div>
                 </div>

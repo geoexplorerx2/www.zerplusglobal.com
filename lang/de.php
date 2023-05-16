@@ -162,6 +162,15 @@ $lang['portfolio-name-22'] = "NovaTas Spa";
 $lang['portfolio-name-23'] = "Berlin Office Version 1";
 $lang['portfolio-name-24'] = "Berlin Office Version 2";
 
+$lang['portfolio-name-25'] = "Coach Coffee Posts";
+$lang['portfolio-name-26'] = "Berlin Office Version 3";
+$lang['portfolio-name-27'] = "zer Zurich";
+$lang['portfolio-name-28'] = "Team Pro";
+$lang['portfolio-name-29'] = "Novatas";
+$lang['portfolio-name-30'] = "Conforcus Open";
+$lang['portfolio-name-31'] = "nova Prime";
+$lang['portfolio-name-32'] = "gift Shop Open";
+
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
 $lang['contact-call'] = "Rufen Sie uns an";
