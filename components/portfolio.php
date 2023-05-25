@@ -51,6 +51,7 @@
                         <span><?= $lang['portfolio-otel']; ?></span>
                     </div>
                 </div> -->
+                
                 <!-- Nova Crystal Hotel -->
                 <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/crystalZer/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/3.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/4.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/5.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/6.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/7.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/8.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/9.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/10.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/11.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/12.jpg", "<?= $pageLink ?>/img/portfolio/projects/crystalZer/13.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/crystalZer/12.jpg">
