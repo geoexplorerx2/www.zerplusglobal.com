@@ -27,6 +27,19 @@
 
             <div class="gallery twsty inf-lit full-width">
 
+             <!-- novaPrime -->
+             <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/2.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/3.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/4.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/5.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/6.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/7.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/8.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/9.png"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-31'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
             <!-- Nova Crystal Hotel -->
                 <div class="items hotel three-column mt-50 fancyGallery" data-caption="Nova Crystal Hotel" data-images='["<?= $pageLink ?>/img/portfolio/projects/crystal/10.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/12.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/8.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/9.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/11.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/13.jpg","<?= $pageLink ?>/img/portfolio/projects/crystal/14.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/crystal/cover.jpg" >
@@ -37,19 +50,6 @@
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-1'] ; ?></h5>
                         <span><?= $lang['portfolio-otel']; ?></span>
-                    </div>
-                </div>
-
-                <!-- arpanuofis -->
-                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/arpanuofis/1.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/2.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/3.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/4.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/5.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/6.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/7.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/8.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/arpanuofis/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-2'] ; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
                     </div>
                 </div>
 
@@ -66,7 +66,205 @@
                     </div>
                 </div>
 
-                <!-- dentfix -->
+                <!-- catmaMescitHamam -->
+                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/0.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/1.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/2.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/5.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/6.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/7.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/8.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/9.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/3.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-9'] ; ?></h5>
+                        <span><?= $lang['portfolio-hamam']; ?></span>
+                    </div>
+                </div>
+
+                <!-- coachCoffeePosts -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/2.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/3.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/4.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/5.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/6.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/7.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/8.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/9.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/10.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/11.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-25'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- guzideCumhuriyet -->
+                <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/2.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/4.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideKent/1.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/5.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideKent/2.jpg",
+                    "<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/1.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/3.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-8'] ; ?></h5>
+                        <span><?= $lang['portfolio-restoran']; ?></span>
+                    </div>
+                </div>
+
+                <!-- temenye -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-5.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-3.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-4.webp",
+                    "<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-1.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-2.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/1.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/2.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/3.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/4.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/temenye/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-11'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- zerZurich -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/2.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/3.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/4.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/5.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-27'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Yalova House -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/name/1.jpg","<?= $pageLink ?>/img/portfolio/projects/name/2.jpg","<?= $pageLink ?>/img/portfolio/projects/name/3.jpg","<?= $pageLink ?>/img/portfolio/projects/name/4.jpg","<?= $pageLink ?>/img/portfolio/projects/name/5.jpg","<?= $pageLink ?>/img/portfolio/projects/name/6.jpg","<?= $pageLink ?>/img/portfolio/projects/name/7.jpg","<?= $pageLink ?>/img/portfolio/projects/name/8.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/name/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-33'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+
+                <!-- berlin Ofis -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/2.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/3.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/4.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/5.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/6.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/7.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/8.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/9.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/10.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/11.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/12.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/13.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-26'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Conforcus -->
+                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/6.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/7.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/8.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/9.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/10.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/11.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/12.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-12'] ; ?></h5>
+                        <span><?= $lang['portfolio-ofis']; ?></span>
+                    </div>
+                </div>
+
+                <!-- con4cus images -->
+                <!-- <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/con4cus/1.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/2.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/3.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/4.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/8.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/9.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/con4cus/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-12'] ; ?></h5>
+                        <span><?= $lang['portfolio-ofis']; ?></span>
+                    </div>
+                </div> -->
+
+                <!-- conforcusOpen -->
+                <!-- <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/7.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/8.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/9.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/10.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/11.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/12.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-30'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div> -->
+
+                <!-- TeamPro -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/2.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/3.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/4.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/5.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/6.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/7.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/8.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/9.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/10.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/11.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/12.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/13.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/14.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-28'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- arpanuofis -->
+                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/arpanuofis/1.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/2.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/3.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/4.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/5.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/6.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/7.jpg","<?= $pageLink ?>/img/portfolio/projects/arpanuofis/8.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/arpanuofis/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-2'] ; ?></h5>
+                        <span><?= $lang['portfolio-ofis']; ?></span>
+                    </div>
+                </div>
+
+                <!-- giftShopOpen -->
+                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/7.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-32'] ; ?></h5>
+                        <span><?= $lang['portfolio-konut']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Pişipişi Breakfast House -->
+                <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/pisi/1.jpg","<?= $pageLink ?>/img/portfolio/projects/pisi/2.jpg","<?= $pageLink ?>/img/portfolio/projects/pisi/3.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/pisi/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-10'] ; ?></h5>
+                        <span><?= $lang['portfolio-restoran']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Nova Dental Laboratory Office -->
+                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/lab/4.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/3.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/1.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/5.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/2.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/lab/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-5'] ; ?></h5>
+                        <span><?= $lang['portfolio-ofis']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Dentfix Clinic  -->
                 <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/dentfix/2.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/1.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/8.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/7.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/9.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/4.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/10.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/6.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/3.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/dentfix/cover.jpg">
                         <a href="javascript:;">
@@ -79,16 +277,55 @@
                     </div>
                 </div>
 
-                <!-- lab -->
-                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/lab/4.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/3.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/1.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/5.jpg","<?= $pageLink ?>/img/portfolio/projects/lab/2.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/lab/cover.jpg">
+                <!-- May Atkı Factory -->
+                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/1.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/2.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/3.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/4.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/5.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/6.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/cover.jpg">
                         <a href="javascript:;">
                             <div class="item-img-overlay valign"></div>
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-5'] ; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
+                        <h5 style=''><?= $lang['portfolio-name-13'] ; ?></h5>
+                        <span><?= $lang['portfolio-fabrika']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Nova Plaza Taksim Hotel -->
+                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/taksimSquare/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/3.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/4.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/taksimSquare/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-19'] ; ?></h5>
+                        <span><?= $lang['portfolio-otel']; ?></span>
+                    </div>
+                </div>
+
+                <!-- Nova Plaza Park Hotel -->
+                    <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/parkOtel/1.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/2.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/3.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/4.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/5.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/parkOtel/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-20'] ; ?></h5>
+                        <span><?= $lang['portfolio-otel']; ?></span>
+                    </div>
+                </div>
+
+                <!-- dentfix -->
+                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/dentfix/2.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/1.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/8.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/7.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/9.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/4.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/10.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/6.jpg","<?= $pageLink ?>/img/portfolio/projects/dentfix/3.jpg"]'>
+                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/dentfix/cover.jpg">
+                        <a href="javascript:;">
+                            <div class="item-img-overlay valign"></div>
+                        </a>
+                    </div>
+                    <div class="info mt-10">
+                        <h5 style=''><?= $lang['portfolio-name-4'] ; ?></h5>
+                        <span><?= $lang['portfolio-klinik']; ?></span>
                     </div>
                 </div>
 
@@ -116,110 +353,6 @@
                     <div class="info mt-10">
                         <h5 style=''><?= $lang['portfolio-name-7'] ; ?></h5>
                         <span><?= $lang['portfolio-mimar']; ?></span>
-                    </div>
-                </div>
-
-                <!-- guzideCumhuriyet -->
-                <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/2.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/4.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideKent/1.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/5.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideKent/2.jpg",
-                    "<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/1.jpg","<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/3.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/guzideCumhuriyet/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-8'] ; ?></h5>
-                        <span><?= $lang['portfolio-restoran']; ?></span>
-                    </div>
-                </div>
-
-                <!-- catmaMescitHamam -->
-                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/0.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/1.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/2.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/5.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/6.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/7.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/8.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/9.jpg","<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/3.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/catmaMescitHamam/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-9'] ; ?></h5>
-                        <span><?= $lang['portfolio-hamam']; ?></span>
-                    </div>
-                </div>
-                <!-- taksim hotel -->
-                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/taksimSquare/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/taksimSquare/3.jpg","<?= $pageLink ?>/img/portfolio/projects/taksimSquare/4.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/taksimSquare/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-19'] ; ?></h5>
-                        <span><?= $lang['portfolio-otel']; ?></span>
-                    </div>
-                </div>
-                <!-- park hotel -->
-                <div class="items hotel three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/parkOtel/1.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/2.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/3.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/4.jpg","<?= $pageLink ?>/img/portfolio/projects/parkOtel/5.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/parkOtel/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-20'] ; ?></h5>
-                        <span><?= $lang['portfolio-otel']; ?></span>
-                    </div>
-                </div>
-                
-                <!-- pisi -->
-                <div class="items restaurant theaters three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/pisi/1.jpg","<?= $pageLink ?>/img/portfolio/projects/pisi/2.jpg","<?= $pageLink ?>/img/portfolio/projects/pisi/3.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/pisi/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-10'] ; ?></h5>
-                        <span><?= $lang['portfolio-restoran']; ?></span>
-                    </div>
-                </div>
-
-                <!-- temenye -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-5.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-3.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-4.webp",
-                    "<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-1.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/temenye1-2.webp","<?= $pageLink ?>/img/portfolio/projects/temenye/1.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/2.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/3.jpg","<?= $pageLink ?>/img/portfolio/projects/temenye/4.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/temenye/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-11'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- con4cus images -->
-                    <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/con4cus/1.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/2.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/3.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/4.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/8.jpg","<?= $pageLink ?>/img/portfolio/projects/con4cus/9.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/con4cus/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-12'] ; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
-                    </div>
-                </div>
-
-                <!-- mayAtkRender images -->
-                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/1.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/2.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/3.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/4.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/5.jpg","<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/6.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/mayAtkRender/cover.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-13'] ; ?></h5>
-                        <span><?= $lang['portfolio-fabrika']; ?></span>
                     </div>
                 </div>
 
@@ -312,52 +445,10 @@
                         <h5 style=''><?= $lang['portfolio-name-18'] ; ?></h5>
                         <span><?= $lang['portfolio-fabrika']; ?></span>
                     </div>
-                </div>
-
-
-
-
-                <!-- Berlin Ofis 1 -->
-                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/3.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/4.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/5.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/6.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV1/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-23']; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
-                    </div>
-                </div>
-
-                <!-- Berlin Ofis 2 -->
-                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/1.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/2.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/3.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/4.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/5.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/6.jpg", "<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/7.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/BerlinOfisV2/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-24']; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
-                    </div>
-                </div>
-
-                <!-- Conforcus -->
-                <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/6.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/7.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/8.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/9.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/10.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/11.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/12.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/Conforcus/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-12'] ; ?></h5>
-                        <span><?= $lang['portfolio-ofis']; ?></span>
-                    </div>
-                </div>
+                </div>    
 
                 <!-- CrystalYemekAlanı -->
-                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/6.jpg"]'>
+                <!-- <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/6.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/CrystalYemekAlanı/1.jpg">
                         <a href="javascript:;">
                             <div class="item-img-overlay valign"></div>
@@ -367,10 +458,10 @@
                         <h5 style=''><?= $lang['portfolio-name-3'] ; ?></h5>
                         <span><?= $lang['portfolio-restoran']; ?></span>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Güzide Restaurant -->
-                <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/6.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/7.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/8.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/9.jpg"]'>
+                <!-- <div class="items restaurant three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/4.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/5.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/6.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/7.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/8.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/9.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/NewImages/Guzide/1.jpg">
                         <a href="javascript:;">
                             <div class="item-img-overlay valign"></div>
@@ -380,7 +471,7 @@
                         <h5 style=''><?= $lang['portfolio-name-8'] ; ?></h5>
                         <span><?= $lang['portfolio-restoran']; ?></span>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Mam -->
                 <div class="items office three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/NewImages/Mam/1.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Mam/2.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Mam/3.jpg","<?= $pageLink ?>/img/portfolio/projects/NewImages/Mam/4.jpg"]'>
@@ -420,61 +511,7 @@
                         <span><?= $lang['portfolio-konut']; ?></span>
                     </div>
                 </div>
-
-                <!-- NEW NEW NEW NEW -->
-
-                <!-- coachCoffeePosts -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/2.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/3.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/4.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/5.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/6.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/7.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/8.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/9.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/10.jpg","<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/11.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/coachCoffeePosts/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-25'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- berlin -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/2.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/3.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/4.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/5.jpg","<?= $pageLink ?>/img/portfolio/projects/berlin/6.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/berlin/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-26'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- zerZurich -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/2.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/3.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/4.jpg","<?= $pageLink ?>/img/portfolio/projects/zerZurich/5.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/zerZurich/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-27'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- TeamPro -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/2.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/3.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/4.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/5.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/6.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/7.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/8.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/9.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/10.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/11.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/12.png","<?= $pageLink ?>/img/portfolio/projects/TeamPro/13.jpg","<?= $pageLink ?>/img/portfolio/projects/TeamPro/14.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/TeamPro/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-28'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
+                
                 <!-- novatasfinal -->
                 <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novatasfinal/1.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/2.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/3.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/4.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/5.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/6.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/7.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/8.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/9.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/10.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/1.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/2.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/3.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/4.jpg","<?= $pageLink ?>/img/portfolio/projects/novatasfinal/novatasDetails/5.jpg"]'>
                     <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novatasfinal/1.jpg">
@@ -486,59 +523,7 @@
                         <h5 style=''><?= $lang['portfolio-name-29'] ; ?></h5>
                         <span><?= $lang['portfolio-konut']; ?></span>
                     </div>
-                </div>
-
-                <!-- conforcusOpen -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/7.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/8.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/9.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/10.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/11.jpg","<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/12.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/conforcusOpen/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-30'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- novaPrime -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/2.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/3.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/4.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/5.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/6.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/7.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/8.png","<?= $pageLink ?>/img/portfolio/projects/novaPrime/9.png"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/novaPrime/1.png">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-31'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- giftShopOpen -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/2.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/3.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/4.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/5.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/6.jpg","<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/7.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/giftShopOpen/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-32'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
-
-                <!-- prime hotel -->
-                <div class="items house three-column mt-50 fancyGallery" data-images='["<?= $pageLink ?>/img/portfolio/projects/name/1.jpg","<?= $pageLink ?>/img/portfolio/projects/name/2.jpg","<?= $pageLink ?>/img/portfolio/projects/name/3.jpg","<?= $pageLink ?>/img/portfolio/projects/name/4.jpg","<?= $pageLink ?>/img/portfolio/projects/name/5.jpg","<?= $pageLink ?>/img/portfolio/projects/name/6.jpg","<?= $pageLink ?>/img/portfolio/projects/name/7.jpg","<?= $pageLink ?>/img/portfolio/projects/name/8.jpg"]'>
-                    <div class="item-img bg-img" data-background="<?= $pageLink ?>/img/portfolio/projects/name/1.jpg">
-                        <a href="javascript:;">
-                            <div class="item-img-overlay valign"></div>
-                        </a>
-                    </div>
-                    <div class="info mt-10">
-                        <h5 style=''><?= $lang['portfolio-name-33'] ; ?></h5>
-                        <span><?= $lang['portfolio-konut']; ?></span>
-                    </div>
-                </div>
+                </div>              
             </div>
         </div>
     </div>

@@ -144,7 +144,7 @@ $lang['portfolio-name-6'] = "Mam Event Management";
 $lang['portfolio-name-7'] = "Nova Plaza Pera Hotel";
 $lang['portfolio-name-8'] = "Güzide Restaurant";
 $lang['portfolio-name-9'] = "Çatma Mescit Hammam";
-$lang['portfolio-name-10'] = "Pişi Pişi <br> Breakfast House";
+$lang['portfolio-name-10'] = "Pişipişi Breakfast House";
 $lang['portfolio-name-11'] = "Temenye Residences ";
 $lang['portfolio-name-12'] = "Conforcus IT Solutions Office";
 $lang['portfolio-name-13'] = "May Atkı Factory";
@@ -170,6 +170,7 @@ $lang['portfolio-name-30'] = "Conforcus IT Solutions Office";
 $lang['portfolio-name-31'] = "Nova Plaza Prime Hotel";
 $lang['portfolio-name-32'] = "Nova Plaza Prime Hotel Gift Shop";
 $lang['portfolio-name-33'] = "Nova Plaza Prime Hotel";
+$lang['portfolio-name-33'] = "Yalova House";
 
 ///////////////////////////////////////////////////////////////////////////////
 // CONTACT PAGE:
