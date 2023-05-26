@@ -120,6 +120,7 @@ $lang['portfolio-hayal'] = "Hayal ve İnşa";
 $lang['portfolio-hepsi'] = "Hepsi";
 $lang['portfolio-otel'] = "Otel";
 $lang['portfolio-ofis'] = "Ofis";
+$lang['portfolio-coffee'] = "cafe";
 $lang['portfolio-ticari'] = "Ticari";
 $lang['portfolio-konut'] = "Konut";
 $lang['portfolio-ruhsat'] = "Ruhsat";
