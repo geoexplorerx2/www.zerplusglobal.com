@@ -4,7 +4,7 @@
             
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3-1.webp" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3.1.webp" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
