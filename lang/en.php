@@ -121,6 +121,7 @@ $lang['portfolio-hayal'] = "Dreams to Construct";
 $lang['portfolio-hepsi'] = "ALL";
 $lang['portfolio-otel'] = "HOTEL";
 $lang['portfolio-ofis'] = "OFFICE";
+$lang['portfolio-coffee'] = "COFFEE";
 $lang['portfolio-ticari'] = "COMMERCIAL";
 $lang['portfolio-konut'] = "RESIDENCE";
 $lang['portfolio-ruhsat'] = "BUILDING PERMIT PLAN";
