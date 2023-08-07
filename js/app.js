@@ -1,11 +1,11 @@
 // languages dropdown: 
-$(".language").click(function(){
+$(".language").click(function () {
     var selectedLanguage = $(this).attr("value");
     window.location.href = '/' + selectedLanguage;
 });
 
 // whatsapp btn:
-$(document).ready(function(){
+$(document).ready(function () {
 
     var sendMessage = $("#wp-message").text();
     var sendWpMessage = $("#wp-send-message").text();
@@ -14,9 +14,9 @@ $(document).ready(function(){
         phone: '905465593473',
         popupMessage: sendMessage,
         message: sendWpMessage,
-        showPopup: true,
-        position: "left",
-        linkButton: false,
+        showPopup: false,
+        position: "right",
+        linkButton: true,
         showOnIE: false,
         headerTitle: '<span class="wp-message"> <i class="fa fa-circle active-whatsapp" aria-hidden="true"></i> Zerplus</span>',
         headerColor: 'rgb(9, 94, 84)',
@@ -34,17 +34,17 @@ $(function () {
 
         var bodyScroll = wind.scrollTop(),
             navbar = $(".navbar.change");
-          //logo = $(".navbar.change .logo> img");
+        //logo = $(".navbar.change .logo> img");
 
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-          //  logo.attr('src', 'img/logo-dark.png');
+            //  logo.attr('src', 'img/logo-dark.png');
 
         } else {
 
             navbar.removeClass("nav-scroll");
-        //  logo.attr('src', 'img/logo-light.png');
+            //  logo.attr('src', 'img/logo-light.png');
         }
     });
 
@@ -168,49 +168,49 @@ $(function () {
         grabCursor: true,
         watchSlidesProgress: true,
         autoplay: {
-        delay: 3000,
-        disableOnInteraction: false
+            delay: 3000,
+            disableOnInteraction: false
         },
         pagination: {
             el: '.slid-half .swiper-pagination',
             type: 'fraction',
         },
         navigation: {
-        nextEl: sliderNext,
-        prevEl: sliderPrevious
+            nextEl: sliderNext,
+            prevEl: sliderPrevious
         },
         on: {
-            progress: function() {
+            progress: function () {
                 let swiper = this;
 
                 for (let i = 0; i < swiper.slides.length; i++) {
-                let slideProgress = swiper.slides[i].progress;
-                let innerOffset = swiper.height * interleaveOffset;
-                let innerTranslate = slideProgress * innerOffset;
+                    let slideProgress = swiper.slides[i].progress;
+                    let innerOffset = swiper.height * interleaveOffset;
+                    let innerTranslate = slideProgress * innerOffset;
 
-                TweenMax.set(swiper.slides[i].querySelector(".slide-inner"), {
-                    y: innerTranslate,
-                });
+                    TweenMax.set(swiper.slides[i].querySelector(".slide-inner"), {
+                        y: innerTranslate,
+                    });
                 }
             },
-            touchStart: function() {
+            touchStart: function () {
                 let swiper = this;
                 for (let i = 0; i < swiper.slides.length; i++) {
-                swiper.slides[i].style.transition = "";
+                    swiper.slides[i].style.transition = "";
                 }
             },
-            setTransition: function(speed) {
+            setTransition: function (speed) {
                 let swiper = this;
                 for (let i = 0; i < swiper.slides.length; i++) {
-                swiper.slides[i].style.transition = speed + "ms";
-                swiper.slides[i].querySelector(".slide-inner").style.transition =
-                    speed + "ms";
+                    swiper.slides[i].style.transition = speed + "ms";
+                    swiper.slides[i].querySelector(".slide-inner").style.transition =
+                        speed + "ms";
                 }
             }
         },
     });
 
-    new Swiper ('.brands-slider',  {
+    new Swiper('.brands-slider', {
         slidesPerView: '5',
         spaceBetween: 0,
         loop: true,
@@ -276,7 +276,7 @@ $(function () {
         }
     });
 
-    $(document).ready(function() {
+    $(document).ready(function () {
         $('source', $('#tab-1')).attr('src', $("#tab-1").attr('src'));
     });
     $('.full-bg .cluom').on('mouseenter', function () {
@@ -285,11 +285,11 @@ $(function () {
         $(this).addClass('current');
         $('.glry-img .tab-video ').removeClass('current');
 
-        var srcVideo= $("#" + tab_id).attr('src');
-        var attrSrc= $("#" + tab_id).attr('data-src');
+        var srcVideo = $("#" + tab_id).attr('src');
+        var attrSrc = $("#" + tab_id).attr('data-src');
 
-        if(srcVideo == undefined){
-            $('source', $("#" + tab_id) ).attr('src', attrSrc);
+        if (srcVideo == undefined) {
+            $('source', $("#" + tab_id)).attr('src', attrSrc);
             $("#" + tab_id).addClass('current')[0].load();
         }
         if ($(this).hasClass('current')) {
@@ -305,15 +305,15 @@ $(function () {
         }
     });
 
-    $(".fancyGallery").click(function() {
+    $(".fancyGallery").click(function () {
         var images = $(this).data('images');
-        var imgCaption =  $(this).data('caption');
-        if(images == undefined ){
+        var imgCaption = $(this).data('caption');
+        if (images == undefined) {
             return false
         }
         var arr = [];
-        $(images).each(function( index ,value) {
-            arr.push({src: value ,type: "image", caption:imgCaption})
+        $(images).each(function (index, value) {
+            arr.push({ src: value, type: "image", caption: imgCaption })
         });
         Fancybox.show(arr);
     });
@@ -346,10 +346,10 @@ $(function () {
             }
         ]
     });
-    $(document).ready(function(){
+    $(document).ready(function () {
         $('.carousel').slick({
             slidesToShow: 3,
-            dots:true,
+            dots: true,
             centerMode: true,
         });
     });
@@ -461,7 +461,7 @@ $(window).on("load", function () {
 
     $('.gallery').isotope({
         itemSelector: '.items',
-      });
+    });
 
     var $gallery = $('.gallery').isotope();
 
@@ -500,26 +500,26 @@ $(window).on("load", function () {
     });
 });
 
-$(document).ready(function() {
-$('.myform').on('submit',function(){
+$(document).ready(function () {
+    $('.myform').on('submit', function () {
 
-$('.messages').text('Loading...'); 
+        $('.messages').text('Loading...');
 
-var form = $(this);
-    $.ajax({
-        url: "mail_handler.php",
-        method: form.attr('method'),
-        data: form.serialize(),
-        success: function(result){
-            if (result.search('success')){
-                $('.messages').text('Mesajınızı Aldık!');  
-            } else {
-                $('.messages').text('Hata Oluştu! Lütfen Tekrar Deneyiniz');
+        var form = $(this);
+        $.ajax({
+            url: "mail_handler.php",
+            method: form.attr('method'),
+            data: form.serialize(),
+            success: function (result) {
+                if (result.search('success')) {
+                    $('.messages').text('Mesajınızı Aldık!');
+                } else {
+                    $('.messages').text('Hata Oluştu! Lütfen Tekrar Deneyiniz');
+                }
             }
-        }
-    });
+        });
 
-    return false;   
+        return false;
     });
 });
 
@@ -592,20 +592,20 @@ $(function () {
 var input = document.querySelector("#phone");
 window.intlTelInput(input, {
     initialCountry: "auto",
-    geoIpLookup: function(callback) {
-      $.get('https://ipinfo.io?token=50e05e240bcaa2', function() {}, "jsonp").always(function(resp) {
-        var countryCode = (resp && resp.country) ? resp.country : "us";
-        callback(countryCode);
-      });
+    geoIpLookup: function (callback) {
+        $.get('https://ipinfo.io?token=50e05e240bcaa2', function () { }, "jsonp").always(function (resp) {
+            var countryCode = (resp && resp.country) ? resp.country : "us";
+            callback(countryCode);
+        });
     },
     utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/utils.js" // just for formatting/placeholders etc
-  });
+});
 
-$(document).ready(function() {
-    $(document).hover(function() { 
-      var countryCode = $('.iti__selected-flag').attr('title');
-      var countryCode = countryCode.replace(/[^0-9]/g,'')
-      $('#phone').val("");
-      $('#phone').val("+"+countryCode+" "+ $('#phone').val());
-   });
+$(document).ready(function () {
+    $(document).hover(function () {
+        var countryCode = $('.iti__selected-flag').attr('title');
+        var countryCode = countryCode.replace(/[^0-9]/g, '')
+        $('#phone').val("");
+        $('#phone').val("+" + countryCode + " " + $('#phone').val());
+    });
 });
