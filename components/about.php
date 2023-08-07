@@ -159,11 +159,11 @@
         </div>
 
         <div class="row">
-            <div class="col-md-4 col-6">
+            <!-- <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ahmet.murat.jpg" width="90">
                     <h5 class="mt-3 name">Ahmet Murat U.</h5><span class="work d-block"><?= $lang['job-title-1']; ?></span>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-4 col-6">
                 <div class="teamWhite teamHover p-3 text-center rounded teamBox"><img class="img-responsive team-img rounded-circle" src="<?= $pageLink ?>/img/team/ilkim.jpg" width="90">
                     <h5 class="mt-3 name">Ilkim F.</h5><span class="work d-block"><?= $lang['job-title-1']; ?></span>
