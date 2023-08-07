@@ -14,7 +14,7 @@ $(document).ready(function(){
         phone: '905465593473',
         popupMessage: sendMessage,
         message: sendWpMessage,
-        showPopup: true,
+        showPopup: false,
         position: "left",
         linkButton: false,
         showOnIE: false,
