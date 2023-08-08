@@ -24,20 +24,17 @@ $mail = new PHPMailer(true);
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.hotelistan.com';                     //Set the SMTP server to send through
+    $mail->Host       = 'mail.zerplusglobal.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'mo.alsaleh@hotelistan.com';                     //SMTP username
-    $mail->Password   = 'hkYrlYRMd';                               //SMTP password
+    $mail->Username   = 'info@zerplusglobal.com';                     //SMTP username
+    $mail->Password   = 'Zerplus2022++';                               //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
     $recipients = array(
-        'melikesimsek@zerplusglobal.com' => 'melikesimsek@zerplusglobal',
-        'ahmeteminturk@zerplusglobal.com' => 'ahmeteminturk@zerplusglobal',
-        'melihozbilge@zerplusglobal.com' => 'melihozbilge@zerplusglobal',
-        'ilkim@zerplusglobal.com' => 'ilkim@zerplusglobal',
-        'mo.alsaleh@hotelistan.com' => 'mo.alsaleh@hotelistan',
+        'farshadn@hotelistan.com' => 'farshad',
+        'adnane.sougmi@hotelistan.com' => 'Adnane Sougmi',
     );
 
     foreach($recipients as $email => $recName)
