@@ -203,3 +203,6 @@ $lang['name-5'] = "Batuhan Aydoğdu,";
 $lang['name-6'] = "Samet Karaman,";
 $lang['name-7'] = "Sami Mutlu,";
 $lang['name-8'] = "Ali Atakan,";
+
+$lang['thanks'] = "Thank You!";
+$lang['thanks-text'] = "Thank you for getting in touch! We appreciate you contacting us. One of our colleagues will get back in touch with you soon! Have a great day!";

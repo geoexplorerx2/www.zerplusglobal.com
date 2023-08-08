@@ -39,7 +39,7 @@ $mail = new PHPMailer(true);
 
     foreach($recipients as $email => $recName)
         {
-        $mail->AddCC($email, $recName);
+        $mail->addAddress($email, $recName);
         }
 
     //Content

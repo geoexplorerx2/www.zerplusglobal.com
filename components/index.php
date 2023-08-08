@@ -4,7 +4,7 @@
             
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-3.1.webp" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-5.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -37,7 +37,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-2.webp" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-3.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -70,7 +70,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" loading='lazy' data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></div>
+                    <div class="bg-img" loading='lazy' data-background="<?= $pageLink ?>/img/slid/slider-1.jpg" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -106,7 +106,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-5.webp" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-2.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -142,7 +142,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-6.webp" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-4.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -176,41 +176,6 @@
                 </div>
             </div>
 
-            <div class="cta__slider-item swiper-slide">
-                <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slide-4.webp" data-overlay-dark="5"></amp-img>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-10 offset-lg-1">
-                                <div class="caption">
-                                    <span class="top-corn"></span>
-                                    <span class="bottom-corn"></span>
-                                    <div class="custom-font">
-                                        <!-- <h5 class="thin custom-font">Yenilikçi</h5> -->
-                                        <h1 data-splitting><a href="javascript:;">
-                                                <?= $lang['intro-title-6']; ?>
-                                            </a>
-                                        </h1>
-                                    </div>
-                                    <p><?= $lang['intro-desc-6']; ?></p>
-                                    <a href="<?php
-                                        if($subUrl == '/' || $subUrl == '' || $subUrl == 'about' || $subUrl == 'portfolio'|| $subUrl == 'contact') echo "/"; 
-                                        if($subUrl == '/en/' || $subUrl == 'en') echo "/en/";
-                                        if($subUrl == '/de/' || $subUrl == 'de') echo "/de/"; 
-                                        if($subUrl == '/tr/' || $subUrl == 'tr') echo "/tr/"; 
-                                        if($subUrl == '/fr/' || $subUrl == 'fr') echo "/fr/"; 
-                                        if($subUrl == '/it/' || $subUrl == 'it') echo "/it/"; 
-                                        if($subUrl == '/ru/' || $subUrl == 'ru') echo "/ru/";
-                                        if($subUrl == '/es/' || $subUrl == 'es') echo "/es/"; 
-                                    ?>portfolio" class="btn-curve btn-color mt-30">
-                                        <span><?= $lang['button-kesfet']; ?></span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
 
         <div class="cta__slider-arrows">
@@ -369,7 +334,7 @@
 <section class="portfolio full-bg full-video d-md-block d-none">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-3 col-6 cluom current" data-tab="tab-1" data-poster="<?= $pageLink ?>/img/poster.png" data-video="<?= $pageLink ?>/video/video-1.mp4">
+            <div class="col-lg-4 col-6 cluom current" data-tab="tab-1" data-poster="<?= $pageLink ?>/img/poster.png" data-video="<?= $pageLink ?>/video/video-1.mp4">
                 <div class="fullscreen-bg">
                     <div class="info">
                         <h5><?= $lang['name-1']; ?></h5>
@@ -379,7 +344,7 @@
 <!--                    </div>-->
                 </div>
             </div>
-            <div class="col-lg-3 col-6 cluom current " data-tab="tab-2" data-video="<?= $pageLink ?>/video/video-2.mp4">
+            <div class="col-lg-4 col-6 cluom current " data-tab="tab-2" data-video="<?= $pageLink ?>/video/video-2.mp4">
                 <div class="info">
                     <h5><?= $lang['name-2']; ?></h5>
                 </div>
@@ -387,15 +352,7 @@
 <!--                     <a href="#0"><?= $lang['button-goruntule']; ?> <i class="fas fa-chevron-right"></i></a>-->
 <!--                 </div>-->
             </div>
-            <div class="col-lg-3 col-6 cluom " data-tab="tab-3" data-video="<?= $pageLink ?>/video/video-3.mp4">
-                <div class="info">
-                    <h5><?= $lang['name-4']; ?></h5>
-                </div>
-<!--               <div class="more">-->
-<!--                   <a href="#0"><?= $lang['button-goruntule']; ?> <i class="fas fa-chevron-right"></i></a>-->
-<!--               </div>-->
-            </div>
-            <div class="col-lg-3 col-6 cluom" data-tab="tab-4" data-video="<?= $pageLink ?>/video/video-4.mp4">
+            <div class="col-lg-4 col-6 cluom" data-tab="tab-4" data-video="<?= $pageLink ?>/video/video-4.mp4">
                 <div class="info">
                    <h5><?= $lang['name-3']; ?></h5>
                 </div>
@@ -449,11 +406,6 @@
                 <div class="item swiper-slide">
                     <div class="img">
                         <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/nova.svg" width="125" height="30" alt="">
-                    </div>
-                </div>
-                <div class="item swiper-slide">
-                    <div class="img" >
-                        <img loading='lazy' src="<?= $pageLink ?>/img/clients/brands/mam.png" width="125" height="35" alt="" style="padding: 0rem;" >
                     </div>
                 </div>
                 <div class="item swiper-slide">
