@@ -57,7 +57,7 @@
 
                 </div>
                 <div class="col-lg-6 form">
-                    <form class="myform" action="<?php echo('/thanks') ?>" method="post" >
+                    <form class="myform" action="<?php echo($lang['thanks-link']) ?>" method="post" >
 
                         <div class="messages"></div>
 

@@ -5,3 +5,4 @@
 <?php include('../components/contact.php'); ?>
 
 <?php include('../components/layouts/footer.php'); ?>
+<?php $lang = 'de';?>

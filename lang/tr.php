@@ -203,3 +203,4 @@ $lang['name-8'] = "Ali Atakan,";
 
 $lang['thanks'] = "Teşekkür Ederiz!";
 $lang['thanks-text'] = "Bizimle iletişime geçtiğiniz için teşekkürler! Meslektaşlarımızdan biri yakında sizinle iletişime geçecektir! İyi günler!";
+$lang['thanks-link'] = "/thanks";

@@ -1,5 +1,5 @@
-<?php include('inc/config.php'); ?>
-<?php include('lang/de.php'); ?>
+<?php include('../inc/config.php'); ?>
+<?php include('../lang/de.php'); ?>
 <header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp)" data-overlay-dark="5">
     <div class="container">
         <div class="row contact-top-margin">
@@ -51,5 +51,5 @@
     </div>
 </section>
 
-<?php include('components/layouts/header.php'); ?>
-<?php include('components/layouts/footer.php'); ?>
+<?php include('../components/layouts/header.php'); ?>
+<?php include('../components/layouts/footer.php'); ?>

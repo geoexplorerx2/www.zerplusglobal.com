@@ -206,3 +206,4 @@ $lang['name-8'] = "Ali Atakan,";
 
 $lang['thanks'] = "Thank You!";
 $lang['thanks-text'] = "Thank you for getting in touch! We appreciate you contacting us. One of our colleagues will get back in touch with you soon! Have a great day!";
+$lang['thanks-link'] = "/de/thanks";
