@@ -33,8 +33,7 @@ $mail = new PHPMailer(true);
 
     //Recipients
     $recipients = array(
-        'farshadn@hotelistan.com' => 'farshad',
-        'adnane.sougmi@hotelistan.com' => 'Adnane Sougmi',
+        'info@zerplusglobal.com' => 'ZerPlus Global',
     );
 
     foreach($recipients as $email => $recName)
@@ -43,7 +42,7 @@ $mail = new PHPMailer(true);
         }
 
     //Content
-    $mail->setFrom('info@zerplus.com', 'ZerPlus');
+    $mail->setFrom('info@zerplusglobal.com', 'ZerPlus');
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = 'New Message from ZerPlus' ;
     $mail->Body    = 'Name: ' . $name . '<br>' . 
