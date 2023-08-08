@@ -11,22 +11,22 @@ $lang['nav-contact'] = "Contact";
 
 // INDEX PAGE:
 // Hero Section:
-$lang['intro-title-1'] = "Functional Solutions";
+$lang['intro-title-1'] = "FUNCTIONAL SOLUTIONS";
 $lang['intro-desc-1'] = "We design spaces that satisfy vital necessities through smart solutions.";
 
-$lang['intro-title-2'] = "Impressive Designs";
+$lang['intro-title-2'] = "IMPRESSIVE DESIGNS";
 $lang['intro-desc-2'] = "Through our unique designs we create living, striking and stylish spaces.";
 
-$lang['intro-title-3'] = "Comfortable Living Spaces";
+$lang['intro-title-3'] = "COMFORTABLE LIVING SPACES";
 $lang['intro-desc-3'] = "We create human-centered living spaces to add value and enhance people’s lives.";
 
-$lang['intro-title-4'] = "Timeless Places ";
+$lang['intro-title-4'] = "TIMELESS PLACES ";
 $lang['intro-desc-4'] = "We incorporate unity to design timeless interiors; turning your dreamplace into reality.";
 
-$lang['intro-title-5'] = "Unique Themes";
+$lang['intro-title-5'] = "UNIQUE THEMES";
 $lang['intro-desc-5'] = "We create eye-catching living spaces through inspirational architectural designs.";
 
-$lang['intro-title-6'] = "Innovational Approach";
+$lang['intro-title-6'] = "INNOVATIONAL APPROACH";
 $lang['intro-desc-6'] = "We transform our bold, innovative and distinctive ideas into inspiring interiors.";
 
 // Buttons:
