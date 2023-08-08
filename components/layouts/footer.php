@@ -133,7 +133,7 @@
     </footer>
 
     <!-- whatsapp btn start -->
-    <div id="whatsappBtn"></div>
+    <div id="whatsappBtn" class="wp-link"></div>
     <div class="d-none">
         <p id="wp-send-message"><?= $lang['whatsapp-1']; ?></p>
         <p id="wp-message"><?= $lang['whatsapp-2']; ?></p>

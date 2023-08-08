@@ -1,7 +1,7 @@
 <?php include('../inc/config.php'); ?>
-<?php include('../lang/de.php'); ?>
-<header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp)" data-overlay-dark="5">
-    <div class="container">
+<?php include('../lang/en.php'); ?>
+<header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp);height: 10%;" data-overlay-dark="5">
+    <!-- <div class="container">
         <div class="row contact-top-margin">
             <div class="col-lg-12">
                 <div class="cont text-center">
@@ -12,7 +12,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </header>
 <style>
     .body {
@@ -40,7 +40,7 @@
         font-size: 20px;
     }
 </style>
-<section class="contact">
+<section class="contact" style="margin: 100px 0 100px 0;">
     <div class="body">
         <div class="title">
         <?= $lang['thanks']; ?>

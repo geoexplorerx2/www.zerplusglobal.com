@@ -1,7 +1,7 @@
-<?php include('../inc/config.php'); ?>
-<?php include('../lang/en.php'); ?>
-<header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp)" data-overlay-dark="5">
-    <div class="container">
+<?php include('inc/config.php'); ?>
+<?php include('lang/tr.php'); ?>
+<header class="pages-header valign " style="background: url(<?= $pageLink ?>/img/contact.webp);height: 10%;" data-overlay-dark="5">
+    <!-- <div class="container">
         <div class="row contact-top-margin">
             <div class="col-lg-12">
                 <div class="cont text-center">
@@ -12,7 +12,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </header>
 <style>
     .body {
@@ -40,16 +40,16 @@
         font-size: 20px;
     }
 </style>
-<section class="contact">
+<section class="contact" style="margin: 100px 0 100px 0;">
     <div class="body">
         <div class="title">
-        <?= $lang['thanks']; ?>
+        Thank You!
         </div>
         <div class="message">
-            <?= $lang['thanks-text']; ?>
+        Thank you for getting in touch! We appreciate you contacting us. One of our colleagues will get back in touch with you soon! Have a great day!
         </div>
     </div>
 </section>
 
-<?php include('../components/layouts/header.php'); ?>
-<?php include('../components/layouts/footer.php'); ?>
+<?php include('components/layouts/header.php'); ?>
+<?php include('components/layouts/footer.php'); ?>
