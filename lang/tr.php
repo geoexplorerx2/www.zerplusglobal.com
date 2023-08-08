@@ -11,20 +11,20 @@ $lang['nav-contact'] = "İletişim";
 
 // INDEX PAGE:
 // Hero Section:
-$lang['intro-title-1'] = "İşlevsel Çözümler";
-$lang['intro-desc-1'] = "Yaşamsal gereksinimleri akılcı çözümlerle <br> karşılayan zamansız mekânlar tasarlıyoruz.";
+$lang['intro-title-1'] = "İŞLEVSEL ÇÖZÜMLER";
+$lang['intro-desc-1'] = "İlham verici tasarımlar ile mekanın göz alıcı <br> bir görünüme kavuşmasını sağlıyoruz";
 
-$lang['intro-title-2'] = "Etkili Tasarım";
-$lang['intro-desc-2'] = "Özgün tasarımlarımızla yaşayan, <br> çarpıcı ve şık yaşamsal alanlar yaratıyoruz.";
+$lang['intro-title-2'] = "ZAMANSIZ TEMALAR";
+$lang['intro-desc-2'] = "Kullanıcı deneyimi odaklı yaşam alanları <br> ile ihtiyaçları eyleme dönüştürüyoruz";
 
-$lang['intro-title-3'] = "Yaşanabilir Konfor Alanları";
-$lang['intro-desc-3'] = "Kullanıcı deneyimi odaklı yaşam alanları ile ihtiyaçları eyleme dönüştürüyoruz.";
+$lang['intro-title-3'] = "YENİLİKÇİ DETAYLAR";
+$lang['intro-desc-3'] = "Cesur, yenilikçi ve farklı fikirlerimizi ilham <br> veren iç mekanlara dönüştürüyoruz";
 
-$lang['intro-title-4'] = "Zamansız Mekanlar";
-$lang['intro-desc-4'] = "Eksiksiz iç tasarım ve dekorasyon ile hayalinizdeki mekânı gerçekliğe taşıyoruz.";
+$lang['intro-title-4'] = "YARATICI TASARIMLAR";
+$lang['intro-desc-4'] = "Özgün tasarımlarımızla yaşayan, çarpıcı <br> ve şık yaşamsal alanlar yaratıyoruz.";
 
-$lang['intro-title-5'] = "Özgün Temalar";
-$lang['intro-desc-5'] = "İlham verici tasarımlar ile mekânın göz alıcı bir görünüme kavuşmasını sağlıyoruz.";
+$lang['intro-title-5'] = "ESTETİK DETAYLAR";
+$lang['intro-desc-5'] = "Yaşamsal gereksinimleri akılcı çözümlerle <br> karşılayan zamansız mekanlar tasarlıyoruz.";
 
 $lang['intro-title-6'] = "Yenilikçi Yaklaşım";
 $lang['intro-desc-6'] = "Cesur, yenilikçi ve farklı fikirlerimizi <br> ilham veren iç mekânlara dönüştürüyoruz.";

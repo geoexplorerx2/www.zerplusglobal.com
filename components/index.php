@@ -4,7 +4,7 @@
             
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-5.jpg" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-1.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -37,7 +37,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-3.jpg" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-2.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -70,7 +70,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <div class="bg-img" loading='lazy' data-background="<?= $pageLink ?>/img/slid/slider-1.jpg" data-overlay-dark="5"></div>
+                    <div class="bg-img" loading='lazy' data-background="<?= $pageLink ?>/img/slid/slider-3.jpg" data-overlay-dark="5"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -106,7 +106,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-2.jpg" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-4.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -142,7 +142,7 @@
 
             <div class="cta__slider-item swiper-slide">
                 <div class="media-wrapper slide-inner valign">
-                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-4.jpg" data-overlay-dark="5"></amp-img>
+                    <amp-img class="bg-img" data-background="<?= $pageLink ?>/img/slid/slider-5.jpg" data-overlay-dark="5"></amp-img>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
