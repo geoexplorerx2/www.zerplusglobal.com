@@ -63,8 +63,7 @@
 
                         <div class="controls">
                             <div class="form-group">
-                                <input id="form_name" type="text" name="name" placeholder="<?= $lang['placeholder-1']; ?>" 
-                                    required="required">
+                                <input id="form_name" type="text" name="name" placeholder="<?= $lang['placeholder-1']; ?>" >
                             </div>
                         
                             <div class="form-group">
@@ -72,13 +71,11 @@
                             </div>                            
 
                             <div class="form-group">
-                                <input id="form_email" type="email" name="email" placeholder="<?= $lang['placeholder-3']; ?>"
-                                    required="required">
+                                <input id="form_email" type="email" name="email" placeholder="<?= $lang['placeholder-3']; ?>">
                             </div>
 
                             <div class="form-group">
-                                <textarea id="form_message" name="message" placeholder="<?= $lang['placeholder-4']; ?>" rows="4"
-                                    required="required"></textarea>
+                                <textarea id="form_message" name="message" placeholder="<?= $lang['placeholder-4']; ?>" rows="4"></textarea>
                             </div>
 
                             <button type="submit" class="btn-curve btn-color" name="submit"><span><?= $lang['button-gonder']; ?> </span></button>

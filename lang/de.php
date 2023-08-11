@@ -197,7 +197,7 @@ $lang['whatsapp-3'] = "Kontaktieren Sie uns";
 $lang['name-1'] = "Hotelistan";
 $lang['name-2'] = "Nova Plaza Crystal Hotel";
 $lang['name-3'] = "Nova Plaza Crystal Hotel <br> Speisesaal";
-$lang['name-4'] = "Mam Event Management";
+$lang['name-4'] = "NovaPrime Gift Shop";
 
 $lang['name-5'] = "Batuhan Aydoğdu,";
 $lang['name-6'] = "Samet Karaman,";
